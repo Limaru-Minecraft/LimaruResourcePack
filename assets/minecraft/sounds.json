@@ -1,0 +1,32 @@
+{
+    "train.doorclosing": {
+        "sounds": [
+            "train/doorclosing"
+        ]
+    },
+    "train.doorclose": {
+        "sounds": [
+            "train/doorclose"
+        ]
+    },
+    "train.dooropen": {
+        "sounds": [
+            "train/dooropen"
+        ]
+    },
+    "train.points": {
+        "sounds": [
+            "train/points"
+        ]
+    },
+    "train.outside": {
+        "sounds": [
+            "train/outside"
+        ]
+    },
+    "train.tunnel": {
+        "sounds": [
+            "train/tunnel"
+        ]
+    }
+}

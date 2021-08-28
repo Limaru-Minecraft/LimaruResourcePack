@@ -1,0 +1,110 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_ingot"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "item/ekimod/ekibench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "item/ekimod/ekiticketvendor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "item/ekimod/faregateclosed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "item/ekimod/faregateopen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "item/cityscenery/bicyclewhite_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "item/cityscenery/bicyclered_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20003
+      },
+      "model": "item/cityscenery/bicycleyellow_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20004
+      },
+      "model": "item/cityscenery/bicyclegreen_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20005
+      },
+      "model": "item/cityscenery/bicycleblue_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20006
+      },
+      "model": "item/cityscenery/bicyclegrey_parked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20013
+      },
+      "model": "item/cityscenery/bicycleyellow_back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20014
+      },
+      "model": "item/cityscenery/bicycleyellow_front"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20021
+      },
+      "model": "item/cityscenery/rail_minecart_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20022
+      },
+      "model": "item/cityscenery/rail_1435_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20023
+      },
+      "model": "item/cityscenery/rail_1435_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20024
+      },
+      "model": "item/cityscenery/rail_minecart_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20025
+      },
+      "model": "item/cityscenery/rail_minecart_d"
+    }
+  ]
+}
