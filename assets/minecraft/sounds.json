@@ -33,5 +33,10 @@
         "sounds": [
             "train/ycm/doorclosing"
         ]
+    },
+    "entity.player.death": {
+        "sounds": [
+            "entity/player/death"
+        ]
     }
 }
