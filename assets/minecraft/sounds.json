@@ -38,5 +38,10 @@
         "sounds": [
             "entity/player/death"
         ]
+    },
+    "parliament.order": {
+        "sounds": [
+            "parliament/order"
+        ]
     }
 }
