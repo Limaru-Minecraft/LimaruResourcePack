@@ -28,5 +28,10 @@
         "sounds": [
             "train/tunnel"
         ]
+    },
+    "train.ycm.doorclosing": {
+        "sounds": [
+            "train/ycm/doorclosing"
+        ]
     }
 }
