@@ -11,7 +11,7 @@
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 4 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.12121212121212122}, "model": "item/trainmodel/C23"},
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 5 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.15151515151515152}, "model": "item/trainmodel/C23head"},
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 6 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.18181818181818182}, "model": "item/trainmodel/C23door"},
-		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 7 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.21212121212121213}, "model": "item/model0/model0_bogie_doors"},
+		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 7 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.21212121212121213}, "model": "item/trainmodel/Lipan500"},
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 8 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.24242424242424243}, "model": "item/model0/model0_bogie"},
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 9 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.2727272727272727}, "model": "item/model0/model0"},
 		{ "_cmd_": "give @p minecraft:golden_pickaxe 1 10 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.30303030303030304}, "model": "item/odaden/tram_local_end"},
