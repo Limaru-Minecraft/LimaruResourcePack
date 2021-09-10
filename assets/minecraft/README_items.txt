@@ -2,6 +2,8 @@ Use iron_ingot for all rails.
 
 Use golden_pickaxe and golden_hoe for all train models.
 
+Use golden_hoe for rollsigns.
+
 iron_ingot predicates:
 1xxxx: misc
 2xxxx: rails
