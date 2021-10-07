@@ -34,6 +34,26 @@
             "train/ycm/doorclosing"
         ]
     },
+    "train.ycm.cielo_estrellado": {
+        "sounds": [
+            "train/ycm/cielo_estrellado"
+        ]
+    },
+    "train.ycm.sunlight": {
+        "sounds": [
+            "train/ycm/sunlight"
+        ]
+    },
+    "train.ycm.flower_shop": {
+        "sounds": [
+            "train/ycm/flower_shop"
+        ]
+    },
+    "train.ycm.spring_breeze": {
+        "sounds": [
+            "train/ycm/spring_breeze"
+        ]
+    },
     "entity.player.death": {
         "sounds": [
             "entity/player/death"
