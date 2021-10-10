@@ -49,6 +49,11 @@
             "train/ycm/flower_shop"
         ]
     },
+    "train.ycm.osaka_tune": {
+        "sounds": [
+            "train/ycm/osaka_tune"
+        ]
+    },
     "train.ycm.sea_green": {
         "sounds": [
             "train/ycm/sea_green"
