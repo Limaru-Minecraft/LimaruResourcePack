@@ -34,14 +34,14 @@
             "train/ycm/doorclosing"
         ]
     },
+    "train.ycm.aftermath": {
+        "sounds": [
+            "train/ycm/aftermath"
+        ]
+    },
     "train.ycm.cielo_estrellado": {
         "sounds": [
             "train/ycm/cielo_estrellado"
-        ]
-    },
-    "train.ycm.sunlight": {
-        "sounds": [
-            "train/ycm/sunlight"
         ]
     },
     "train.ycm.flower_shop": {
@@ -49,9 +49,34 @@
             "train/ycm/flower_shop"
         ]
     },
+    "train.ycm.sea_green": {
+        "sounds": [
+            "train/ycm/sea_green"
+        ]
+    },
     "train.ycm.spring_breeze": {
         "sounds": [
             "train/ycm/spring_breeze"
+        ]
+    },
+    "train.ycm.sunlight": {
+        "sounds": [
+            "train/ycm/sunlight"
+        ]
+    },
+    "train.ycm.the_star_festival": {
+        "sounds": [
+            "train/ycm/the_star_festival"
+        ]
+    },
+    "train.ycm.water_crown": {
+        "sounds": [
+            "train/ycm/water_crown"
+        ]
+    },
+    "train.ycm.ycm_01": {
+        "sounds": [
+            "train/ycm/ycm_01"
         ]
     },
     "entity.player.death": {
