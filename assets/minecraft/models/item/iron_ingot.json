@@ -7,19 +7,9 @@
 
     {
       "predicate": {
-        "custom_model_data": 20021
-      },
-      "model": "item/railmodel/rail_normal_lightgrayconcretepowder"
-    },
-
-
-
-
-    {
-      "predicate": {
         "custom_model_data": 20031
       },
-      "model": "item/railmodel/rail_normal_gravel"
+      "model": "item/railmodel/rail"
     }
   ]
 }
