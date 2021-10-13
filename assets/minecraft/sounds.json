@@ -49,6 +49,11 @@
             "train/ycm/flower_shop"
         ]
     },
+    "train.ycm.gota_del_vient": {
+        "sounds": [
+            "train/ycm/gota_del_vient"
+        ]
+    },
     "train.ycm.osaka_tune": {
         "sounds": [
             "train/ycm/osaka_tune"
@@ -82,6 +87,61 @@
     "train.ycm.ycm_01": {
         "sounds": [
             "train/ycm/ycm_01"
+        ]
+    },
+    "train.ycm.ycm_06": {
+        "sounds": [
+            "train/ycm/ycm_06"
+        ]
+    },
+    "train.ycm.lakeside": {
+        "sounds": [
+            "train/ycm/Lakeside"
+        ]
+    },
+    "train.ycm.solutional_park_1": {
+        "sounds": [
+            "train/ycm/Solutional_Park_1"
+        ]
+    },
+    "train.ycm.solutional_park_2": {
+        "sounds": [
+            "train/ycm/Solutional_Park_2"
+        ]
+    },
+    "train.ycm.solutional_park_3": {
+        "sounds": [
+            "train/ycm/Solutional_Park_3"
+        ]
+    },
+    "train.ycm.solutional_park_4": {
+        "sounds": [
+            "train/ycm/Solutional_Park_4"
+        ]
+    },
+    "train.ycm.chiaki": {
+        "sounds": [
+            "train/ycm/Chiaki"
+        ]
+    },
+    "train.ycm.mount_lipan": {
+        "sounds": [
+            "train/ycm/Mount_Lipan"
+        ]
+    },
+    "train.ycm.inoriye_1": {
+        "sounds": [
+            "train/ycm/Inoriye_1"
+        ]
+    },
+    "train.ycm.inoriye_2": {
+        "sounds": [
+            "train/ycm/Inoriye_2"
+        ]
+    },
+    "train.ycm.island_tip": {
+        "sounds": [
+            "train/ycm/Island_Tip"
         ]
     },
     "entity.player.death": {
