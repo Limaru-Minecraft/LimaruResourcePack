@@ -144,6 +144,11 @@
             "train/ycm/Island_Tip"
         ]
     },
+    "train.ycm.nextstation.solutional_park_sb": {
+        "sounds": [
+            "train/ycm/next_station/solutional_park_southbound"
+        ]
+    },
     "entity.player.death": {
         "sounds": [
             "entity/player/death"
