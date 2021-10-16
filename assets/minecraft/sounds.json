@@ -29,6 +29,11 @@
             "train/tunnel"
         ]
     },
+    "train.ycm.chime": {
+        "sounds": [
+            "train/ycm/chime"
+        ]
+    },
     "train.ycm.doorclosing": {
         "sounds": [
             "train/ycm/doorclosing"
@@ -144,9 +149,49 @@
             "train/ycm/Island_Tip"
         ]
     },
-    "train.ycm.nextstation.solutional_park_sb": {
+    "train.ycm.nextstation.solutional_park_n": {
+        "sounds": [
+            "train/ycm/next_station/solutional_park_northbound"
+        ]
+    },
+    "train.ycm.nextstation.solutional_park_s": {
         "sounds": [
             "train/ycm/next_station/solutional_park_southbound"
+        ]
+    },
+    "train.ycm.nextstation.crossover_solutional_park": {
+        "sounds": [
+            "train/ycm/next_station/crossover_solutional_park"
+        ]
+    },
+    "train.ycm.nextstation.lakeside": {
+        "sounds": [
+            "train/ycm/next_station/lakeside"
+        ]
+    },
+    "train.ycm.nextstation.chiaki": {
+        "sounds": [
+            "train/ycm/next_station/chiaki"
+        ]
+    },
+    "train.ycm.nextstation.mount_lipan": {
+        "sounds": [
+            "train/ycm/next_station/mount_lipan"
+        ]
+    },
+    "train.ycm.nextstation.inoriye_nb": {
+        "sounds": [
+            "train/ycm/next_station/inoriye_northbound"
+        ]
+    },
+    "train.ycm.nextstation.inoriye_sb": {
+        "sounds": [
+            "train/ycm/next_station/inoriye_southbound"
+        ]
+    },
+    "train.ycm.nextstation.island_tip": {
+        "sounds": [
+            "train/ycm/next_station/island_tip"
         ]
     },
     "entity.player.death": {
