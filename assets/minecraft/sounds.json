@@ -39,6 +39,11 @@
             "train/ycm/doorclosing"
         ]
     },
+    "train.ycm.train_service_ends": {
+        "sounds": [
+            "train/ycm/train_service_ends"
+        ]
+    },
     "train.ycm.aftermath": {
         "sounds": [
             "train/ycm/aftermath"
@@ -159,9 +164,14 @@
             "train/ycm/next_station/solutional_park_southbound"
         ]
     },
-    "train.ycm.nextstation.crossover_solutional_park": {
+    "train.ycm.nextstation.crossover_solutional_park_nb": {
         "sounds": [
-            "train/ycm/next_station/crossover_solutional_park"
+            "train/ycm/next_station/crossover_solutional_park_nb"
+        ]
+    },
+    "train.ycm.nextstation.crossover_solutional_park_sb": {
+        "sounds": [
+            "train/ycm/next_station/crossover_solutional_park_sb"
         ]
     },
     "train.ycm.nextstation.lakeside": {
