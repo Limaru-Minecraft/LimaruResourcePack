@@ -213,5 +213,10 @@
         "sounds": [
             "parliament/order"
         ]
+    },
+    "alarm.alarm_test": {
+        "sounds": [
+            "alarm/alarm_test"
+        ]
     }
 }
