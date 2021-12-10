@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/honey_block_side",
+		"0": "block/horn_coral_block",
 		"1": "block/black_wool",
-		"particle": "block/honey_block_side"
+		"particle": "block/horn_coral_block"
 	},
 	"elements": [
 		{
@@ -226,7 +226,10 @@
 				"down": {"uv": [0, 0, 0.5, 2], "texture": "#1"}
 			}
 		}
-	], "display": {
-		"scale": [2, 2, 2]
+	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
 	}
 }
