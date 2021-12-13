@@ -218,5 +218,10 @@
         "sounds": [
             "alarm/alarm_test"
         ]
+    },
+    "alarm.lab_alarm": {
+        "sounds": [
+            "alarm/lab_alarm"
+        ]
     }
 }
