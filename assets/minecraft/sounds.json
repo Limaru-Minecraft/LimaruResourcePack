@@ -204,6 +204,26 @@
             "train/ycm/next_station/island_tip"
         ]
     },
+    "train.ycm.arriving.solpark_lll_2": {
+        "sounds": [
+            "train/ycm/arriving/solpark_lll_2"
+        ]
+    },
+    "train.ycm.arriving.solpark_lll_3": {
+        "sounds": [
+            "train/ycm/arriving/solpark_lll_3"
+        ]
+    },
+    "train.ycm.arriving.solpark_nsl_1": {
+        "sounds": [
+            "train/ycm/arriving/solpark_nsl_1"
+        ]
+    },
+    "train.ycm.arriving.solpark_nsl_4": {
+        "sounds": [
+            "train/ycm/arriving/solpark_nsl_4"
+        ]
+    },
     "entity.player.death": {
         "sounds": [
             "entity/player/death"
