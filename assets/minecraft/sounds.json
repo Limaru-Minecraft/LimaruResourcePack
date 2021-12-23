@@ -154,6 +154,41 @@
             "train/ycm/Island_Tip"
         ]
     },
+    "train.ycm.nextstation.flatlands_cw": {
+        "sounds": [
+            "train/ycm/next_station/flatlands_cw"
+        ]
+    },
+    "train.ycm.nextstation.flatlands_acw": {
+        "sounds": [
+            "train/ycm/next_station/flatlands_acw"
+        ]
+    },
+    "train.ycm.nextstation.newton_cw": {
+        "sounds": [
+            "train/ycm/next_station/newton_cw"
+        ]
+    },
+    "train.ycm.nextstation.newton_acw": {
+        "sounds": [
+            "train/ycm/next_station/newton_acw"
+        ]
+    },
+    "train.ycm.nextstation.roundtown_cw": {
+        "sounds": [
+            "train/ycm/next_station/roundtown_cw"
+        ]
+    },
+    "train.ycm.nextstation.roundtown_acw": {
+        "sounds": [
+            "train/ycm/next_station/roundtown_acw"
+        ]
+    },
+    "train.ycm.nextstation.solutional_park_lll": {
+        "sounds": [
+            "train/ycm/next_station/solutional_park_lll"
+        ]
+    },
     "train.ycm.nextstation.solutional_park_n": {
         "sounds": [
             "train/ycm/next_station/solutional_park_northbound"
@@ -164,6 +199,7 @@
             "train/ycm/next_station/solutional_park_southbound"
         ]
     },
+    
     "train.ycm.nextstation.crossover_solutional_park_nb": {
         "sounds": [
             "train/ycm/next_station/crossover_solutional_park_nb"
@@ -177,6 +213,16 @@
     "train.ycm.nextstation.lakeside": {
         "sounds": [
             "train/ycm/next_station/lakeside"
+        ]
+    },
+    "train.ycm.nextstation.lakeside_cw": {
+        "sounds": [
+            "train/ycm/next_station/lakeside_cw"
+        ]
+    },
+    "train.ycm.nextstation.lakeside_acw": {
+        "sounds": [
+            "train/ycm/next_station/lakeside_acw"
         ]
     },
     "train.ycm.nextstation.chiaki": {
