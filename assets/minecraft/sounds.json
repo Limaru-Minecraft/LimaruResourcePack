@@ -280,6 +280,11 @@
             "parliament/order"
         ]
     },
+    "misc.chingchongsoundeffect": {
+        "sounds": [
+            "misc/chingchongsoundeffect"
+        ]
+    },
     "alarm.alarm_test": {
         "sounds": [
             "alarm/alarm_test"
