@@ -294,5 +294,10 @@
         "sounds": [
             "alarm/lab_alarm"
         ]
+    },
+    "alarm.hoshi_no_yo": {
+        "sounds": [
+            "alarm/hoshi_no_yo"
+        ]
     }
 }
