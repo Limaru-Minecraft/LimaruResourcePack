@@ -9,7 +9,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.0625 }, "model": "item/rollsignmodel/sign_blocker" },
 		{ "predicate": { "damaged": 0, "damage": 0.09375 }, "model": "item/trainmodel/pantograph" },
 		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "item/trainmodel/bogie" },
-		{ "predicate": { "damaged": 0, "damage": 0.15625 }, "model": "item/golden_hoe5" },
+		{ "predicate": { "damaged": 0, "damage": 0.15625 }, "model": "item/rollsignmodel/tozai_rollsign" },
 		{ "predicate": { "damaged": 0, "damage": 0.1875 }, "model": "item/golden_hoe6" },
 		{ "predicate": { "damaged": 0, "damage": 0.21875 }, "model": "item/golden_hoe7" },
 		{ "predicate": { "damaged": 0, "damage": 0.25 }, "model": "item/golden_hoe8" },
