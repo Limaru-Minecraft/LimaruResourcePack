@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "LipanMetroLineRollsign",
-		"particle": "LipanMetroLineRollsign"
+		"0": "LipanLocoTextures/LipanMetroLineRollsign",
+		"particle": "LipanLocoTextures/LipanMetroLineRollsign"
 	},
 	"elements": [
 		{
