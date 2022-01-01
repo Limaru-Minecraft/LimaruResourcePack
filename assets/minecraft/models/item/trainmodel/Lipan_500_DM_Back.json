@@ -1,9 +1,5 @@
 {
-	"display": {
-		"head": {
-			"scale": [2, 2, 2]
-		}
-	},
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "LipanLocoTextures/dark metal",
@@ -1415,6 +1411,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Bogie1",
