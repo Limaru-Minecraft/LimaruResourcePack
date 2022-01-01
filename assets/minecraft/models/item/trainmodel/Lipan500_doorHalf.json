@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "500_pdb",
-		"1": "500_pds",
-		"2": "500_pdt",
-		"particle": "500_pdb"
+		"0": "LipanLocoTextures/500_pdb",
+		"1": "LipanLocoTextures/500_pds",
+		"2": "LipanLocoTextures/500_pdt",
+		"particle": "LipanLocoTextures/500_pdb"
 	},
 	"elements": [
 		{
