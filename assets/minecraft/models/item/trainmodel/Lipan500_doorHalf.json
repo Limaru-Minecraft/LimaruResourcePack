@@ -1,5 +1,13 @@
 {
-	"credit": "Made with Blockbench",
+	"display": {
+		"head": {
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
+	},
 	"textures": {
 		"0": "LipanLocoTextures/500_pdb",
 		"1": "LipanLocoTextures/500_pds",
