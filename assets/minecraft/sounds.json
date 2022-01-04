@@ -270,6 +270,26 @@
             "train/ycm/arriving/solpark_nsl_4"
         ]
     },
+    "cablecar.next_mountain": {
+        "sounds": [
+            "cablecar/next_mountain"
+        ]
+    },
+    "cablecar.next_sml": {
+        "sounds": [
+            "cablecar/next_sml"
+        ]
+    },
+    "cablecar.arr_mountain": {
+        "sounds": [
+            "cablecar/arr_mountain"
+        ]
+    },
+    "cablecar.arr_sml": {
+        "sounds": [
+            "cablecar/arr_sml"
+        ]
+    },
     "entity.player.death": {
         "sounds": [
             "entity/player/death"
