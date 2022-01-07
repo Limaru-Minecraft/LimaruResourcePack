@@ -13,8 +13,7 @@ jobs:
         uses: Sorrowfall/Resource-Packager@main
         with:
           filename: LimaruResourcePack # Change this for a different Resource Pack name
-          items: | # Change these depending on what folders you're using
-            assets/..
+          items: "assets/.."
           gen-sha1: true
       - name: Create Release
         uses: meeDamian/github-release@2.0
