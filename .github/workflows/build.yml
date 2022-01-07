@@ -1,0 +1,28 @@
+name: Compile Resource Packs
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Changes
+        id: version
+        uses: Soumeh/Auto-Versioning@main
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Build Packs
+        uses: Sorrowfall/Resource-Packager@main
+        with:
+          filename: LimaruResourcePack # Change this for a different Resource Pack name
+          items: | # Change these depending on what folders you're using
+            .
+          gen-sha1: true
+      - name: Create Release
+        uses: meeDamian/github-release@2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          name: ${{ github.event.head_commit.message }}
+          tag: v${{ steps.version.outputs.tag }}
+          body: "${{ steps.version.outputs.changelog }}"
+          gzip: false
+          files: > # Change these depending on the filename above
+            build/LimaruResourcePack.zip 
