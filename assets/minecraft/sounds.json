@@ -29,6 +29,26 @@
             "train/tunnel"
         ]
     },
+    "train.frs.platform1": {
+        "sounds": [
+            "train/frs/platform1"
+        ]
+    },
+    "train.frs.platform2": {
+        "sounds": [
+            "train/frs/platform2"
+        ]
+    },
+    "train.frs.platform3": {
+        "sounds": [
+            "train/frs/platform3"
+        ]
+    },
+    "train.frs.platform4": {
+        "sounds": [
+            "train/frs/platform4"
+        ]
+    },
     "train.ycm.chime": {
         "sounds": [
             "train/ycm/chime"
