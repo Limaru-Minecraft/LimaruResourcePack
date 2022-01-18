@@ -1,0 +1,19 @@
+{
+	"parent": "rollsign.json",
+	"textures": {
+		"0": "rollsigns/E235_Lights",
+		"1": "rollsigns/AD",
+		"particle": "rollsigns/E235_Lights"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 8],
+			"to": [9, 8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

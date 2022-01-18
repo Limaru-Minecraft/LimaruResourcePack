@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "rollsign.json",
 	"texture_size": [1024, 1024],
 	"textures": {
