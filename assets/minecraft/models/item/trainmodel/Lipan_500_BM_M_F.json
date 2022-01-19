@@ -756,6 +756,11 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Frame",
