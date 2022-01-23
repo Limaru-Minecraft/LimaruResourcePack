@@ -9,8 +9,10 @@
 		"5": "block/basalt_side",
 		"6": "entetsu_textures/new_entetsu_logo",
 		"7": "entetsu_textures/L89",
+		"10": "block/black_candle_lit",
 		"12": "block/green_wool",
-		"13": "train_misc/entetsu_controller"
+		"13": "train_misc/entetsu_controller",
+		"particle": "block/black_candle_lit"
 	},
 	"elements": [
 		{
@@ -771,6 +773,58 @@
 		},
 		{
 			"name": "ladder",
+			"from": [2.25, -5.5, -7.75],
+			"to": [2.75, -1, -7.25],
+			"faces": {
+				"north": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"east": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"south": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"west": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"up": {"uv": [0, 16, 2, 14], "texture": "#10"},
+				"down": {"uv": [0, 8, 2, 6], "texture": "#10"}
+			}
+		},
+		{
+			"name": "ladder",
+			"from": [3.25, -5.5, -7.75],
+			"to": [3.75, -1, -7.25],
+			"faces": {
+				"north": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"east": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"south": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"west": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"up": {"uv": [0, 16, 2, 14], "texture": "#10"},
+				"down": {"uv": [0, 8, 2, 6], "texture": "#10"}
+			}
+		},
+		{
+			"name": "ladder",
+			"from": [13.25, -5.5, -7.75],
+			"to": [13.75, -1, -7.25],
+			"faces": {
+				"north": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"east": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"south": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"west": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"up": {"uv": [0, 16, 2, 14], "texture": "#10"},
+				"down": {"uv": [0, 8, 2, 6], "texture": "#10"}
+			}
+		},
+		{
+			"name": "ladder",
+			"from": [12.25, -5.5, -7.75],
+			"to": [12.75, -1, -7.25],
+			"faces": {
+				"north": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"east": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"south": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"west": {"uv": [0, 16, 2, 6], "texture": "#10"},
+				"up": {"uv": [0, 16, 2, 14], "texture": "#10"},
+				"down": {"uv": [0, 8, 2, 6], "texture": "#10"}
+			}
+		},
+		{
+			"name": "ladder",
 			"from": [-0.5, -6.5, -1.75],
 			"to": [0, 0, -1.25],
 			"faces": {
@@ -1069,12 +1123,16 @@
 		69,
 		70,
 		71,
+		72,
+		73,
+		74,
+		75,
 		{
 			"name": "seat",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [72, 73, 74]
+			"children": [76, 77, 78]
 		},
-		75
+		79
 	]
 }
