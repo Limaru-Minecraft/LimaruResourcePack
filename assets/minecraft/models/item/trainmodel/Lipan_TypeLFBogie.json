@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "shine metal",
-		"5": "dark metal",
-		"7": "snowplough yellow",
-		"9": "Crimson",
-		"15": "Namboku Green",
-		"17": "texture",
-		"particle": "Snow White"
+		"1": "LipanLocoTextures/shine metal",
+		"5": "LipanLocoTextures/dark metal",
+		"7": "LipanLocoTextures/snowplough yellow",
+		"9": "LipanLocoTextures/Crimson",
+		"15": "LipanLocoTextures/Namboku Green",
+		"17": "LipanLocoTextures/texture",
+		"particle": "LipanLocoTextures/Snow White"
 	},
 	"elements": [
 		{
@@ -1252,7 +1252,7 @@
 	],
 	"display": {
 		"head": {
-			"scale": [1.9, 1.9, 1.9]
+			"scale": [2.0, 2.0, 2.0]
 		}
 	},
 	"groups": [

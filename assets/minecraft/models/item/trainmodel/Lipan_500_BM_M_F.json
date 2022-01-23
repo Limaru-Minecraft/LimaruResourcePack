@@ -757,7 +757,7 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
+		"head": {
 			"scale": [2, 2, 2]
 		}
 	},

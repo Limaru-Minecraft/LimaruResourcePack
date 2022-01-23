@@ -1,32 +1,23 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "shine metal",
-		"5": "dark metal",
-		"7": "snowplough yellow",
-		"9": "Crimson",
-		"15": "Namboku Green",
-		"16": "Snow White",
-		"18": "Loop Orange",
-		"19": "Light Crimson",
-		"20": "LipanLogoRedraw",
-		"21": "wagon metal",
-		"22": "OreHopper_Frame",
-		"23": "OreHopper_Left",
-		"24": "OreHopper_right",
-		"25": "OreHopper_Front",
-		"26": "OreHopper_mleft",
-		"27": "OreHopper_fright",
-		"particle": "horn"
-	},
-	"display": {
-		"head": {
-			"scale": [
-				1.9,
-				1.9,
-				1.9
-			]
-		}
+		"1": "LipanLocoTextures/shine metal",
+		"5": "LipanLocoTextures/dark metal",
+		"7": "LipanLocoTextures/snowplough yellow",
+		"9": "LipanLocoTextures/Crimson",
+		"15": "LipanLocoTextures/Namboku Green",
+		"16": "LipanLocoTextures/Snow White",
+		"18": "LipanLocoTextures/Loop Orange",
+		"19": "LipanLocoTextures/Light Crimson",
+		"20": "LipanLocoTextures/LipanLogoRedraw",
+		"21": "LipanLocoTextures/wagon metal",
+		"22": "LipanLocoTextures/OreHopper_Frame",
+		"23": "LipanLocoTextures/OreHopper_Left",
+		"24": "LipanLocoTextures/OreHopper_right",
+		"25": "LipanLocoTextures/OreHopper_Front",
+		"26": "LipanLocoTextures/OreHopper_mleft",
+		"27": "LipanLocoTextures/OreHopper_fright",
+		"particle": "LipanLocoTextures/horn"
 	},
 	"elements": [
 		{
@@ -437,19 +428,6 @@
 				"west": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"up": {"uv": [0, 0, 1.5, 2], "texture": "#missing"},
 				"down": {"uv": [0, 0, 1.5, 2], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [16, -1, -1],
-			"to": [17, 16, 1],
-			"color": 1,
-			"faces": {
-				"north": {"uv": [0, 0, 1, 17], "texture": "#missing"},
-				"east": {"uv": [0, 0, 2, 17], "texture": "#missing"},
-				"south": {"uv": [0, 0, 1, 17], "texture": "#missing"},
-				"west": {"uv": [0, 0, 2, 17], "texture": "#missing"},
-				"up": {"uv": [0, 0, 1, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 1, 2], "texture": "#missing"}
 			}
 		},
 		{
@@ -1521,19 +1499,6 @@
 			}
 		},
 		{
-			"from": [4, 5, -0.5],
-			"to": [7, 6, 0],
-			"color": 1,
-			"faces": {
-				"north": {"uv": [0, 0, 3, 1], "texture": "#missing"},
-				"east": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
-				"south": {"uv": [0, 0, 3, 1], "texture": "#missing"},
-				"west": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
-				"up": {"uv": [0, 0, 3, 0.5], "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 0.5], "texture": "#missing"}
-			}
-		},
-		{
 			"from": [5, 1, 2],
 			"to": [6, 2, 5],
 			"faces": {
@@ -1834,6 +1799,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.9, 1.9, 1.9]
+		}
+	},
 	"groups": [
 		{
 			"name": "Hopper Doors",
@@ -1872,31 +1842,31 @@
 									"name": "lrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [32, 33, 34]
+									"children": [32, 33]
 								},
 								{
 									"name": "lrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [35, 36, 37]
+									"children": [34, 35, 36]
 								},
 								{
 									"name": "lrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [38, 39, 40]
+									"children": [37, 38, 39]
 								},
 								{
 									"name": "lrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [41, 42, 43]
+									"children": [40, 41, 42]
 								},
 								{
 									"name": "lrib middle",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [44, 45, 46]
+									"children": [43, 44, 45]
 								}
 							]
 						},
@@ -1909,45 +1879,46 @@
 									"name": "rrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [47, 48, 49]
+									"children": [46, 47, 48]
 								},
 								{
 									"name": "rrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [50, 51, 52]
+									"children": [49, 50, 51]
 								},
 								{
 									"name": "rrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [53, 54, 55]
+									"children": [52, 53, 54]
 								},
 								{
 									"name": "rrib",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [56, 57, 58]
+									"children": [55, 56, 57]
 								},
 								{
 									"name": "rrib end",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [59, 60, 61]
+									"children": [58, 59, 60]
 								},
 								{
 									"name": "rrib middle",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [62, 63, 64]
+									"children": [61, 62, 63]
 								}
 							]
 						},
+						64,
 						65,
-						66,
-						67
+						66
 					]
 				},
+				67,
 				68,
 				69,
 				70,
@@ -1980,12 +1951,12 @@
 				97,
 				98,
 				99,
-				100,
 				{
 					"name": "end",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"children": [
+						100,
 						101,
 						102,
 						103,
@@ -1993,12 +1964,11 @@
 						105,
 						106,
 						107,
-						108,
 						{
 							"name": "AirBrakes",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"children": [109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137]
+							"children": [108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135]
 						}
 					]
 				},
@@ -2006,7 +1976,7 @@
 					"name": "ladder",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [138, 139, 140, 141, 142, 143, 144, 145, 146, 147]
+					"children": [136, 137, 138, 139, 140, 141, 142, 143, 144, 145]
 				}
 			]
 		},
@@ -2014,7 +1984,7 @@
 			"name": "frame",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [148, 149]
+			"children": [146, 147]
 		}
 	]
 }
