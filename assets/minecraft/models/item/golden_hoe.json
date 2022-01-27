@@ -15,7 +15,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.25 }, "model": "item/rollsignmodel/northsouth_rollsign" },
 		{ "predicate": { "damaged": 0, "damage": 0.28125 }, "model": "item/rollsignmodel/E235_lights" },
 		{ "predicate": { "damaged": 0, "damage": 0.3125 }, "model": "item/trainmodel/Lipan_TypeLFBogie" },
-		{ "predicate": { "damaged": 0, "damage": 0.34375 }, "model": "item/golden_hoe11" },
+		{ "predicate": { "damaged": 0, "damage": 0.34375 }, "model": "item/trainmodel/co_bogie" },
 		{ "predicate": { "damaged": 0, "damage": 0.375 }, "model": "item/golden_hoe12" },
 		{ "predicate": { "damaged": 0, "damage": 0.40625 }, "model": "item/golden_hoe13" },
 		{ "predicate": { "damaged": 0, "damage": 0.4375 }, "model": "item/golden_hoe14" },
