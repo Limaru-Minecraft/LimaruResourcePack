@@ -18,7 +18,7 @@
 		{
 			"name": "undercarriage",
 			"from": [0, -1, -8],
-			"to": [16, 0, 24],
+			"to": [16, 0, 32],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 1], "texture": "#2"},
 				"east": {"uv": [0, 0, 16, 1], "texture": "#2"},
@@ -44,27 +44,27 @@
 		{
 			"name": "rear engine",
 			"from": [4, 0, 17],
-			"to": [12, 16, 24],
+			"to": [12, 18, 32],
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#3"},
-				"east": {"uv": [0, 0, 7, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 15, 16], "texture": "#3"},
 				"south": {"uv": [0, 0, 8, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 7, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 8, 7], "texture": "#3"},
+				"west": {"uv": [0, 0, 15, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 8, 15], "texture": "#3"},
 				"down": {"uv": [0, 0, 8, 7], "texture": "#3"}
 			}
 		},
 		{
 			"name": "bottom engine",
 			"from": [4, -7, 12],
-			"to": [12, -1, 24],
+			"to": [12, -1, 32],
 			"faces": {
 				"north": {"uv": [0, 0, 8, 4], "texture": "#3"},
-				"east": {"uv": [0, 0, 13, 4], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#3"},
 				"south": {"uv": [0, 0, 8, 4], "texture": "#3"},
-				"west": {"uv": [0, 0, 13, 4], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#3"},
 				"up": {"uv": [0, 0, 8, 13], "texture": "#3"},
-				"down": {"uv": [0, 0, 8, 13], "texture": "#3"}
+				"down": {"uv": [0, 0, 8, 16], "texture": "#3"}
 			}
 		},
 		{
