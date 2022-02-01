@@ -245,7 +245,6 @@
 			"faces": {
 				"north": {"uv": [2, 2, 14, 14], "texture": "#4"},
 				"east": {"uv": [2, 2, 14, 14], "texture": "#4"},
-				"south": {"uv": [2, 2, 14, 14], "texture": "#4"},
 				"west": {"uv": [2, 2, 14, 14], "texture": "#4"},
 				"up": {"uv": [2, 2, 14, 14], "texture": "#4"},
 				"down": {"uv": [2, 2, 14, 14], "texture": "#4"}
