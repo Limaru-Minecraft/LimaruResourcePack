@@ -29,24 +29,24 @@
             "train/tunnel"
         ]
     },
-    "train.frs.platform1": {
+    "train.frs.yc_central_platform1": {
         "sounds": [
-            "train/frs/platform1"
+            "train/frs/yc_central_platform1"
         ]
     },
-    "train.frs.platform2": {
+    "train.frs.yc_central_platform2": {
         "sounds": [
-            "train/frs/platform2"
+            "train/frs/yc_central_platform2"
         ]
     },
-    "train.frs.platform3": {
+    "train.frs.yc_central_platform3": {
         "sounds": [
-            "train/frs/platform3"
+            "train/frs/yc_central_platform3"
         ]
     },
-    "train.frs.platform4": {
+    "train.frs.yc_central_platform4": {
         "sounds": [
-            "train/frs/platform4"
+            "train/frs/yc_central_platform4"
         ]
     },
     "train.ycm.chime": {
@@ -323,6 +323,11 @@
     "misc.chingchongsoundeffect": {
         "sounds": [
             "misc/chingchongsoundeffect"
+        ]
+    },
+    "misc.paperspleasetheme": {
+        "sounds": [
+            "misc/paperspleasetheme"
         ]
     },
     "alarm.alarm_test": {
