@@ -46,7 +46,10 @@
 		{"predicate": { "damaged": 0, "custom_model_data": 6 }, "model": "item/specialtrains/C27_605E"},
 		{"predicate": { "damaged": 0, "custom_model_data": 7 }, "model": "item/specialtrains/C27_606Ea"},
 		{"predicate": { "damaged": 0, "custom_model_data": 8 }, "model": "item/specialtrains/C27_606M"},
-		{"predicate": { "damaged": 0, "custom_model_data": 9 }, "model": "item/specialtrains/C27_606Ed"}
+		{"predicate": { "damaged": 0, "custom_model_data": 9 }, "model": "item/specialtrains/C27_606Ed"},
+
+		{"predicate": { "damaged": 0, "custom_model_data": 10 }, "model": "item/busmodel/WilliamsTridentIII_FRONT"},
+		{"predicate": { "damaged": 0, "custom_model_data": 11 }, "model": "item/busmodel/WilliamsTridentIII_BACK"}
 		
 	]
 }
