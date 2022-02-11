@@ -1,32 +1,37 @@
 {
-    "train.doorclosing": {
+    "train.entetsu.doorclosing": {
         "sounds": [
-            "train/doorclosing"
+            "train/entetsu/doorclosing"
         ]
     },
-    "train.doorclose": {
+    "train.entetsu.doorclose": {
         "sounds": [
-            "train/doorclose"
+            "train/entetsu/doorclose"
         ]
     },
-    "train.dooropen": {
+    "train.entetsu.dooropen": {
         "sounds": [
-            "train/dooropen"
+            "train/entetsu/dooropen"
         ]
     },
-    "train.points": {
+    "train.accelerate": {
         "sounds": [
-            "train/points"
+            "train/accelerate"
         ]
     },
-    "train.outside": {
+    "train.motion": {
         "sounds": [
-            "train/outside"
+            "train/motion"
         ]
     },
-    "train.tunnel": {
+    "train.brake.automatic": {
         "sounds": [
-            "train/tunnel"
+            "train/brake_automatic"
+        ]
+    },
+    "train.brake.mandraulic": {
+        "sounds": [
+            "train/brake_mandraulic"
         ]
     },
     "train.frs.yc_central_platform1": {
