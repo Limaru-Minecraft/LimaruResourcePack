@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/red_concrete",
+		"2": "block/yellow_concrete",
 		"3": "block/gray_concrete",
 		"4": "block/light_gray_concrete",
 		"particle": "block/bubble_coral_block"
