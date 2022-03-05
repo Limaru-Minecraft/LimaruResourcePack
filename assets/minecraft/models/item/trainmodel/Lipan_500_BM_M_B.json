@@ -823,7 +823,7 @@
 	],
 	"display": {
 		"head": {
-			"scale": [2, 2, 2]
+			"scale": [1.8, 2, 1.9]
 		}
 	},
 	"groups": [
