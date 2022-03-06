@@ -62,7 +62,7 @@
 	],
 	"display": {
 		"head": {
-			"scale": [1.6, 1.6, 1.6]
+			"scale": [1, 2, 1.9]
 		}
 	},
 	"groups": [
