@@ -1,353 +1,742 @@
 {
-    "train.entetsu.doorclosing": {
-        "sounds": [
-            "train/entetsu/doorclosing"
-        ]
-    },
-    "train.entetsu.doorclose": {
-        "sounds": [
-            "train/entetsu/doorclose"
-        ]
-    },
-    "train.entetsu.dooropen": {
-        "sounds": [
-            "train/entetsu/dooropen"
-        ]
-    },
-    "train.accelerate": {
-        "sounds": [
-            "train/accelerate"
-        ]
-    },
-    "train.motion": {
-        "sounds": [
-            "train/motion"
-        ]
-    },
-    "train.brake.automatic": {
-        "sounds": [
-            "train/brake_automatic"
-        ]
-    },
-    "train.brake.mandraulic": {
-        "sounds": [
-            "train/brake_mandraulic"
-        ]
-    },
-    "train.frs.yc_central_platform1": {
-        "sounds": [
-            "train/frs/yc_central_platform1"
-        ]
-    },
-    "train.frs.yc_central_platform2": {
-        "sounds": [
-            "train/frs/yc_central_platform2"
-        ]
-    },
-    "train.frs.yc_central_platform3": {
-        "sounds": [
-            "train/frs/yc_central_platform3"
-        ]
-    },
-    "train.frs.yc_central_platform4": {
-        "sounds": [
-            "train/frs/yc_central_platform4"
-        ]
-    },
-    "train.ycm.chime": {
-        "sounds": [
-            "train/ycm/chime"
-        ]
-    },
-    "train.ycm.doorclosing": {
-        "sounds": [
-            "train/ycm/doorclosing"
-        ]
-    },
-    "train.ycm.train_service_ends": {
-        "sounds": [
-            "train/ycm/train_service_ends"
-        ]
-    },
-    "train.ycm.aftermath": {
-        "sounds": [
-            "train/ycm/aftermath"
-        ]
-    },
-    "train.ycm.cielo_estrellado": {
-        "sounds": [
-            "train/ycm/cielo_estrellado"
-        ]
-    },
-    "train.ycm.flower_shop": {
-        "sounds": [
-            "train/ycm/flower_shop"
-        ]
-    },
-    "train.ycm.gota_del_vient": {
-        "sounds": [
-            "train/ycm/gota_del_vient"
-        ]
-    },
-    "train.ycm.osaka_tune": {
-        "sounds": [
-            "train/ycm/osaka_tune"
-        ]
-    },
-    "train.ycm.sea_green": {
-        "sounds": [
-            "train/ycm/sea_green"
-        ]
-    },
-    "train.ycm.spring_breeze": {
-        "sounds": [
-            "train/ycm/spring_breeze"
-        ]
-    },
-    "train.ycm.sunlight": {
-        "sounds": [
-            "train/ycm/sunlight"
-        ]
-    },
-    "train.ycm.the_star_festival": {
-        "sounds": [
-            "train/ycm/the_star_festival"
-        ]
-    },
-    "train.ycm.water_crown": {
-        "sounds": [
-            "train/ycm/water_crown"
-        ]
-    },
-    "train.ycm.ycm_01": {
-        "sounds": [
-            "train/ycm/ycm_01"
-        ]
-    },
-    "train.ycm.ycm_06": {
-        "sounds": [
-            "train/ycm/ycm_06"
-        ]
-    },
-    "train.ycm.lakeside": {
-        "sounds": [
-            "train/ycm/Lakeside"
-        ]
-    },
-    "train.ycm.solutional_park_1": {
-        "sounds": [
-            "train/ycm/Solutional_Park_1"
-        ]
-    },
-    "train.ycm.solutional_park_2": {
-        "sounds": [
-            "train/ycm/Solutional_Park_2"
-        ]
-    },
-    "train.ycm.solutional_park_3": {
-        "sounds": [
-            "train/ycm/Solutional_Park_3"
-        ]
-    },
-    "train.ycm.solutional_park_4": {
-        "sounds": [
-            "train/ycm/Solutional_Park_4"
-        ]
-    },
-    "train.ycm.chiaki": {
-        "sounds": [
-            "train/ycm/Chiaki"
-        ]
-    },
-    "train.ycm.mount_lipan": {
-        "sounds": [
-            "train/ycm/Mount_Lipan"
-        ]
-    },
-    "train.ycm.inoriye_1": {
-        "sounds": [
-            "train/ycm/Inoriye_1"
-        ]
-    },
-    "train.ycm.inoriye_2": {
-        "sounds": [
-            "train/ycm/Inoriye_2"
-        ]
-    },
-    "train.ycm.island_tip": {
-        "sounds": [
-            "train/ycm/Island_Tip"
-        ]
-    },
-    "train.ycm.nextstation.flatlands_cw": {
-        "sounds": [
-            "train/ycm/next_station/flatlands_cw"
-        ]
-    },
-    "train.ycm.nextstation.flatlands_acw": {
-        "sounds": [
-            "train/ycm/next_station/flatlands_acw"
-        ]
-    },
-    "train.ycm.nextstation.newton_cw": {
-        "sounds": [
-            "train/ycm/next_station/newton_cw"
-        ]
-    },
-    "train.ycm.nextstation.newton_acw": {
-        "sounds": [
-            "train/ycm/next_station/newton_acw"
-        ]
-    },
-    "train.ycm.nextstation.roundtown_cw": {
-        "sounds": [
-            "train/ycm/next_station/roundtown_cw"
-        ]
-    },
-    "train.ycm.nextstation.roundtown_acw": {
-        "sounds": [
-            "train/ycm/next_station/roundtown_acw"
-        ]
-    },
-    "train.ycm.nextstation.solutional_park_lll": {
-        "sounds": [
-            "train/ycm/next_station/solutional_park_lll"
-        ]
-    },
-    "train.ycm.nextstation.solutional_park_n": {
-        "sounds": [
-            "train/ycm/next_station/solutional_park_northbound"
-        ]
-    },
-    "train.ycm.nextstation.solutional_park_s": {
-        "sounds": [
-            "train/ycm/next_station/solutional_park_southbound"
-        ]
-    },
-    
-    "train.ycm.nextstation.crossover_solutional_park_nb": {
-        "sounds": [
-            "train/ycm/next_station/crossover_solutional_park_nb"
-        ]
-    },
-    "train.ycm.nextstation.crossover_solutional_park_sb": {
-        "sounds": [
-            "train/ycm/next_station/crossover_solutional_park_sb"
-        ]
-    },
-    "train.ycm.nextstation.lakeside": {
-        "sounds": [
-            "train/ycm/next_station/lakeside"
-        ]
-    },
-    "train.ycm.nextstation.lakeside_cw": {
-        "sounds": [
-            "train/ycm/next_station/lakeside_cw"
-        ]
-    },
-    "train.ycm.nextstation.lakeside_acw": {
-        "sounds": [
-            "train/ycm/next_station/lakeside_acw"
-        ]
-    },
-    "train.ycm.nextstation.chiaki": {
-        "sounds": [
-            "train/ycm/next_station/chiaki"
-        ]
-    },
-    "train.ycm.nextstation.mount_lipan": {
-        "sounds": [
-            "train/ycm/next_station/mount_lipan"
-        ]
-    },
-    "train.ycm.nextstation.inoriye_nb": {
-        "sounds": [
-            "train/ycm/next_station/inoriye_northbound"
-        ]
-    },
-    "train.ycm.nextstation.inoriye_sb": {
-        "sounds": [
-            "train/ycm/next_station/inoriye_southbound"
-        ]
-    },
-    "train.ycm.nextstation.island_tip": {
-        "sounds": [
-            "train/ycm/next_station/island_tip"
-        ]
-    },
-    "train.ycm.arriving.solpark_lll_2": {
-        "sounds": [
-            "train/ycm/arriving/solpark_lll_2"
-        ]
-    },
-    "train.ycm.arriving.solpark_lll_3": {
-        "sounds": [
-            "train/ycm/arriving/solpark_lll_3"
-        ]
-    },
-    "train.ycm.arriving.solpark_nsl_1": {
-        "sounds": [
-            "train/ycm/arriving/solpark_nsl_1"
-        ]
-    },
-    "train.ycm.arriving.solpark_nsl_4": {
-        "sounds": [
-            "train/ycm/arriving/solpark_nsl_4"
-        ]
-    },
-    "cablecar.next_mountain": {
-        "sounds": [
-            "cablecar/next_mountain"
-        ]
-    },
-    "cablecar.next_sml": {
-        "sounds": [
+	"misc/paperspleasetheme": {
+		"sounds": [
+			"misc/paperspleasetheme"
+		]
+	},
+	"misc/chingchongsoundeffect": {
+		"sounds": [
+			"misc/chingchongsoundeffect"
+		]
+	},
+	"cablecar/arr_sml": {
+		"sounds": [
+			"cablecar/arr_sml"
+		]
+	},
+	"cablecar/next_sml": {
+		"sounds": [
+			"cablecar/next_sml"
+		]
+	},
+	"cablecar/arr_mountain": {
+		"sounds": [
+			"cablecar/arr_mountain"
+		]
+	},
+	"cablecar/next_mountain": {
+		"sounds": [
+			"cablecar/next_mountain"
+		]
+	},
+	"entity/player/death": {
+		"sounds": [
+			"entity/player/death"
+		]
+	},
+	"tile/piston/in": {
+		"sounds": [
+			"tile/piston/in"
+		]
+	},
+	"tile/piston/out": {
+		"sounds": [
+			"tile/piston/out"
+		]
+	},
+	"minecart/inside": {
+		"sounds": [
+			"minecart/inside"
+		]
+	},
+	"minecart/base": {
+		"sounds": [
+			"minecart/base"
+		]
+	},
+	"train/accelerate": {
+		"sounds": [
+			"train/accelerate"
+		]
+	},
+	"train/brake_automatic": {
+		"sounds": [
+			"train/brake_automatic"
+		]
+	},
+	"train/motion": {
+		"sounds": [
+			"train/motion"
+		]
+	},
+	"train/brake_mandraulic": {
+		"sounds": [
+			"train/brake_mandraulic"
+		]
+	},
+	"train/frs/yc_central_platform1": {
+		"sounds": [
+			"train/frs/yc_central_platform1"
+		]
+	},
+	"train/frs/yc_central_platform2": {
+		"sounds": [
+			"train/frs/yc_central_platform2"
+		]
+	},
+	"train/frs/yc_central_platform3": {
+		"sounds": [
+			"train/frs/yc_central_platform3"
+		]
+	},
+	"train/frs/yc_central_platform4": {
+		"sounds": [
+			"train/frs/yc_central_platform4"
+		]
+	},
+	"train/ycm/Lakeside": {
+		"sounds": [
+			"train/ycm/Lakeside"
+		]
+	},
+	"train/ycm/Solutional_Park_1": {
+		"sounds": [
+			"train/ycm/Solutional_Park_1"
+		]
+	},
+	"train/ycm/Solutional_Park_2": {
+		"sounds": [
+			"train/ycm/Solutional_Park_2"
+		]
+	},
+	"train/ycm/Chiaki": {
+		"sounds": [
+			"train/ycm/Chiaki"
+		]
+	},
+	"train/ycm/Solutional_Park_3": {
+		"sounds": [
+			"train/ycm/Solutional_Park_3"		
+		]
+	},
+	"train/ycm/Solutional_Park_4": {
+		"sounds": [
+			"train/ycm/Solutional_Park_4"
+		]
+	},
+	"train/ycm/Island_Tip": {
+		"sounds": [
+			"train/ycm/Island_Tip"
+		]
+	},
+	"train/ycm/aftermath": {
+		"sounds": [
+			"train/ycm/aftermath"
+		]
+	},
+	"train/ycm/spring_breeze": {
+		"sounds": [
+			"train/ycm/spring_breeze"
+		]
+	},
+	"train/ycm/train_service_ends": {
+		"sounds": [
+			"train/ycm/train_service_ends"
+		]
+	},
+	"train/ycm/Inoriye_1": {
+		"sounds": [
+			"train/ycm/Inoriye_1"
+		]
+	},
+	"train/ycm/ycm_06": {
+		"sounds": [
+			"train/ycm/ycm_06"
+		]
+	},
+	"train/ycm/osaka_tune": {
+		"sounds": [
+			"train/ycm/osaka_tune"
+		]
+	},
+	"train/ycm/gota_del_vient": {
+		"sounds": [
+			"train/ycm/gota_del_vient"
+		]
+	},
+	"train/ycm/Inoriye_2": {
+		"sounds": [
+			"train/ycm/Inoriye_2"
+		]
+	},
+	"train/ycm/Mount_Lipan": {
+		"sounds": [
+			"train/ycm/Mount_Lipan"
+		]
+	},
+	"train/ycm/ycm_01": {
+		"sounds": [
+			"train/ycm/ycm_01"
+		]
+	},
+	"train/ycm/cielo_estrellado": {
+		"sounds": [
+			"train/ycm/cielo_estrellado"
+		]
+	},
+	"train/ycm/doorclosing": {
+		"sounds": [
+			"train/ycm/doorclosing"
+		]
+	},
+	"train/ycm/chime": {
+		"sounds": [
+			"train/ycm/chime"
+		]
+	},
+	"train/ycm/doors_closing_stand_clear": {
+		"sounds": [
+			"train/ycm/doors_closing_stand_clear"
+		]
+	},
+	"train/ycm/water_crown": {
+		"sounds": [
+			"train/ycm/water_crown"
+		]
+	},
+	"train/ycm/flower_shop": {
+		"sounds": [
+			"train/ycm/flower_shop"
+		]
+	},
+	"train/ycm/sunlight": {
+		"sounds": [
+			"train/ycm/sunlight"
+		]
+	},
+	"train/ycm/sea_green": {
+		"sounds": [
+			"train/ycm/sea_green"
+		]
+	},
+	"train/ycm/the_star_festival": {
+		"sounds": [
+			"train/ycm/the_star_festival"
+		]
+	},
+	"train/ycm/next_station/lakeside": {
+		"sounds": [
+			"train/ycm/next_station/lakeside"
+		]
+	},
+	"train/ycm/next_station/chiaki": {
+		"sounds": [
+			"train/ycm/next_station/chiaki"
+		]
+	},
+	"train/ycm/next_station/crossover_solutional_park_sb": {
+		"sounds": [
+			"train/ycm/next_station/crossover_solutional_park_sb"
+		]
+	},
+	"train/ycm/next_station/solutional_park_southbound": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_southbound"
+		]
+	},
+	"train/ycm/next_station/newton_cw": {
+		"sounds": [
+			"train/ycm/next_station/newton_cw"
+		]
+	},
+	"train/ycm/next_station/island_tip": {
+		"sounds": [
+			"train/ycm/next_station/island_tip"
+		]
+	},
+	"train/ycm/next_station/lakeside_cw": {
+		"sounds": [
+			"train/ycm/next_station/lakeside_cw"
+		]
+	},
+	"train/ycm/next_station/inoriye_northbound": {
+		"sounds": [
+			"train/ycm/next_station/inoriye_northbound"
+		]
+	},
+	"train/ycm/next_station/roundtown_cw": {
+		"sounds": [
+			"train/ycm/next_station/roundtown_cw"
+		]
+	},
+	"train/ycm/next_station/lakeside_acw": {
+		"sounds": [
+			"train/ycm/next_station/lakeside_acw"
+		]
+	},
+	"train/ycm/next_station/mount_lipan": {
+		"sounds": [
+			"train/ycm/next_station/mount_lipan"
+		]
+	},
+	"train/ycm/next_station/roundtown_acw": {
+		"sounds": [
+			"train/ycm/next_station/roundtown_acw"
+		]
+	},
+	"train/ycm/next_station/flatlands_cw": {
+		"sounds": [
+			"train/ycm/next_station/flatlands_cw"
+		]
+	},
+	"train/ycm/next_station/solutional_park_northbound": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_northbound"
+		]
+	},
+	"train/ycm/next_station/solutional_park_lll": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_lll"
+		]
+	},
+	"train/ycm/next_station/crossover_solutional_park_nb": {
+		"sounds": [
+			"train/ycm/next_station/crossover_solutional_park_nb"
+		]
+	},
+	"train/ycm/next_station/inoriye_southbound": {
+		"sounds": [
+			"train/ycm/next_station/inoriye_southbound"
+		]
+	},
+	"train/ycm/next_station/sunmoonlake": {
+		"sounds": [
+			"train/ycm/next_station/sunmoonlake"
+		]
+	},
+	"train/ycm/next_station/newton_acw": {
+		"sounds": [
+			"train/ycm/next_station/newton_acw"
+		]
+	},
+	"train/ycm/next_station/flatlands_acw": {
+		"sounds": [
+			"train/ycm/next_station/flatlands_acw"
+		]
+	},
+	"train/ycm/arriving/solpark_nsl_1": {
+		"sounds": [
+			"train/ycm/arriving/solpark_nsl_1"
+		]
+	},
+	"train/ycm/arriving/solpark_nsl_4": {
+		"sounds": [
+			"train/ycm/arriving/solpark_nsl_4"
+		]
+	},
+	"train/ycm/arriving/solpark_lll_2": {
+		"sounds": [
+			"train/ycm/arriving/solpark_lll_2"
+		]
+	},
+	"train/ycm/arriving/solpark_lll_3": {
+		"sounds": [
+			"train/ycm/arriving/solpark_lll_3"
+		]
+	},
+	"train/entetsu/doorclosing": {
+		"sounds": [
+			"train/entetsu/doorclosing"
+		]
+	},
+	"train/entetsu/doorclose": {
+		"sounds": [
+			"train/entetsu/doorclose"
+		]
+	},
+	"train/entetsu/dooropen": {
+		"sounds": [
+			"train/entetsu/dooropen"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_fukuno": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_fukuno"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_nihombashi": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_nihombashi"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_ajisaitown": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_ajisaitown"
+		]
+	},
+	"train/entetsu/central_dw_spt/next_karasumaryokuchi": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/next_karasumaryokuchi"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_福野": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_福野"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_八千代": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_八千代"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_karasumaryokuchi": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_karasumaryokuchi"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_虹": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_虹"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_水族館": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_水族館"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_portlandtunnel": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_portlandtunnel"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_虹": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_虹"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_紫陽花町": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_紫陽花町"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_西羽宮": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_西羽宮"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_三ノ輪": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_三ノ輪"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_桜見町": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_桜見町"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_烏丸センター": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_烏丸センター"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_円丸羽宮市場": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_円丸羽宮市場"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_草津": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_草津"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_ポートランドトンネル": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_ポートランドトンネル"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_水族館": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_水族館"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_草津": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_草津"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_桜見町": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_桜見町"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_円丸中央": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_円丸中央"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_hanemiyaichiba": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_hanemiyaichiba"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_西羽宮": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_西羽宮"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_燕島大橋": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_燕島大橋"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_三ノ輪": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_三ノ輪"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_南角終点": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_南角終点"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_日本橋": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_日本橋"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_南角終点": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_南角終点"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_西島": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_西島"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_燕島大橋": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_燕島大橋"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_円丸中央": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_円丸中央"
+		]
+	},
+	"train/entetsu/central_dw_spt/次_八千代": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/次_八千代"
+		]
+	},
+	"train/entetsu/central_dw_spt/this_karasumacentre": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/this_karasumacentre"
+		]
+	},
+	"train/entetsu/central_dw_spt/今_西島": {
+		"sounds": [
+			"train/entetsu/central_dw_spt/今_西島"
+		]
+	},
+	"train/entetsu/central_up_sev/今_福野": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_福野"
+		]
+	},
+	"train/entetsu/central_up_sev/今_七姉妹": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_七姉妹"
+		]
+	},
+	"train/entetsu/central_up_sev/今_日本橋": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_日本橋"
+		]
+	},
+	"train/entetsu/central_up_sev/今_紫陽花町": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_紫陽花町"
+		]
+	},
+	"train/entetsu/central_up_sev/次_烏丸緑地": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_烏丸緑地"
+		]
+	},
+	"train/entetsu/central_up_sev/次_福野": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_福野"
+		]
+	},
+	"train/entetsu/central_up_sev/今_八千代": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_八千代"
+		]
+	},
+	"train/entetsu/central_up_sev/今_円丸羽宮市場": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_円丸羽宮市場"
+		]
+	},
+	"train/entetsu/central_up_sev/次_虹": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_虹"
+		]
+	},
+	"train/entetsu/central_up_sev/次_水族館": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_水族館"
+		]
+	},
+	"train/entetsu/central_up_sev/今_虹": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_虹"
+		]
+	},
+	"train/entetsu/central_up_sev/次_紫陽花町": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_紫陽花町"
+		]
+	},
+	"train/entetsu/central_up_sev/今_烏丸緑地": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_烏丸緑地"
+		]
+	},
+	"train/entetsu/central_up_sev/次_西羽宮": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_西羽宮"
+		]
+	},
+	"train/entetsu/central_up_sev/今_三ノ輪": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_三ノ輪"
+		]
+	},
+	"train/entetsu/central_up_sev/次_桜見町": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_桜見町"
+		]
+	},
+	"train/entetsu/central_up_sev/次_烏丸センター": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_烏丸センター"
+		]
+	},
+	"train/entetsu/central_up_sev/次_円丸羽宮市場": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_円丸羽宮市場"
+		]
+	},
+	"train/entetsu/central_up_sev/今_草津": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_草津"
+		]
+	},
+	"train/entetsu/central_up_sev/次_ポートランドトンネル": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_ポートランドトンネル"
+		]
+	},
+	"train/entetsu/central_up_sev/今_水族館": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_水族館"
+		]
+	},
+	"train/entetsu/central_up_sev/次_草津": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_草津"
+		]
+	},
+	"train/entetsu/central_up_sev/今_桜見町": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_桜見町"
+		]
+	},
+	"train/entetsu/central_up_sev/次_円丸中央": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_円丸中央"
+		]
+	},
+	"train/entetsu/central_up_sev/今_西羽宮": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_西羽宮"
+		]
+	},
+	"train/entetsu/central_up_sev/次_燕島大橋": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_燕島大橋"
+		]
+	},
+	"train/entetsu/central_up_sev/次_三ノ輪": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_三ノ輪"
+		]
+	},
+	"train/entetsu/central_up_sev/今_ポートランドトンネル": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_ポートランドトンネル"
+		]
+	},
+	"train/entetsu/central_up_sev/次_七姉妹": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_七姉妹"
+		]
+	},
+	"train/entetsu/central_up_sev/次_日本橋": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_日本橋"
+		]
+	},
+	"train/entetsu/central_up_sev/今_烏丸センター": {
+		"sounds": [
             "cablecar/next_sml"
         ]
     },
-    "cablecar.arr_mountain": {
-        "sounds": [
-            "cablecar/arr_mountain"
-        ]
-    },
-    "cablecar.arr_sml": {
-        "sounds": [
-            "cablecar/arr_sml"
-        ]
-    },
-    "entity.player.death": {
-        "sounds": [
-            "entity/player/death"
-        ]
-    },
-    "parliament.order": {
-        "sounds": [
-            "parliament/order"
-        ]
-    },
-    "misc.chingchongsoundeffect": {
-        "sounds": [
-            "misc/chingchongsoundeffect"
-        ]
-    },
-    "misc.paperspleasetheme": {
-        "sounds": [
-            "misc/paperspleasetheme"
-        ]
-    },
-    "alarm.alarm_test": {
-        "sounds": [
-            "alarm/alarm_test"
-        ]
-    },
-    "alarm.lab_alarm": {
-        "sounds": [
-            "alarm/lab_alarm"
-        ]
-    },
-    "alarm.hoshi_no_yo": {
-        "sounds": [
-            "alarm/hoshi_no_yo"
-        ]
-    }
+	"train/entetsu/central_up_sev/次_西島": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_西島"
+		]
+	},
+	"train/entetsu/central_up_sev/今_燕島大橋": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_燕島大橋"
+		]
+	},
+	"train/entetsu/central_up_sev/今_円丸中央": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_円丸中央"
+		]
+	},
+	"train/entetsu/central_up_sev/次_八千代": {
+		"sounds": [
+			"train/entetsu/central_up_sev/次_八千代"
+		]
+	},
+	"train/entetsu/central_up_sev/今_西島": {
+		"sounds": [
+			"train/entetsu/central_up_sev/今_西島"
+		]
+	},
+	"parliament/order": {
+		"sounds": [
+			"parliament/order"
+		]
+	},
+	"alarm/hoshi_no_yo": {
+		"sounds": [
+			"alarm/hoshi_no_yo"
+		]
+	},
+	"alarm/lab_alarm": {
+		"sounds": [
+			"alarm/lab_alarm"
+		]
+	},
+	"alarm/alarm_test": {
+		"sounds": [
+			"alarm/alarm_test"
+		]
+	}
 }
