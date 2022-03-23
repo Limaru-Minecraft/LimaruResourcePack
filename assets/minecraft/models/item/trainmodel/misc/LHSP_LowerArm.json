@@ -1,0 +1,84 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "LipanLocoTextures/dark metal",
+		"particle": "LipanLocoTextures/Crimson"
+	},"display": {
+		"head": {
+			"scale": [
+				2.0,
+				2.0,
+				2.0
+			]
+		}
+	},
+	"elements": [
+		{
+			"from": [8.5, 0, 0],
+			"to": [9.5, 0.5, 3],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 0, 0],
+			"to": [7.5, 0.5, 3],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 0, 2],
+			"to": [8.5, 0.5, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 6], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 0, 8],
+			"to": [9.5, 0.5, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 0.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 0.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 3, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 3, 1], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Panto",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				{
+					"name": "Lower Arm",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [0, 1, 2, 3]
+				}
+			]
+		}
+	]
+}

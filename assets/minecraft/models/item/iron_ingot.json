@@ -5,11 +5,16 @@
   },
   "overrides": [
 
-    {
-      "predicate": {
-        "custom_model_data": 20031
-      },
-      "model": "item/railmodel/rail"
-    }
+    {"predicate": {"custom_model_data": 1001}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_bck"},
+    {"predicate": {"custom_model_data": 1002}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_cabdoor"},
+    {"predicate": {"custom_model_data": 1003}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_doorL"},
+    {"predicate": {"custom_model_data": 1004}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_doorR"},
+    {"predicate": {"custom_model_data": 1005}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_fnt"},
+    {"predicate": {"custom_model_data": 1006}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_seat"},
+    {"predicate": {"custom_model_data": 1007}, "model": "item/trainmodel/lipan/Lipan_Midori_gang"},
+    {"predicate": {"custom_model_data": 1008}, "model": "item/trainmodel/lipan/Lipan_Midori_M_bck"},
+    {"predicate": {"custom_model_data": 1009}, "model": "item/trainmodel/lipan/Lipan_Midori_M_fnt"},
+    {"predicate": {"custom_model_data": 1010}, "model": "item/trainmodel/lipan/Lipan_Midori_M_mid"},
+    {"predicate": {"custom_model_data": 1011}, "model": "item/trainmodel/lipan/Lipan_Midori_pdoor"}
   ]
 }
