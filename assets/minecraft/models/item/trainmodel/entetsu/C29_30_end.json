@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/glass",
-		"1": "block/magenta_concrete_powder",
+		"1": "block/purple_concrete_powder",
 		"2": "block/cyan_concrete",
 		"3": "block/white_concrete",
 		"4": "block/light_gray_concrete",
