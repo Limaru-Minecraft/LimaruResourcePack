@@ -15,6 +15,16 @@
     {"predicate": {"custom_model_data": 1008}, "model": "item/trainmodel/lipan/Lipan_Midori_M_bck"},
     {"predicate": {"custom_model_data": 1009}, "model": "item/trainmodel/lipan/Lipan_Midori_M_fnt"},
     {"predicate": {"custom_model_data": 1010}, "model": "item/trainmodel/lipan/Lipan_Midori_M_mid"},
-    {"predicate": {"custom_model_data": 1011}, "model": "item/trainmodel/lipan/Lipan_Midori_pdoor"}
+    {"predicate": {"custom_model_data": 1011}, "model": "item/trainmodel/lipan/Lipan_Midori_pdoor"},
+
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/ycm/E24_End"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/ycm/E24_Mid"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/ycm/E24_Head"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/entetsu/S700_end"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/entetsu/S700_door"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/entetsu/S700_mid"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/entetsu/S700_head"}
+
+
   ]
 }
