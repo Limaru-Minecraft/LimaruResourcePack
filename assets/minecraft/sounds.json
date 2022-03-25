@@ -109,39 +109,39 @@
 			"train/frs/yc_central_platform2"
 		]
 	},
-	"train.ycm.Lakeside": {
+	"train.ycm.lakeside": {
 		"sounds": [
-			"train/ycm/Lakeside"
+			"train/ycm/lakeside"
 		]
 	},
-	"train.ycm.Solutional_Park_1": {
+	"train.ycm.solutional_park_1": {
 		"sounds": [
-			"train/ycm/Solutional_Park_1"
+			"train/ycm/solutional_park_1"
 		]
 	},
-	"train.ycm.Solutional_Park_2": {
+	"train.ycm.solutional_park_2": {
 		"sounds": [
-			"train/ycm/Solutional_Park_2"
+			"train/ycm/solutional_park_2"
 		]
 	},
-	"train.ycm.Chiaki": {
+	"train.ycm.chiaki": {
 		"sounds": [
-			"train/ycm/Chiaki"
+			"train/ycm/chiaki"
 		]
 	},
-	"train.ycm.Solutional_Park_3": {
+	"train.ycm.solutional_park_3": {
 		"sounds": [
-			"train/ycm/Solutional_Park_3"
+			"train/ycm/solutional_park_3"
 		]
 	},
-	"train.ycm.Solutional_Park_4": {
+	"train.ycm.solutional_park_4": {
 		"sounds": [
-			"train/ycm/Solutional_Park_4"
+			"train/ycm/solutional_park_4"
 		]
 	},
-	"train.ycm.Island_Tip": {
+	"train.ycm.island_tip": {
 		"sounds": [
-			"train/ycm/Island_Tip"
+			"train/ycm/island_tip"
 		]
 	},
 	"train.ycm.aftermath": {
@@ -159,9 +159,9 @@
 			"train/ycm/train_service_ends"
 		]
 	},
-	"train.ycm.Inoriye_1": {
+	"train.ycm.inoriye_1": {
 		"sounds": [
-			"train/ycm/Inoriye_1"
+			"train/ycm/inoriye_1"
 		]
 	},
 	"train.ycm.ycm_06": {
@@ -179,14 +179,14 @@
 			"train/ycm/gota_del_vient"
 		]
 	},
-	"train.ycm.Inoriye_2": {
+	"train.ycm.inoriye_2": {
 		"sounds": [
-			"train/ycm/Inoriye_2"
+			"train/ycm/inoriye_2"
 		]
 	},
-	"train.ycm.Mount_Lipan": {
+	"train.ycm.mount_lipan": {
 		"sounds": [
-			"train/ycm/Mount_Lipan"
+			"train/ycm/mount_lipan"
 		]
 	},
 	"train.ycm.ycm_01": {
