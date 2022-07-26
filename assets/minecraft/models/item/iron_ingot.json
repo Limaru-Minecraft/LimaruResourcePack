@@ -24,7 +24,11 @@
     {"predicate": {"custom_model_data": 1016}, "model": "item/trainmodel/entetsu/S700_door"},
     {"predicate": {"custom_model_data": 1017}, "model": "item/trainmodel/entetsu/S700_mid"},
     {"predicate": {"custom_model_data": 1018}, "model": "item/trainmodel/entetsu/S700_head"},
-    {"predicate": {"custom_model_data": 1019}, "model": "item/trainmodel/entetsu/S700_mid_first"}
+    {"predicate": {"custom_model_data": 1019}, "model": "item/trainmodel/entetsu/S700_mid_first"},
+
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/entetsu/P89_end"},
+    {"predicate": {"custom_model_data": 1013}, "model": "item/trainmodel/entetsu/P89_door"},
+    {"predicate": {"custom_model_data": 1014}, "model": "item/trainmodel/entetsu/P89_head"},
 
   ]
 }
