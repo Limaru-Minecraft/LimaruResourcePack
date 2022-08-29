@@ -4,6 +4,20 @@
 		"particle": "block/detector_rail",
 		"rail": "block/detector_rail"
 	},
+	"display": {
+		"head": {
+			"translation": [
+				0,
+				4.5,
+				0
+			],
+			"scale": [
+				1.57,
+				1.57,
+				1.57
+			]
+		}
+	},
 	"elements": [
 		{
 			"name": "Plank1",

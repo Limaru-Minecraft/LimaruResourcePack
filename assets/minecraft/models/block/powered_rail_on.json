@@ -1,9 +1,22 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/powered_rail_on",
 		"rail": "block/powered_rail_on"
+	},
+	"display": {
+		"head": {
+			"translation": [
+				0,
+				4.5,
+				0
+			],
+			"scale": [
+				1.57,
+				1.57,
+				1.57
+			]
+		}
 	},
 	"elements": [
 		{
