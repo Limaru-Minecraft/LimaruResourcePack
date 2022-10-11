@@ -53,7 +53,11 @@
 
 		{"predicate": { "damaged": 0, "custom_model_data": 120 }, "model": "item/trainmodel/ycm/MT5000_Head"},
 		{"predicate": { "damaged": 0, "custom_model_data": 121 }, "model": "item/trainmodel/ycm/MT5000_Mid"},
-		{"predicate": { "damaged": 0, "custom_model_data": 122 }, "model": "item/trainmodel/ycm/MT5000_Connector"}
+		{"predicate": { "damaged": 0, "custom_model_data": 122 }, "model": "item/trainmodel/ycm/MT5000_Connector"},
+
+		{"predicate": { "damaged": 0, "custom_model_data": 123 }, "model": "item/trainmodel/ycm/MT5000_Head_SMONO"},
+		{"predicate": { "damaged": 0, "custom_model_data": 124 }, "model": "item/trainmodel/ycm/MT5000_Mid_SMONO"},
+		{"predicate": { "damaged": 0, "custom_model_data": 125 }, "model": "item/trainmodel/ycm/MT5000_Connector_SMONO"}
 		
 	]
 }
