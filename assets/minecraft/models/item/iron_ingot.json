@@ -29,6 +29,9 @@
     {"predicate": {"custom_model_data": 1022}, "model": "item/trainmodel/entetsu/P89_head"},
     {"predicate": {"custom_model_data": 1023}, "model": "item/trainmodel/lipan/L500_DM_B"},
     {"predicate": {"custom_model_data": 1024}, "model": "item/trainmodel/lipan/L500_DM_F"},
-    {"predicate": {"custom_model_data": 1025}, "model": "item/trainmodel/lipan/L500_DM_M"}
+    {"predicate": {"custom_model_data": 1025}, "model": "item/trainmodel/lipan/L500_DM_M"},
+    {"predicate": {"custom_model_data": 1026}, "model": "item/trainmodel/entetsu/C307_end"},
+    {"predicate": {"custom_model_data": 1027}, "model": "item/trainmodel/entetsu/C307_mid"},
+    {"predicate": {"custom_model_data": 1028}, "model": "item/trainmodel/entetsu/C307_head"}
   ]
 }
