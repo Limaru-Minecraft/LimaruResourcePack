@@ -374,34 +374,9 @@
 			"train/entetsu/dooropen"
 		]
 	},
-	"train.entetsu.central_dw_spt.this_西島": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_西島"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_桜見町": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_桜見町"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_福野": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_福野"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_西羽宮": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_西羽宮"
-		]
-	},
 	"train.entetsu.central_dw_spt.this_karasumaryokuchi": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/this_karasumaryokuchi"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_南角終点": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_南角終点"
 		]
 	},
 	"train.entetsu.central_dw_spt.next_hanemiyaichiba": {
@@ -409,69 +384,14 @@
 			"train/entetsu/central_dw_spt/next_hanemiyaichiba"
 		]
 	},
-	"train.entetsu.central_dw_spt.next_三ノ輪": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_三ノ輪"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_紫陽花町": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_紫陽花町"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_燕島大橋": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_燕島大橋"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_水族館": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_水族館"
-		]
-	},
 	"train.entetsu.central_dw_spt.this_portlandtunnel": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/this_portlandtunnel"
 		]
 	},
-	"train.entetsu.central_dw_spt.next_日本橋": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_日本橋"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_虹": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_虹"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_八千代": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_八千代"
-		]
-	},
 	"train.entetsu.central_dw_spt.next_karasumacentre": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/next_karasumacentre"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_草津": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_草津"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_八千代": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_八千代"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_草津": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_草津"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_日本橋": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_日本橋"
 		]
 	},
 	"train.entetsu.central_dw_spt.next_karasumaryokuchi": {
@@ -484,29 +404,9 @@
 			"train/entetsu/central_dw_spt/this_hanemiyaichiba"
 		]
 	},
-	"train.entetsu.central_dw_spt.this_三ノ輪": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_三ノ輪"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_南角終点": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_南角終点"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_紫陽花町": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_紫陽花町"
-		]
-	},
 	"train.entetsu.central_dw_spt.next_portlandtunnel": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/next_portlandtunnel"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_燕島大橋": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_燕島大橋"
 		]
 	},
 	"train.entetsu.central_dw_spt.next_emmarucentral": {
@@ -514,224 +414,14 @@
 			"train/entetsu/central_dw_spt/next_emmarucentral"
 		]
 	},
-	"train.entetsu.central_dw_spt.next_水族館": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_水族館"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_虹": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_虹"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_西島": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_西島"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_桜見町": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_桜見町"
-		]
-	},
 	"train.entetsu.central_dw_spt.this_emmarucentral": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/this_emmarucentral"
 		]
 	},
-	"train.entetsu.central_dw_spt.this_福野": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_福野"
-		]
-	},
 	"train.entetsu.central_dw_spt.this_karasumacentre": {
 		"sounds": [
 			"train/entetsu/central_dw_spt/this_karasumacentre"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_西羽宮": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_西羽宮"
-		]
-	},
-	"train.entetsu.central_up_sev.今_福野": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_福野"
-		]
-	},
-	"train.entetsu.central_up_sev.今_七姉妹": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_七姉妹"
-		]
-	},
-	"train.entetsu.central_up_sev.今_日本橋": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_日本橋"
-		]
-	},
-	"train.entetsu.central_up_sev.今_紫陽花町": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_紫陽花町"
-		]
-	},
-	"train.entetsu.central_up_sev.次_烏丸緑地": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_烏丸緑地"
-		]
-	},
-	"train.entetsu.central_up_sev.次_福野": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_福野"
-		]
-	},
-	"train.entetsu.central_up_sev.今_八千代": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_八千代"
-		]
-	},
-	"train.entetsu.central_up_sev.今_円丸羽宮市場": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_円丸羽宮市場"
-		]
-	},
-	"train.entetsu.central_up_sev.次_虹": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_虹"
-		]
-	},
-	"train.entetsu.central_up_sev.次_水族館": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_水族館"
-		]
-	},
-	"train.entetsu.central_up_sev.今_虹": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_虹"
-		]
-	},
-	"train.entetsu.central_up_sev.次_紫陽花町": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_紫陽花町"
-		]
-	},
-	"train.entetsu.central_up_sev.今_烏丸緑地": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_烏丸緑地"
-		]
-	},
-	"train.entetsu.central_up_sev.次_西羽宮": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_西羽宮"
-		]
-	},
-	"train.entetsu.central_up_sev.今_三ノ輪": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_三ノ輪"
-		]
-	},
-	"train.entetsu.central_up_sev.次_桜見町": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_桜見町"
-		]
-	},
-	"train.entetsu.central_up_sev.次_烏丸センター": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_烏丸センター"
-		]
-	},
-	"train.entetsu.central_up_sev.次_円丸羽宮市場": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_円丸羽宮市場"
-		]
-	},
-	"train.entetsu.central_up_sev.今_草津": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_草津"
-		]
-	},
-	"train.entetsu.central_up_sev.次_ポートランドトンネル": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_ポートランドトンネル"
-		]
-	},
-	"train.entetsu.central_up_sev.今_水族館": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_水族館"
-		]
-	},
-	"train.entetsu.central_up_sev.次_草津": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_草津"
-		]
-	},
-	"train.entetsu.central_up_sev.今_桜見町": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_桜見町"
-		]
-	},
-	"train.entetsu.central_up_sev.次_円丸中央": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_円丸中央"
-		]
-	},
-	"train.entetsu.central_up_sev.今_西羽宮": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_西羽宮"
-		]
-	},
-	"train.entetsu.central_up_sev.次_燕島大橋": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_燕島大橋"
-		]
-	},
-	"train.entetsu.central_up_sev.次_三ノ輪": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_三ノ輪"
-		]
-	},
-	"train.entetsu.central_up_sev.今_ポートランドトンネル": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_ポートランドトンネル"
-		]
-	},
-	"train.entetsu.central_up_sev.次_七姉妹": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_七姉妹"
-		]
-	},
-	"train.entetsu.central_up_sev.次_日本橋": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_日本橋"
-		]
-	},
-	"train.entetsu.central_up_sev.今_烏丸センター": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_烏丸センター"
-		]
-	},
-	"train.entetsu.central_up_sev.次_西島": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_西島"
-		]
-	},
-	"train.entetsu.central_up_sev.今_燕島大橋": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_燕島大橋"
-		]
-	},
-	"train.entetsu.central_up_sev.今_円丸中央": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_円丸中央"
-		]
-	},
-	"train.entetsu.central_up_sev.次_八千代": {
-		"sounds": [
-			"train/entetsu/central_up_sev/次_八千代"
-		]
-	},
-	"train.entetsu.central_up_sev.今_西島": {
-		"sounds": [
-			"train/entetsu/central_up_sev/今_西島"
 		]
 	},
 	"parliament.order": {
