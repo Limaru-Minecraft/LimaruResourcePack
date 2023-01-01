@@ -374,64 +374,9 @@
 			"train/entetsu/dooropen"
 		]
 	},
-	"train.entetsu.central_dw_spt.this_karasumaryokuchi": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_karasumaryokuchi"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_hanemiyaichiba": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_hanemiyaichiba"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_portlandtunnel": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_portlandtunnel"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_karasumacentre": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_karasumacentre"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_karasumaryokuchi": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_karasumaryokuchi"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_hanemiyaichiba": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_hanemiyaichiba"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_portlandtunnel": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_portlandtunnel"
-		]
-	},
-	"train.entetsu.central_dw_spt.next_emmarucentral": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/next_emmarucentral"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_emmarucentral": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_emmarucentral"
-		]
-	},
-	"train.entetsu.central_dw_spt.this_karasumacentre": {
-		"sounds": [
-			"train/entetsu/central_dw_spt/this_karasumacentre"
-		]
-	},
 	"parliament.order": {
 		"sounds": [
 			"parliament/order"
-		]
-	},
-	"alarm.hoshi_no_yo": {
-		"sounds": [
-			"alarm/hoshi_no_yo"
 		]
 	},
 	"alarm.lab_alarm": {

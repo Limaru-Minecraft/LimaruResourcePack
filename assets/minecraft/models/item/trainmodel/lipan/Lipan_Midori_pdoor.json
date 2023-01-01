@@ -4,14 +4,6 @@
 		"34": "LipanLocoTextures/Lipan Midori",
 		"58": "LipanLocoTextures/MidoriMEMUtextures/MEMU_wpd",
 		"particle": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -75,6 +67,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "pdoors",

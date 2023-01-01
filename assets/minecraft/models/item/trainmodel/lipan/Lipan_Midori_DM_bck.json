@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "LipanLocoTextures/shine metal",
 		"3": "LipanLocoTextures/wagon metal",
@@ -19,11 +18,6 @@
 		"44": "LipanLocoTextures/LipanLogoRedraw",
 		"47": "LipanLocoTextures/MidoriMEMUtextures/MEMUMidoriEndTexture",
 		"particle": "LipanLocoTextures/dark metal"
-	},
-	"display": {
-		"head": {
-			"scale": [2.0, 2.0, 2.0]
-		}
 	},
 	"elements": [
 		{
@@ -1683,6 +1677,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "glass",

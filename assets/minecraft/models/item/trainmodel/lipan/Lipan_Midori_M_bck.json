@@ -6,14 +6,6 @@
 		"44": "LipanLocoTextures/LipanLogoRedraw",
 		"47": "LipanLocoTextures/MidoriMEMUtextures/MEMUMidoriBagEnd",
 		"particle": "LipanLocoTextures/dark metal"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -1109,6 +1101,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "glass",

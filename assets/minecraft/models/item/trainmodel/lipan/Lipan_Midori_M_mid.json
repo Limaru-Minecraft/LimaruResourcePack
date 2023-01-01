@@ -33,14 +33,6 @@
 		"28": "LipanLocoTextures/snowplough yellow",
 		"29": "LipanLocoTextures/Crimson",
 		"particle": "LipanLocoTextures/wagon metal"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -1472,6 +1464,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Frame",

@@ -53,14 +53,6 @@
 		"57": "LipanLocoTextures/MidoriMEMUtextures/MEMU_cdrr",
 		"59": "LipanLocoTextures/StandardLight",
 		"particle": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -1180,6 +1172,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Frame",

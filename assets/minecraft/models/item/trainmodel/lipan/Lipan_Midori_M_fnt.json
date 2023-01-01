@@ -8,14 +8,6 @@
 		"44": "LipanLocoTextures/LipanLogoRedraw",
 		"46": "LipanLocoTextures/MidoriMEMUtextures/MidoriCatEndTexture",
 		"particle": "LipanLocoTextures/dark metal"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -1375,6 +1367,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "glass",

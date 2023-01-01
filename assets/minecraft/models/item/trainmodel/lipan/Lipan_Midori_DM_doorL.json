@@ -6,14 +6,6 @@
 		"2": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gt",
 		"27": "LipanLocoTextures/wagon metal",
 		"particle": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -101,6 +93,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Gangway Door L",

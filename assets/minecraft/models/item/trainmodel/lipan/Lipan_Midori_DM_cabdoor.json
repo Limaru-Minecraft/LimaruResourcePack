@@ -6,14 +6,6 @@
 		"43": "LipanLocoTextures/MidoriMEMUtextures/MEMU_cabdoor",
 		"53": "LipanLocoTextures/Snow White",
 		"particle": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
-	},"display": {
-		"head": {
-			"scale": [
-				2.0,
-				2.0,
-				2.0
-			]
-		}
 	},
 	"elements": [
 		{
@@ -134,6 +126,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "Interior",

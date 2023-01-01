@@ -17,15 +17,6 @@
 		"27": "LipanLocoTextures/Gondola_right",
 		"particle": "LipanLocoTextures/horn"
 	},
-	"display": {
-		"head": {
-			"scale": [
-				1.9,
-				1.9,
-				1.9
-			]
-		}
-	},
 	"elements": [
 		{
 			"from": [15, -3, -9],
@@ -1252,6 +1243,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.9, 1.9, 1.9]
+		}
+	},
 	"groups": [
 		{
 			"name": "body",
