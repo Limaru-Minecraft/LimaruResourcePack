@@ -60,7 +60,8 @@
 		{"predicate": { "damaged": 0, "custom_model_data": 125 }, "model": "item/trainmodel/ycm/MT5000_Connector_SMONO"},
 
 		{"predicate": { "damaged": 0, "custom_model_data": 126 }, "model": "item/trainmodel/ycm/C651_Head"},
-		{"predicate": { "damaged": 0, "custom_model_data": 127 }, "model": "item/trainmodel/ycm/C651_Connector"}
+		{"predicate": { "damaged": 0, "custom_model_data": 127 }, "model": "item/trainmodel/ycm/C651_Connector"},
+		{"predicate": { "damaged": 0, "custom_model_data": 128 }, "model": "item/trainmodel/ycm/C651_Door"}
 		
 	]
 }
