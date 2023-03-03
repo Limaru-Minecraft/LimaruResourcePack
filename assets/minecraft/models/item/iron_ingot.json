@@ -4,7 +4,8 @@
     "layer0": "item/iron_ingot"
   },
   "overrides": [
-
+    {"predicate": {"custom_model_data": 500}, "model": "item/YCM_Third_Rail"},
+    
     {"predicate": {"custom_model_data": 1001}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_bck"},
     {"predicate": {"custom_model_data": 1002}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_cabdoor"},
     {"predicate": {"custom_model_data": 1003}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_doorL"},
