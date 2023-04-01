@@ -1,0 +1,984 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/tokaido_hanon1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/tokaido_hanon2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/tokaido_hanon3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/tozai"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/E235_Lights"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/AD"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/LipanMetroLineRollsign"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rollsigns/northsouth1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lipan Metro Code RollsignStacked"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:destos/not_in_service"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/dark metal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Crimson"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/shine metal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/snowplough yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MU coupler"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Namboku Green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Bogie Front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/horn"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Snow White"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/wagon metal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/LHSP_graphite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_pdb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_pds"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_pdt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_qpdb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_qpdt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/headlight right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/headlight left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/headlight main"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MU terminal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/panto holder"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Main Air"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Res Air"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/roof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/lamp holder"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/front bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/front top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/left pillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/left mid pillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/right mid pillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/right pillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/back left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/back right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/cab back"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/mid left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/mid right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/front left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/front right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/w pillar left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/w pillar right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/wt left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/wb left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/wt right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d1 top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d1 left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d1 right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d1 bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/wb right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d2 top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d2 left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d2 right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/d2 bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/tconsole"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/bconsole"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/lconsole"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/rconsole"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/bseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/tseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_bseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_gb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_gt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_Frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_broof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_tfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_lfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_rfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_bleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_mtright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_tfright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_tfleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_fleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_mbleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_mtleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_bseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_tseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rmiddle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_rollsignplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/LipanLogoRedraw"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/L500_DM_B_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_Frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_Front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_mright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_mleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_rdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lowside_ldoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Light Crimson"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Loop Orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_light"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_dtop"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_dleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_dright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_dbottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_bright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_mbright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_b_fright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidoriBagEnd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_redlamp"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_roof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_tfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lpillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rpillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lbfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rbfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_ltfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rtfront"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_trmiddle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_tlmiddle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lmiddle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rback"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lback"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_troof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rbdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rldoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rrdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_rtdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lbdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_ltdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lldoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_lrdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/500_cabdivider"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/StandardLight"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/SC_toilet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/SC_sink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/SC_mirror"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/SC_bidet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorib_flwin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Lipan Midori"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorib_towin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidoriEndTexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_tseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cabdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Gondola_front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Gondola_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Gondola_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/L500_DM_F_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/L500_DM_M_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_wpd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MidoriCatEndTexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_Frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_Front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_mright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_mleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_rdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/DptLowside_ldoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_mbl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_br"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_fr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_fl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_mroof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_kl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_kr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_ml"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_mr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_tl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_tr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_wl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidorim_wr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidori_bpseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidori_FOWtseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidori_REVtseat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMUMidori_tablet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Standard_bAC"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/Standard_tAC"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_wgfl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_wgfr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_wfr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_wfl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_ft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fbl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fbr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_lbf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_rbf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_lmf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_rmf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_froof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_ltf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_ltff"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_rtf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_rtff"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fpl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fpr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/ivory"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cml"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cmr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fframe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_dwl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_dwr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_ftl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_ftr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdtl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdbl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdll"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdrl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fml"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fmr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_fck"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdtr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdbr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdlr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/MidoriMEMUtextures/MEMU_cdrr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_Frame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_Left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_Front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_mleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:LipanLocoTextures/OreHopper_fright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:train_map_8.0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:train_misc/ycm_pattern_lime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:train_misc/ycm_pattern_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lgm_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:train_misc/ycm_pattern"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:smono_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/new_entetsu_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:painting/back"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/vend_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/can"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/L89"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:train_misc/entetsu_controller"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/C23"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entetsu_textures/tkhn_line_diagram"
+        }
+    ]
+}
