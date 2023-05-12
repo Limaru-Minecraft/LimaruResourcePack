@@ -4,6 +4,14 @@
 		"0": "block/black_concrete",
 		"1": "block/black_stained_glass",
 		"particle": "block/black_concrete"
+	},"display": {
+		"head": {
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
 	},
 	"elements": [
 		{
