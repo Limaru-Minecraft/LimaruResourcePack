@@ -1,22 +1,12 @@
 {
-	"misc.paperspleasetheme": {
+	"alarm.alarm_test": {
 		"sounds": [
-			"misc/paperspleasetheme"
+			"alarm/alarm_test"
 		]
 	},
-	"misc.chingchongsoundeffect": {
+	"alarm.lab_alarm": {
 		"sounds": [
-			"misc/chingchongsoundeffect"
-		]
-	},
-	"cablecar.arr_sml": {
-		"sounds": [
-			"cablecar/arr_sml"
-		]
-	},
-	"cablecar.next_sml": {
-		"sounds": [
-			"cablecar/next_sml"
+			"alarm/lab_alarm"
 		]
 	},
 	"cablecar.arr_mountain": {
@@ -24,14 +14,49 @@
 			"cablecar/arr_mountain"
 		]
 	},
+	"cablecar.arr_sml": {
+		"sounds": [
+			"cablecar/arr_sml"
+		]
+	},
 	"cablecar.next_mountain": {
 		"sounds": [
 			"cablecar/next_mountain"
 		]
 	},
+	"cablecar.next_sml": {
+		"sounds": [
+			"cablecar/next_sml"
+		]
+	},
 	"entity.player.death": {
 		"sounds": [
 			"entity/player/death"
+		]
+	},
+	"minecart.base": {
+		"sounds": [
+			"minecart/base"
+		]
+	},
+	"minecart.inside": {
+		"sounds": [
+			"minecart/inside"
+		]
+	},
+	"misc.chingchongsoundeffect": {
+		"sounds": [
+			"misc/chingchongsoundeffect"
+		]
+	},
+	"misc.paperspleasetheme": {
+		"sounds": [
+			"misc/paperspleasetheme"
+		]
+	},
+	"parliament.order": {
+		"sounds": [
+			"parliament/order"
 		]
 	},
 	"tile.piston.in": {
@@ -44,19 +69,29 @@
 			"tile/piston/out"
 		]
 	},
-	"minecart.inside": {
-		"sounds": [
-			"minecart/inside"
-		]
-	},
-	"minecart.base": {
-		"sounds": [
-			"minecart/base"
-		]
-	},
 	"train.accelerate": {
 		"sounds": [
 			"train/accelerate"
+		]
+	},
+	"train.brake_automatic": {
+		"sounds": [
+			"train/brake_automatic"
+		]
+	},
+	"train.brake_mandraulic": {
+		"sounds": [
+			"train/brake_mandraulic"
+		]
+	},
+	"train.motion": {
+		"sounds": [
+			"train/motion"
+		]
+	},
+	"train.unused_1": {
+		"sounds": [
+			"train/unused_1"
 		]
 	},
 	"train.unused_2": {
@@ -69,29 +104,19 @@
 			"train/unused_3"
 		]
 	},
-	"train.unused_1": {
+	"train.entetsu.doorclose": {
 		"sounds": [
-			"train/unused_1"
+			"train/entetsu/doorclose"
 		]
 	},
-	"train.brake_automatic": {
+	"train.entetsu.doorclosing": {
 		"sounds": [
-			"train/brake_automatic"
+			"train/entetsu/doorclosing"
 		]
 	},
-	"train.motion": {
+	"train.entetsu.dooropen": {
 		"sounds": [
-			"train/motion"
-		]
-	},
-	"train.brake_mandraulic": {
-		"sounds": [
-			"train/brake_mandraulic"
-		]
-	},
-	"train.frs.yc_central_platform4": {
-		"sounds": [
-			"train/frs/yc_central_platform4"
+			"train/entetsu/dooropen"
 		]
 	},
 	"train.frs.yc_central_platform1": {
@@ -99,49 +124,19 @@
 			"train/frs/yc_central_platform1"
 		]
 	},
-	"train.frs.yc_central_platform3": {
-		"sounds": [
-			"train/frs/yc_central_platform3"
-		]
-	},
 	"train.frs.yc_central_platform2": {
 		"sounds": [
 			"train/frs/yc_central_platform2"
 		]
 	},
-	"train.ycm.lakeside": {
+	"train.frs.yc_central_platform3": {
 		"sounds": [
-			"train/ycm/lakeside"
+			"train/frs/yc_central_platform3"
 		]
 	},
-	"train.ycm.solutional_park_1": {
+	"train.frs.yc_central_platform4": {
 		"sounds": [
-			"train/ycm/solutional_park_1"
-		]
-	},
-	"train.ycm.solutional_park_2": {
-		"sounds": [
-			"train/ycm/solutional_park_2"
-		]
-	},
-	"train.ycm.chiaki": {
-		"sounds": [
-			"train/ycm/chiaki"
-		]
-	},
-	"train.ycm.solutional_park_3": {
-		"sounds": [
-			"train/ycm/solutional_park_3"
-		]
-	},
-	"train.ycm.solutional_park_4": {
-		"sounds": [
-			"train/ycm/solutional_park_4"
-		]
-	},
-	"train.ycm.island_tip": {
-		"sounds": [
-			"train/ycm/island_tip"
+			"train/frs/yc_central_platform4"
 		]
 	},
 	"train.ycm.aftermath": {
@@ -149,49 +144,14 @@
 			"train/ycm/aftermath"
 		]
 	},
-	"train.ycm.spring_breeze": {
+	"train.ycm.Chiaki": {
 		"sounds": [
-			"train/ycm/spring_breeze"
+			"train/ycm/Chiaki"
 		]
 	},
-	"train.ycm.train_service_ends": {
+	"train.ycm.chime": {
 		"sounds": [
-			"train/ycm/train_service_ends"
-		]
-	},
-	"train.ycm.inoriye_1": {
-		"sounds": [
-			"train/ycm/inoriye_1"
-		]
-	},
-	"train.ycm.ycm_06": {
-		"sounds": [
-			"train/ycm/ycm_06"
-		]
-	},
-	"train.ycm.osaka_tune": {
-		"sounds": [
-			"train/ycm/osaka_tune"
-		]
-	},
-	"train.ycm.gota_del_vient": {
-		"sounds": [
-			"train/ycm/gota_del_vient"
-		]
-	},
-	"train.ycm.inoriye_2": {
-		"sounds": [
-			"train/ycm/inoriye_2"
-		]
-	},
-	"train.ycm.mount_lipan": {
-		"sounds": [
-			"train/ycm/mount_lipan"
-		]
-	},
-	"train.ycm.ycm_01": {
-		"sounds": [
-			"train/ycm/ycm_01"
+			"train/ycm/chime"
 		]
 	},
 	"train.ycm.cielo_estrellado": {
@@ -204,9 +164,9 @@
 			"train/ycm/doorclosing"
 		]
 	},
-	"train.ycm.chime": {
+	"train.ycm.doors_closing": {
 		"sounds": [
-			"train/ycm/chime"
+			"train/ycm/doors_closing"
 		]
 	},
 	"train.ycm.doors_closing_stand_clear": {
@@ -214,19 +174,44 @@
 			"train/ycm/doors_closing_stand_clear"
 		]
 	},
-	"train.ycm.water_crown": {
-		"sounds": [
-			"train/ycm/water_crown"
-		]
-	},
 	"train.ycm.flower_shop": {
 		"sounds": [
 			"train/ycm/flower_shop"
 		]
 	},
-	"train.ycm.sunlight": {
+	"train.ycm.gota_del_vient": {
 		"sounds": [
-			"train/ycm/sunlight"
+			"train/ycm/gota_del_vient"
+		]
+	},
+	"train.ycm.Inoriye_1": {
+		"sounds": [
+			"train/ycm/Inoriye_1"
+		]
+	},
+	"train.ycm.Inoriye_2": {
+		"sounds": [
+			"train/ycm/Inoriye_2"
+		]
+	},
+	"train.ycm.Island_Tip": {
+		"sounds": [
+			"train/ycm/Island_Tip"
+		]
+	},
+	"train.ycm.Lakeside": {
+		"sounds": [
+			"train/ycm/Lakeside"
+		]
+	},
+	"train.ycm.Mount_Lipan": {
+		"sounds": [
+			"train/ycm/Mount_Lipan"
+		]
+	},
+	"train.ycm.osaka_tune": {
+		"sounds": [
+			"train/ycm/osaka_tune"
 		]
 	},
 	"train.ycm.sea_green": {
@@ -234,124 +219,74 @@
 			"train/ycm/sea_green"
 		]
 	},
+	"train.ycm.Solutional_Park_1": {
+		"sounds": [
+			"train/ycm/Solutional_Park_1"
+		]
+	},
+	"train.ycm.Solutional_Park_2": {
+		"sounds": [
+			"train/ycm/Solutional_Park_2"
+		]
+	},
+	"train.ycm.Solutional_Park_3": {
+		"sounds": [
+			"train/ycm/Solutional_Park_3"
+		]
+	},
+	"train.ycm.Solutional_Park_4": {
+		"sounds": [
+			"train/ycm/Solutional_Park_4"
+		]
+	},
+	"train.ycm.spring_breeze": {
+		"sounds": [
+			"train/ycm/spring_breeze"
+		]
+	},
+	"train.ycm.station_chime": {
+		"sounds": [
+			"train/ycm/station_chime"
+		]
+	},
+	"train.ycm.sunlight": {
+		"sounds": [
+			"train/ycm/sunlight"
+		]
+	},
 	"train.ycm.the_star_festival": {
 		"sounds": [
 			"train/ycm/the_star_festival"
 		]
 	},
-	"train.ycm.next_station.lakeside": {
+	"train.ycm.train_chime": {
 		"sounds": [
-			"train/ycm/next_station/lakeside"
+			"train/ycm/train_chime"
 		]
 	},
-	"train.ycm.next_station.chiaki": {
+	"train.ycm.train_departing": {
 		"sounds": [
-			"train/ycm/next_station/chiaki"
+			"train/ycm/train_departing"
 		]
 	},
-	"train.ycm.next_station.crossover_solutional_park_sb": {
+	"train.ycm.train_service_ends": {
 		"sounds": [
-			"train/ycm/next_station/crossover_solutional_park_sb"
+			"train/ycm/train_service_ends"
 		]
 	},
-	"train.ycm.next_station.solutional_park_southbound": {
+	"train.ycm.water_crown": {
 		"sounds": [
-			"train/ycm/next_station/solutional_park_southbound"
+			"train/ycm/water_crown"
 		]
 	},
-	"train.ycm.next_station.newton_cw": {
+	"train.ycm.ycm_01": {
 		"sounds": [
-			"train/ycm/next_station/newton_cw"
+			"train/ycm/ycm_01"
 		]
 	},
-	"train.ycm.next_station.island_tip": {
+	"train.ycm.ycm_06": {
 		"sounds": [
-			"train/ycm/next_station/island_tip"
-		]
-	},
-	"train.ycm.next_station.lakeside_cw": {
-		"sounds": [
-			"train/ycm/next_station/lakeside_cw"
-		]
-	},
-	"train.ycm.next_station.inoriye_northbound": {
-		"sounds": [
-			"train/ycm/next_station/inoriye_northbound"
-		]
-	},
-	"train.ycm.next_station.roundtown_cw": {
-		"sounds": [
-			"train/ycm/next_station/roundtown_cw"
-		]
-	},
-	"train.ycm.next_station.lakeside_acw": {
-		"sounds": [
-			"train/ycm/next_station/lakeside_acw"
-		]
-	},
-	"train.ycm.next_station.mount_lipan": {
-		"sounds": [
-			"train/ycm/next_station/mount_lipan"
-		]
-	},
-	"train.ycm.next_station.roundtown_acw": {
-		"sounds": [
-			"train/ycm/next_station/roundtown_acw"
-		]
-	},
-	"train.ycm.next_station.flatlands_cw": {
-		"sounds": [
-			"train/ycm/next_station/flatlands_cw"
-		]
-	},
-	"train.ycm.next_station.solutional_park_northbound": {
-		"sounds": [
-			"train/ycm/next_station/solutional_park_northbound"
-		]
-	},
-	"train.ycm.next_station.solutional_park_lll": {
-		"sounds": [
-			"train/ycm/next_station/solutional_park_lll"
-		]
-	},
-	"train.ycm.next_station.crossover_solutional_park_nb": {
-		"sounds": [
-			"train/ycm/next_station/crossover_solutional_park_nb"
-		]
-	},
-	"train.ycm.next_station.inoriye_southbound": {
-		"sounds": [
-			"train/ycm/next_station/inoriye_southbound"
-		]
-	},
-	"train.ycm.next_station.sunmoonlake": {
-		"sounds": [
-			"train/ycm/next_station/sunmoonlake"
-		]
-	},
-	"train.ycm.next_station.newton_acw": {
-		"sounds": [
-			"train/ycm/next_station/newton_acw"
-		]
-	},
-	"train.ycm.next_station.flatlands_acw": {
-		"sounds": [
-			"train/ycm/next_station/flatlands_acw"
-		]
-	},
-	"train.ycm.arriving.solpark_nsl_4": {
-		"sounds": [
-			"train/ycm/arriving/solpark_nsl_4"
-		]
-	},
-	"train.ycm.arriving.solpark_nsl_1": {
-		"sounds": [
-			"train/ycm/arriving/solpark_nsl_1"
-		]
-	},
-	"train.ycm.arriving.solpark_lll_3": {
-		"sounds": [
-			"train/ycm/arriving/solpark_lll_3"
+			"train/ycm/ycm_06"
 		]
 	},
 	"train.ycm.arriving.solpark_lll_2": {
@@ -359,34 +294,239 @@
 			"train/ycm/arriving/solpark_lll_2"
 		]
 	},
-	"train.entetsu.doorclosing": {
+	"train.ycm.arriving.solpark_lll_3": {
 		"sounds": [
-			"train/entetsu/doorclosing"
+			"train/ycm/arriving/solpark_lll_3"
 		]
 	},
-	"train.entetsu.doorclose": {
+	"train.ycm.arriving.solpark_nsl_1": {
 		"sounds": [
-			"train/entetsu/doorclose"
+			"train/ycm/arriving/solpark_nsl_1"
 		]
 	},
-	"train.entetsu.dooropen": {
+	"train.ycm.arriving.solpark_nsl_4": {
 		"sounds": [
-			"train/entetsu/dooropen"
+			"train/ycm/arriving/solpark_nsl_4"
 		]
 	},
-	"parliament.order": {
+	"train.ycm.melodies.cielo_estrellado": {
 		"sounds": [
-			"parliament/order"
+			"train/ycm/melodies/cielo_estrellado"
 		]
 	},
-	"alarm.lab_alarm": {
+	"train.ycm.melodies.commuter_train_of_love": {
 		"sounds": [
-			"alarm/lab_alarm"
+			"train/ycm/melodies/commuter_train_of_love"
 		]
 	},
-	"alarm.alarm_test": {
+	"train.ycm.melodies.concerto_no_6_op_3": {
 		"sounds": [
-			"alarm/alarm_test"
+			"train/ycm/melodies/concerto_no_6_op_3"
+		]
+	},
+	"train.ycm.melodies.dragon_night": {
+		"sounds": [
+			"train/ycm/melodies/dragon_night"
+		]
+	},
+	"train.ycm.melodies.eine_kleine_nachtmusik_allegro": {
+		"sounds": [
+			"train/ycm/melodies/eine_kleine_nachtmusik_allegro"
+		]
+	},
+	"train.ycm.melodies.red_train": {
+		"sounds": [
+			"train/ycm/melodies/red_train"
+		]
+	},
+	"train.ycm.melodies.ycm_01": {
+		"sounds": [
+			"train/ycm/melodies/ycm_01"
+		]
+	},
+	"train.ycm.melodies.ycm_06": {
+		"sounds": [
+			"train/ycm/melodies/ycm_06"
+		]
+	},
+	"train.ycm.next_station.chiaki": {
+		"sounds": [
+			"train/ycm/next_station/chiaki"
+		]
+	},
+	"train.ycm.next_station.crossover_solutional_park_nb": {
+		"sounds": [
+			"train/ycm/next_station/crossover_solutional_park_nb"
+		]
+	},
+	"train.ycm.next_station.crossover_solutional_park_sb": {
+		"sounds": [
+			"train/ycm/next_station/crossover_solutional_park_sb"
+		]
+	},
+	"train.ycm.next_station.flatlands_acw": {
+		"sounds": [
+			"train/ycm/next_station/flatlands_acw"
+		]
+	},
+	"train.ycm.next_station.flatlands_cw": {
+		"sounds": [
+			"train/ycm/next_station/flatlands_cw"
+		]
+	},
+	"train.ycm.next_station.inoriye_northbound": {
+		"sounds": [
+			"train/ycm/next_station/inoriye_northbound"
+		]
+	},
+	"train.ycm.next_station.inoriye_southbound": {
+		"sounds": [
+			"train/ycm/next_station/inoriye_southbound"
+		]
+	},
+	"train.ycm.next_station.island_tip": {
+		"sounds": [
+			"train/ycm/next_station/island_tip"
+		]
+	},
+	"train.ycm.next_station.lakeside": {
+		"sounds": [
+			"train/ycm/next_station/lakeside"
+		]
+	},
+	"train.ycm.next_station.lakeside_acw": {
+		"sounds": [
+			"train/ycm/next_station/lakeside_acw"
+		]
+	},
+	"train.ycm.next_station.lakeside_cw": {
+		"sounds": [
+			"train/ycm/next_station/lakeside_cw"
+		]
+	},
+	"train.ycm.next_station.lll_acw_flt": {
+		"sounds": [
+			"train/ycm/next_station/lll_acw_flt"
+		]
+	},
+	"train.ycm.next_station.lll_acw_fxt": {
+		"sounds": [
+			"train/ycm/next_station/lll_acw_fxt"
+		]
+	},
+	"train.ycm.next_station.lll_acw_plm": {
+		"sounds": [
+			"train/ycm/next_station/lll_acw_plm"
+		]
+	},
+	"train.ycm.next_station.lll_acw_rtn": {
+		"sounds": [
+			"train/ycm/next_station/lll_acw_rtn"
+		]
+	},
+	"train.ycm.next_station.lll_cw_flt": {
+		"sounds": [
+			"train/ycm/next_station/lll_cw_flt"
+		]
+	},
+	"train.ycm.next_station.lll_cw_fxt": {
+		"sounds": [
+			"train/ycm/next_station/lll_cw_fxt"
+		]
+	},
+	"train.ycm.next_station.lll_cw_plm": {
+		"sounds": [
+			"train/ycm/next_station/lll_cw_plm"
+		]
+	},
+	"train.ycm.next_station.lll_cw_rtn": {
+		"sounds": [
+			"train/ycm/next_station/lll_cw_rtn"
+		]
+	},
+	"train.ycm.next_station.lll_slp": {
+		"sounds": [
+			"train/ycm/next_station/lll_slp"
+		]
+	},
+	"train.ycm.next_station.lll_sml": {
+		"sounds": [
+			"train/ycm/next_station/lll_sml"
+		]
+	},
+	"train.ycm.next_station.mount_lipan": {
+		"sounds": [
+			"train/ycm/next_station/mount_lipan"
+		]
+	},
+	"train.ycm.next_station.newton_acw": {
+		"sounds": [
+			"train/ycm/next_station/newton_acw"
+		]
+	},
+	"train.ycm.next_station.newton_cw": {
+		"sounds": [
+			"train/ycm/next_station/newton_cw"
+		]
+	},
+	"train.ycm.next_station.roundtown_acw": {
+		"sounds": [
+			"train/ycm/next_station/roundtown_acw"
+		]
+	},
+	"train.ycm.next_station.roundtown_cw": {
+		"sounds": [
+			"train/ycm/next_station/roundtown_cw"
+		]
+	},
+	"train.ycm.next_station.solutional_park_lll": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_lll"
+		]
+	},
+	"train.ycm.next_station.solutional_park_northbound": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_northbound"
+		]
+	},
+	"train.ycm.next_station.solutional_park_southbound": {
+		"sounds": [
+			"train/ycm/next_station/solutional_park_southbound"
+		]
+	},
+	"train.ycm.next_station.sunmoonlake": {
+		"sounds": [
+			"train/ycm/next_station/sunmoonlake"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_flt": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_flt"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_fxt": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_fxt"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_plm": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_plm"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_rtn": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_rtn"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_slp": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_slp"
+		]
+	},
+	"train.ycm.station_train_announcements.lll_sml": {
+		"sounds": [
+			"train/ycm/station_train_announcements/lll_sml"
 		]
 	}
 }
