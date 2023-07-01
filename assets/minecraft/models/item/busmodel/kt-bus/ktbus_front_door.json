@@ -4,7 +4,7 @@
 		"0": "block/black_concrete",
 		"1": "block/glass",
 		"8": "block/white_concrete",
-		"19": "block/mrt/konno_blue",
+		"19": "block/ktb/konno_blue",
 		"particle": "block/black_concrete"
 	},
 	"elements": [
