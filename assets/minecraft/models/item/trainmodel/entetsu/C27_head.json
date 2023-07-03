@@ -10,9 +10,9 @@
 		"8": "block/cobbled_deepslate",
 		"9": "block/black_concrete",
 		"11": "block/redstone_torch",
-		"12": "train_misc/entetsu_controller",
+		"12": "block/ent_controller",
 		"13": "block/glass",
-		"14": "entetsu_textures/new_entetsu_logo",
+		"14": "block/ent_logo",
 		"particle": "block/black_stained_glass"
 	},
 	"elements": [

@@ -10,7 +10,7 @@
 		"10": "block/glass",
 		"11": "block/rail",
 		"12": "block/birch_planks",
-		"13": "entetsu_textures/new_entetsu_logo",
+		"13": "block/ent_logo",
 		"14": "block/yellow_concrete_powder",
 		"15": "block/polished_deepslate",
 		"16": "block/sea_lantern",
@@ -522,7 +522,7 @@
 	],
 	"display": {
 		"head": {
-			"scale": [2, 2.2, 2]
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

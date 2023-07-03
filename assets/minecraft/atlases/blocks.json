@@ -950,10 +950,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:entetsu_textures/new_entetsu_logo"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:painting/back"
         },
         {
@@ -966,19 +962,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:entetsu_textures/L89"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:train_misc/entetsu_controller"
         },
         {
             "type": "single",
-            "resource": "minecraft:entetsu_textures/C23"
+            "resource": "minecraft:entetsu_textures/new_entetsu_logo"
         },
         {
             "type": "single",
-            "resource": "minecraft:entetsu_textures/tkhn_line_diagram"
+            "resource": "minecraft:entetsu_textures/C23"
         }
     ]
 }
