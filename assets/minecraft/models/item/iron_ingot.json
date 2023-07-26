@@ -34,6 +34,8 @@
     {"predicate": {"custom_model_data": 1026}, "model": "item/trainmodel/entetsu/C307_end"},
     {"predicate": {"custom_model_data": 1027}, "model": "item/trainmodel/entetsu/C307_mid"},
     {"predicate": {"custom_model_data": 1028}, "model": "item/trainmodel/entetsu/C307_head"},
-    {"predicate": {"custom_model_data": 1029}, "model": "item/trainmodel/entetsu/C307_connector"}
+    {"predicate": {"custom_model_data": 1029}, "model": "item/trainmodel/entetsu/C307_connector"},
+    {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/C27_front_cab_door"},
+    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"}
   ]
 }

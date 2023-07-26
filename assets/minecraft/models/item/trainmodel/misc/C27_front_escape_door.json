@@ -1,0 +1,42 @@
+{
+	"credit": "Made by Mike Shafter",
+	"textures": {
+		"0": "block/black_concrete",
+		"1": "block/black_stained_glass",
+		"particle": "block/black_concrete"
+	},"display": {
+		"head": {
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
+	},
+	"elements": [
+		{
+			"from": [3, 0, 7.5],
+			"to": [13, 14, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 14], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 14, 7.5],
+			"to": [13, 24, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
