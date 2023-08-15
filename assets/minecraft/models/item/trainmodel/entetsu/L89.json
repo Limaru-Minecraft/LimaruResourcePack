@@ -1,4 +1,5 @@
 {
+	"credit": "Made by Mike Shafter",
 	"textures": {
 		"0": "block/beacon",
 		"1": "block/redstone_block",
@@ -6,11 +7,10 @@
 		"3": "block/deepslate_tiles",
 		"4": "block/lodestone_top",
 		"5": "block/basalt_side",
-		"6": "entetsu_textures/new_entetsu_logo",
-		"7": "entetsu_textures/L89",
+		"6": "block/ent_logo",
 		"10": "block/black_candle_lit",
 		"12": "block/green_wool",
-		"13": "train_misc/entetsu_controller",
+		"13": "block/ent_controller",
 		"particle": "block/black_candle_lit"
 	},
 	"elements": [
@@ -94,19 +94,19 @@
 		},
 		{
 			"name": "front panel",
-			"from": [-0.01, 1, 8],
-			"to": [-0.01, 7, 14],
-			"faces": {
-				"west": {"uv": [0, 0, 16, 16], "texture": "#7"}
-			}
-		},
-		{
-			"name": "front panel",
 			"from": [16.01, 1, 8],
 			"to": [16.01, 7, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
 			"faces": {
-				"east": {"uv": [0, 0, 15.95313, 16], "texture": "#6"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#6"}
+			}
+		},
+		{
+			"name": "front panel",
+			"from": [-0.01, 1, 8],
+			"to": [-0.01, 7, 14],
+			"faces": {
+				"west": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{

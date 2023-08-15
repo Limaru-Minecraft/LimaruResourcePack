@@ -44,6 +44,7 @@
     {"predicate": {"custom_model_data": 9905}, "model": "item/busmodel/kt-bus/ktbus-rht"},
     {"predicate": {"custom_model_data": 9906}, "model": "item/busmodel/kt-bus/ktbus_front_door-rht"},
     {"predicate": {"custom_model_data": 9907}, "model": "item/busmodel/kt-bus/ktbus_center_door_a-rht"},
-    {"predicate": {"custom_model_data": 9908}, "model": "item/busmodel/kt-bus/ktbus_center_door_b-rht"}
+    {"predicate": {"custom_model_data": 9908}, "model": "item/busmodel/kt-bus/ktbus_center_door_b-rht"},
+    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"}
   ]
 }

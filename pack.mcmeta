@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": "Limaru Resource Pack for all resources."
-  }
+    "pack": {
+        "pack_format": 15,
+        "description": "Limaru Resource Pack for all resources."
+    }
 }
