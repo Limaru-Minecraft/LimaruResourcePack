@@ -36,6 +36,14 @@
     {"predicate": {"custom_model_data": 1028}, "model": "item/trainmodel/entetsu/C307_head"},
     {"predicate": {"custom_model_data": 1029}, "model": "item/trainmodel/entetsu/C307_connector"},
     {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/C27_front_cab_door"},
-    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"}
+    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"},
+    {"predicate": {"custom_model_data": 1032}, "model": "item/busmodel/kt-bus/ktbus"},
+    {"predicate": {"custom_model_data": 1033}, "model": "item/busmodel/kt-bus/ktbus_front_door"},
+    {"predicate": {"custom_model_data": 1034}, "model": "item/busmodel/kt-bus/ktbus_center_door_a"},
+    {"predicate": {"custom_model_data": 1035}, "model": "item/busmodel/kt-bus/ktbus_center_door_b"},
+    {"predicate": {"custom_model_data": 1036}, "model": "item/busmodel/kt-bus/ktbus_rht"},
+    {"predicate": {"custom_model_data": 1037}, "model": "item/busmodel/kt-bus/ktbus_front_door_rht"},
+    {"predicate": {"custom_model_data": 1038}, "model": "item/busmodel/kt-bus/ktbus_center_door_a_rht"},
+    {"predicate": {"custom_model_data": 1039}, "model": "item/busmodel/kt-bus/ktbus_center_door_b_rht"}
   ]
 }
