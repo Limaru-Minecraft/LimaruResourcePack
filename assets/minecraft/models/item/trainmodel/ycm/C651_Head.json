@@ -13,7 +13,7 @@
 		"10": "block/anvil",
 		"11": "block/light_gray_concrete",
 		"12": "block/smooth_stone",
-		"13": "train_map_8.0",
+		"13": "block/train_map_8.0",
 		"particle": "block/cyan_stained_glass"
 	},
 	"elements": [
