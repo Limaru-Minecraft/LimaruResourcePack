@@ -3,7 +3,7 @@
 	"textures": {
 		"4": "block/light_gray_concrete",
 		"5": "block/red_concrete",
-		"6": "smono_logo",
+		"6": "block/smono_logo",
 		"7": "block/light_gray_concrete_powder",
 		"8": "block/white_stained_glass",
 		"9": "block/yellow_wool",

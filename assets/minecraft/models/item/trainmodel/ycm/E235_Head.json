@@ -3,7 +3,7 @@
 	"textures": {
 		"3": "block/gray_concrete",
 		"4": "block/light_gray_concrete",
-		"5": "train_misc/ycm_pattern",
+		"5": "block/ycm_pattern",
 		"6": "block/black_concrete",
 		"7": "block/lime_wool",
 		"8": "block/red_concrete",
