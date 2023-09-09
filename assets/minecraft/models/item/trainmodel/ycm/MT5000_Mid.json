@@ -3,7 +3,7 @@
 	"textures": {
 		"4": "block/light_gray_concrete",
 		"5": "block/cyan_concrete",
-		"6": "lgm_logo",
+		"6": "block/lgm_logo",
 		"7": "block/light_gray_concrete_powder",
 		"8": "block/cyan_stained_glass",
 		"9": "block/yellow_wool",
