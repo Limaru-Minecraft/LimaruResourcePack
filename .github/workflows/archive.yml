@@ -1,0 +1,25 @@
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: pull latest and remove old file from repo
+      run: |
+        git config --global user.name "Mineshafter61"
+        git config --global user.email "yuhang.061@gmail.com"
+        git config pull.rebase false
+        git pull
+        rm -f release_dev.zip
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'release_dev.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: push changes to remote
+      run: |
+        git add -A
+        git commit -m "new pack"
+        git push --force
