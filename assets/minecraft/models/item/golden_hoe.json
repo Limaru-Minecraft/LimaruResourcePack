@@ -5,11 +5,11 @@
 	},
 	"overrides": [
 		{ "predicate": { "damage": 0 }, "model": "item/golden_hoe" },
-		{ "predicate": { "damaged": 0, "damage": 0.03125 }, "model": "item/rollsignmodel/tokaido_rollsign" },
+		{ "predicate": { "damaged": 0, "damage": 0.03125 }, "model": "item/golden_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.0625 }, "model": "item/golden_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.09375 }, "model": "item/trainmodel/misc/pantograph" },
 		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "item/trainmodel/misc/bogie" },
-		{ "predicate": { "damaged": 0, "damage": 0.15625 }, "model": "item/rollsignmodel/tozai_rollsign" },
+		{ "predicate": { "damaged": 0, "damage": 0.15625 }, "model": "item/golden_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.1875 }, "model": "item/rollsignmodel/500_metroCodeRollsign" },
 		{ "predicate": { "damaged": 0, "damage": 0.21875 }, "model": "item/rollsignmodel/500_metroLineRollsign" },
 		{ "predicate": { "damaged": 0, "damage": 0.25 }, "model": "item/golden_hoe" },

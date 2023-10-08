@@ -1,18 +1,20 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Mike Shafter",
 	"parent": "rollsign.json",
 	"texture_size": [2048, 1024],
 	"textures": {
-		"2": "rollsigns/tozai"
+		"0": "block/enb/enb_273_1d",
+		"1": "block/enb/enb_273_2d",
+		"particle": "block/enb/enb_273_1d"
 	},
 	"elements": [
 		{
-			"from": [4, 0, 8],
-			"to": [12, 16, 8],
+			"from": [0, 0, 8],
+			"to": [16, 4, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
 			"faces": {
-				"north": {"uv": [8, 0, 16, 16], "texture": "#2"},
-				"south": {"uv": [0, 0, 8, 16], "texture": "#2"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#1"}
 			}
 		}
 	],
