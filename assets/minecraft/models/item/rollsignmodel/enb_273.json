@@ -1,0 +1,34 @@
+{
+	"credit": "Made by Mike Shafter",
+	"parent": "rollsign.json",
+	"texture_size": [2048, 1024],
+	"textures": {
+		"0": "block/enb/enb_273_1d",
+		"1": "block/enb/enb_273_2d",
+		"particle": "block/enb/enb_273_1d"
+	},
+	"elements": [
+		{
+			"from": [0, 6, 8],
+			"to": [16, 10, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [3, 3, 3]
+		}
+	},
+	"groups": [
+		{
+			"name": "rollsign",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
