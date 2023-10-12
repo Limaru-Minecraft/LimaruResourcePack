@@ -4,15 +4,7 @@
 		"0": "block/stripped_birch_log",
 		"1": "block/glass",
 		"particle": "block/stripped_birch_log"
-	},"display": {
-		"head": {
-			"scale": [
-				2,
-				2,
-				2
-			]
-		}
-	},
+	},"display": {"head": {"scale": [2,2,2]}},
 	"elements": [
 		{
 			"from": [2, 0, 7.5],
