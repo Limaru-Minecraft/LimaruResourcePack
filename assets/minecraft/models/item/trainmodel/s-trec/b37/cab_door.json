@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"3": "block/s-trec/b37/front_window",
 		"12": "block/s-trec/b37/interior_wall",
 		"15": "block/s-trec/b37/compartment",
 		"particle": "block/s-trec/b37/yellow"
@@ -30,6 +31,19 @@
 				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#15"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#15"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#15"}
+			}
+		},
+		{
+			"from": [6.65, 9.55, 14.55],
+			"to": [9.35, 16.35, 14.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.2, -1.95, -14.7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#3"},
+				"south": {"uv": [0, 0, 1, 6.25], "texture": "#3"},
+				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#3"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#3"}
 			}
 		},
 		{
