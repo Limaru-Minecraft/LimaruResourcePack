@@ -14,10 +14,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:rollsigns/tozai"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:rollsigns/E235_Lights"
         },
         {
@@ -926,30 +922,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:train_map_8.0"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:train_misc/ycm_pattern_lime"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:train_misc/ycm_pattern_yellow"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:lgm_logo"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:train_misc/ycm_pattern"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:smono_logo"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:painting/back"
         },
         {
@@ -959,18 +931,6 @@
         {
             "type": "single",
             "resource": "minecraft:entetsu_textures/can"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:train_misc/entetsu_controller"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:entetsu_textures/new_entetsu_logo"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:entetsu_textures/C23"
         }
     ]
 }

@@ -49,7 +49,7 @@ FIRST_EVENT = True
 
 for i,f in enumerate(sounds):
     print(f"Processing file {i+1}/{len(sounds)}: {f}")
-    prefix = f
+    prefix = f.replace("/", ".")
 
     if not LAST_PREFIX == prefix:
         # If first file, exclude the closing brackets, else include
