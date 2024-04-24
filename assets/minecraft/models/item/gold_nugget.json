@@ -4,6 +4,15 @@
     "layer0": "item/gold_nugget"
   },
   "overrides": [    
+    {"predicate": {"custom_model_data": 10002}, "model": "item/rollsignmodel/10002_rollsign"},
+    {"predicate": {"custom_model_data": 10003}, "model": "item/rollsignmodel/10003_rollsign"},
+    {"predicate": {"custom_model_data": 10004}, "model": "item/rollsignmodel/10004_rollsign"},
+    {"predicate": {"custom_model_data": 10005}, "model": "item/rollsignmodel/10005_rollsign"},
+    {"predicate": {"custom_model_data": 10006}, "model": "item/rollsignmodel/10006_rollsign"},
+    {"predicate": {"custom_model_data": 10007}, "model": "item/rollsignmodel/10007_rollsign"},
+    {"predicate": {"custom_model_data": 10008}, "model": "item/rollsignmodel/10008_rollsign"},
+    {"predicate": {"custom_model_data": 10009}, "model": "item/rollsignmodel/10009_rollsign"},
+
     {"predicate": {"custom_model_data": 10273}, "model": "item/rollsignmodel/enb_273"}
   ]
 }

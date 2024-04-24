@@ -1,0 +1,21 @@
+{
+	"credit": "Made by Mike Shafter",
+	"parent": "rollsign.json",
+	"texture_size": [1024, 1024],
+	"textures": {
+		"0": "block/ent/nk_rollsign_up",
+		"1": "block/ent/nk_rollsign_down",
+		"particle": "block/ent/nk_rollsign_up"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -44,6 +44,7 @@
     {"predicate": {"custom_model_data": 1036}, "model": "item/busmodel/kt-bus/ktbus_rht"},
     {"predicate": {"custom_model_data": 1037}, "model": "item/busmodel/kt-bus/ktbus_front_door_rht"},
     {"predicate": {"custom_model_data": 1038}, "model": "item/busmodel/kt-bus/ktbus_center_door_a_rht"},
-    {"predicate": {"custom_model_data": 1039}, "model": "item/busmodel/kt-bus/ktbus_center_door_b_rht"}
+    {"predicate": {"custom_model_data": 1039}, "model": "item/busmodel/kt-bus/ktbus_center_door_b_rht"},
+    {"predicate": {"custom_model_data": 1040}, "model": "item/trainmodel/entetsu/c28_door_indicator"}
   ]
 }
