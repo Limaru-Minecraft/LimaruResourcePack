@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "block/bus_autonomous/cyan_concrete",
+		"4": "block/bus_autonomous/display_interior/next_m5d3",
 		"17": "block/bus_autonomous/gray_concrete",
 		"23": "block/bus_autonomous/display_interior/pancard_m5d3",
 		"particle": "block/bus_autonomous/coal_block"
@@ -14,7 +15,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 9.5, 0.75], "texture": "#17"},
 				"east": {"uv": [0, 0, 16, 0.75], "texture": "#17"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"west": {"uv": [0, 0, 16, 0.75], "texture": "#17"},
 				"up": {"uv": [0, 0, 9.5, 16], "texture": "#17"},
 				"down": {"uv": [0, 0, 9.5, 16], "texture": "#17"}
@@ -27,7 +28,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 9.5, 0.75], "texture": "#17"},
 				"east": {"uv": [0, 0, 16, 0.75], "texture": "#17"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"west": {"uv": [0, 0, 16, 0.75], "texture": "#17"},
 				"up": {"uv": [0, 0, 9.5, 16], "texture": "#17"},
 				"down": {"uv": [0, 0, 9.5, 16], "texture": "#17"}
