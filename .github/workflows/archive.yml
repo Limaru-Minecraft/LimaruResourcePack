@@ -1,25 +1,49 @@
-name: Create Archive
-on: [push]
+name: Resourcepack Zipper
+
+on:
+  push:
+    branches:
+      - master  # Adjust this branch name if needed
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: pull latest and remove old file from repo
+
+    - name: Create ZIP file
       run: |
-        git config --global user.name "Mineshafter61"
-        git config --global user.email "yuhang.061@gmail.com"
-        git config pull.rebase false
-        git pull
-        rm -f release_dev.zip
-    - name: Archive Release
-      uses: thedoctor0/zip-release@master
+        COMMIT_ID=$(git rev-parse --short HEAD)
+        ZIP_NAME="RP.zip"
+        echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
+        zip -r "${ZIP_NAME}" .
+
+    - name: Upload ZIP artifact
+      uses: actions/upload-artifact@v2
       with:
-        filename: 'release_dev.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
-    - name: push changes to remote
-      run: |
-        git add -A
-        git commit -m "[AUTO] New dev pack"
-        git push --force
+        name: resource-pack-artifact
+        path: ${{ env.ZIP_NAME }}
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
+      with:
+        tag_name: release-${{ github.sha }}
+        release_name: Release ${{ github.sha }}
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Artifact
+      id: upload-release-asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ${{ github.workspace }}/${{ env.ZIP_NAME }}
+        asset_name: ${{ env.ZIP_NAME }}
+        asset_content_type: application/zip
