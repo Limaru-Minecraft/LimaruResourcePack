@@ -8,7 +8,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.03125 }, "model": "item/trainmodel/entetsu/c27_head" },
 		{ "predicate": { "damaged": 0, "damage": 0.0625 }, "model": "item/trainmodel/entetsu/c27_end" },
 		{ "predicate": { "damaged": 0, "damage": 0.09375 }, "model": "item/trainmodel/entetsu/c27_mid" },
-		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "item/trainmodel/unused"},
+		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "item/trainmodel/entetsu/t813_head"},
 		{ "predicate": { "damaged": 0, "damage": 0.15625 }, "model": "item/trainmodel/unused" },
 		{ "predicate": { "damaged": 0, "damage": 0.1875 }, "model": "item/trainmodel/misc/entetsu_door" },
 		{ "predicate": { "damaged": 0, "damage": 0.21875 }, "model": "item/trainmodel/ycm/e235_end" },
