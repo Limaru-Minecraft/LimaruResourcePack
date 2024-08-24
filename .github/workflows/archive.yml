@@ -16,9 +16,13 @@ jobs:
     - name: Create ZIP file
       run: |
         COMMIT_ID=$(git rev-parse --short HEAD)
-        ZIP_NAME="RP.zip"
+        ZIP_NAME="LimaruResourcePack.zip"
         echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
         zip -r "${ZIP_NAME}" .
+
+    - name: Get current date
+      run: |
+        echo "TIME=$(date +'%Y-%m-%d')" >> ${GITHUB_ENV}
 
     - name: Upload ZIP artifact
       uses: actions/upload-artifact@v2
@@ -32,10 +36,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
       with:
-        tag_name: release-${{ github.sha }}
-        release_name: Release ${{ github.sha }}
+        tag_name: release-${{ env.TIME }}
+        release_name: Release ${{ env.TIME }}
         draft: false
         prerelease: false
+        body: "SHA: `${{ github.sha }}`"
 
     - name: Upload Release Artifact
       id: upload-release-asset
