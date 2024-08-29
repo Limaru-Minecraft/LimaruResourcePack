@@ -24,7 +24,7 @@
     {"predicate": {"custom_model_data": 1016}, "model": "item/trainmodel/entetsu/s702_end_alt"},
     {"predicate": {"custom_model_data": 1017}, "model": "item/trainmodel/entetsu/s702_mid"},
     {"predicate": {"custom_model_data": 1018}, "model": "item/trainmodel/entetsu/s702_head"},
-    {"predicate": {"custom_model_data": 1019}, "model": "item/trainmodel/entetsu/s702_mid_alt"},
+    {"predicate": {"custom_model_data": 1019}, "model": "item/trainmodel/entetsu/b28_mid"},
     {"predicate": {"custom_model_data": 1020}, "model": "item/trainmodel/entetsu/s701_head"},
     {"predicate": {"custom_model_data": 1021}, "model": "item/trainmodel/entetsu/s701_mid_alt"},
     {"predicate": {"custom_model_data": 1022}, "model": "item/trainmodel/entetsu/s701_end"},
