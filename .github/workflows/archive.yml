@@ -17,18 +17,10 @@ jobs:
         git pull
         rm -f release_dev.zip
 
-    - name: Get current date
-      run: |
-        echo "TIME=$(date +'%Y-%m-%d')" >> ${GITHUB_ENV}
-
-          with:
-        filename: 'release_dev.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
-
     - name: zip release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'LimaruResourcePack_${{ env.TIME }}.zip'
+        filename: 'LimaruResourcePack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
 
     - name: push changes to remote
