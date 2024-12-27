@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"14": "block/s-trec/b37/aluminum",
-		"particle": "block/siemens/window"
+		"14": "block/anvil"
 	},
 	"elements": [
 		{

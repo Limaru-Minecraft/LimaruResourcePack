@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"14": "block/s-trec/b37/aluminum",
-		"particle": "block/siemens/window"
+		"14": "block/anvil"
 	},
 	"elements": [
 		{
@@ -35,6 +34,32 @@
 			"from": [8.25, 5.95, 10.5],
 			"to": [8.75, 6.5, 15.05],
 			"rotation": {"angle": 0, "axis": "x", "origin": [0, 19.11472, 8.22767]},
+			"faces": {
+				"north": {"uv": [0, 0, 5.2, 1], "texture": "#14"},
+				"east": {"uv": [0, 0, 13.25, 1], "texture": "#14"},
+				"south": {"uv": [0, 0, 5.2, 1], "texture": "#14"},
+				"west": {"uv": [0, 0, 13.25, 1], "texture": "#14"},
+				"up": {"uv": [8.288, 5.792, 11.28, 13.856], "texture": "#14"},
+				"down": {"uv": [0, 0, 5.2, 13.25], "texture": "#14"}
+			}
+		},
+		{
+			"from": [8.25, 6.45, 14.5],
+			"to": [8.75, 7, 15.05],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 19.61472, 8.22767]},
+			"faces": {
+				"north": {"uv": [0, 0, 5.2, 1], "texture": "#14"},
+				"east": {"uv": [0, 0, 13.25, 1], "texture": "#14"},
+				"south": {"uv": [0, 0, 5.2, 1], "texture": "#14"},
+				"west": {"uv": [0, 0, 13.25, 1], "texture": "#14"},
+				"up": {"uv": [8.288, 5.792, 11.28, 13.856], "texture": "#14"},
+				"down": {"uv": [0, 0, 5.2, 13.25], "texture": "#14"}
+			}
+		},
+		{
+			"from": [7.25, 6.45, 14.5],
+			"to": [7.75, 7, 15.05],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 19.61472, 8.22767]},
 			"faces": {
 				"north": {"uv": [0, 0, 5.2, 1], "texture": "#14"},
 				"east": {"uv": [0, 0, 13.25, 1], "texture": "#14"},
