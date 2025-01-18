@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/name_tag"
+    },
+    "overrides": [
+  
+      {"predicate": {"custom_model_data": 100}, "model": "item/mizuno_ezcard"}
+  
+    ]
+  }
