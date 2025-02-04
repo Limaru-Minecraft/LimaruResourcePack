@@ -1,4 +1,5 @@
 {
+	"credit": "Made by Mike Shafter",
 	"textures": {
 		"particle": "block/rail",
 		"rail": "block/rail"
@@ -6,8 +7,9 @@
 	"elements": [
 		{
 			"name": "Plank1",
-			"from": [1, 0, 1],
-			"to": [2, 0.75, 3],
+			"from": [0, 0, 1],
+			"to": [1, 0.75, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [1, 1, 2, 2], "texture": "#rail"},
 				"south": {"uv": [1, 2, 2, 3], "texture": "#rail"},
@@ -18,8 +20,9 @@
 		},
 		{
 			"name": "Plank2",
-			"from": [2, 0, 1],
-			"to": [4, 0.75, 3],
+			"from": [1, 0, 1],
+			"to": [2, 0.75, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [4, 1, 6, 2], "texture": "#rail"},
 				"south": {"uv": [4, 2, 6, 3], "rotation": 180, "texture": "#rail"},
@@ -28,8 +31,8 @@
 		},
 		{
 			"name": "Plank3",
-			"from": [4, 0, 1],
-			"to": [12, 0.75, 3],
+			"from": [2, 0, 1],
+			"to": [14, 0.75, 3],
 			"faces": {
 				"north": {"uv": [4, 1, 12, 2], "rotation": 180, "texture": "#rail"},
 				"south": {"uv": [4, 2, 12, 3], "texture": "#rail"},
@@ -39,8 +42,9 @@
 		},
 		{
 			"name": "Plank4",
-			"from": [12, 0, 1],
-			"to": [14, 0.75, 3],
+			"from": [14, 0, 1],
+			"to": [15, 0.75, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [10, 1, 12, 2], "texture": "#rail"},
 				"south": {"uv": [10, 2, 12, 3], "rotation": 180, "texture": "#rail"},
@@ -49,8 +53,9 @@
 		},
 		{
 			"name": "Plank5",
-			"from": [14, 0, 1],
-			"to": [15, 0.75, 3],
+			"from": [15, 0, 1],
+			"to": [16, 0.75, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [14, 1, 15, 2], "texture": "#rail"},
 				"east": {"uv": [14, 1, 15, 3], "rotation": 90, "texture": "#rail"},
@@ -61,8 +66,9 @@
 		},
 		{
 			"name": "Plank6",
-			"from": [1, 0, 5],
-			"to": [2, 0.75, 7],
+			"from": [0, 0, 5],
+			"to": [1, 0.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 6], "texture": "#rail"},
 				"south": {"uv": [1, 6, 2, 7], "texture": "#rail"},
@@ -73,8 +79,9 @@
 		},
 		{
 			"name": "Plank7",
-			"from": [2, 0, 5],
-			"to": [4, 0.75, 7],
+			"from": [1, 0, 5],
+			"to": [2, 0.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [4, 5, 6, 6], "texture": "#rail"},
 				"south": {"uv": [4, 6, 6, 7], "rotation": 180, "texture": "#rail"},
@@ -83,8 +90,8 @@
 		},
 		{
 			"name": "Plank8",
-			"from": [4, 0, 5],
-			"to": [12, 0.75, 7],
+			"from": [2, 0, 5],
+			"to": [14, 0.75, 7],
 			"faces": {
 				"north": {"uv": [4, 5, 12, 6], "rotation": 180, "texture": "#rail"},
 				"south": {"uv": [4, 6, 12, 7], "texture": "#rail"},
@@ -94,8 +101,9 @@
 		},
 		{
 			"name": "Plank9",
-			"from": [12, 0, 5],
-			"to": [14, 0.75, 7],
+			"from": [14, 0, 5],
+			"to": [15, 0.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [10, 5, 12, 6], "texture": "#rail"},
 				"south": {"uv": [10, 6, 12, 7], "rotation": 180, "texture": "#rail"},
@@ -104,8 +112,9 @@
 		},
 		{
 			"name": "Plank10",
-			"from": [14, 0, 5],
-			"to": [15, 0.75, 7],
+			"from": [15, 0, 5],
+			"to": [16, 0.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [14, 5, 15, 6], "texture": "#rail"},
 				"east": {"uv": [14, 5, 15, 7], "rotation": 90, "texture": "#rail"},
@@ -116,8 +125,9 @@
 		},
 		{
 			"name": "Plank11",
-			"from": [1, 0, 9],
-			"to": [2, 0.75, 11],
+			"from": [0, 0, 9],
+			"to": [1, 0.75, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [1, 9, 2, 10], "texture": "#rail"},
 				"south": {"uv": [1, 10, 2, 11], "texture": "#rail"},
@@ -128,8 +138,9 @@
 		},
 		{
 			"name": "Plank12",
-			"from": [2, 0, 9],
-			"to": [4, 0.75, 11],
+			"from": [1, 0, 9],
+			"to": [2, 0.75, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [4, 9, 6, 10], "texture": "#rail"},
 				"south": {"uv": [4, 10, 6, 11], "rotation": 180, "texture": "#rail"},
@@ -138,8 +149,8 @@
 		},
 		{
 			"name": "Plank13",
-			"from": [4, 0, 9],
-			"to": [12, 0.75, 11],
+			"from": [2, 0, 9],
+			"to": [14, 0.75, 11],
 			"faces": {
 				"north": {"uv": [4, 9, 12, 10], "rotation": 180, "texture": "#rail"},
 				"south": {"uv": [4, 10, 12, 11], "texture": "#rail"},
@@ -149,8 +160,9 @@
 		},
 		{
 			"name": "Plank14",
-			"from": [12, 0, 9],
-			"to": [14, 0.75, 11],
+			"from": [14, 0, 9],
+			"to": [15, 0.75, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [10, 9, 12, 10], "texture": "#rail"},
 				"south": {"uv": [10, 10, 12, 11], "rotation": 180, "texture": "#rail"},
@@ -159,8 +171,9 @@
 		},
 		{
 			"name": "Plank15",
-			"from": [14, 0, 9],
-			"to": [15, 0.75, 11],
+			"from": [15, 0, 9],
+			"to": [16, 0.75, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [14, 9, 15, 10], "texture": "#rail"},
 				"east": {"uv": [14, 9, 15, 11], "rotation": 90, "texture": "#rail"},
@@ -171,8 +184,9 @@
 		},
 		{
 			"name": "Plank16",
-			"from": [1, 0, 13],
-			"to": [2, 0.75, 15],
+			"from": [0, 0, 13],
+			"to": [1, 0.75, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [1, 13, 2, 14], "texture": "#rail"},
 				"south": {"uv": [1, 14, 2, 15], "texture": "#rail"},
@@ -183,8 +197,9 @@
 		},
 		{
 			"name": "Plank17",
-			"from": [2, 0, 13],
-			"to": [4, 0.75, 15],
+			"from": [1, 0, 13],
+			"to": [2, 0.75, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [4, 13, 6, 14], "texture": "#rail"},
 				"south": {"uv": [4, 14, 6, 15], "rotation": 180, "texture": "#rail"},
@@ -193,8 +208,8 @@
 		},
 		{
 			"name": "Plank18",
-			"from": [4, 0, 13],
-			"to": [12, 0.75, 15],
+			"from": [2, 0, 13],
+			"to": [14, 0.75, 15],
 			"faces": {
 				"north": {"uv": [4, 13, 12, 14], "rotation": 180, "texture": "#rail"},
 				"south": {"uv": [4, 14, 12, 15], "texture": "#rail"},
@@ -204,8 +219,9 @@
 		},
 		{
 			"name": "Plank19",
-			"from": [12, 0, 13],
-			"to": [14, 0.75, 15],
+			"from": [14, 0, 13],
+			"to": [15, 0.75, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [10, 13, 12, 14], "texture": "#rail"},
 				"south": {"uv": [10, 14, 12, 15], "rotation": 180, "texture": "#rail"},
@@ -214,8 +230,9 @@
 		},
 		{
 			"name": "Plank20",
-			"from": [14, 0, 13],
-			"to": [15, 0.75, 15],
+			"from": [15, 0, 13],
+			"to": [16, 0.75, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
 			"faces": {
 				"north": {"uv": [14, 13, 15, 14], "texture": "#rail"},
 				"east": {"uv": [14, 13, 15, 15], "rotation": 90, "texture": "#rail"},
@@ -226,8 +243,9 @@
 		},
 		{
 			"name": "Rail1",
-			"from": [2, 0.25, 0],
-			"to": [4, 1, 16],
+			"from": [1, 0.75, 0],
+			"to": [2, 1.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0.5, 0]},
 			"faces": {
 				"north": {"uv": [4, 0, 2, 2], "texture": "#rail", "cullface": "north"},
 				"east": {"uv": [3.5, 1, 3.6, 2], "texture": "#rail"},
@@ -239,8 +257,9 @@
 		},
 		{
 			"name": "Rail2",
-			"from": [12, 0.25, 0],
-			"to": [14, 1, 16],
+			"from": [14, 0.75, 0],
+			"to": [15, 1.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0.5, 0]},
 			"faces": {
 				"north": {"uv": [14, 0, 12, 2], "texture": "#rail", "cullface": "north"},
 				"east": {"uv": [13.5, 1, 13.6, 2], "texture": "#rail"},
