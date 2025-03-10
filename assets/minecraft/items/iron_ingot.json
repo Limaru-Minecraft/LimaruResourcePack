@@ -1,0 +1,292 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_ingot"
+        },
+        "entries": [
+            {
+                "threshold": 500,
+                "model": {
+                    "type": "model",
+                    "model": "item/ycm_third_rail"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_bck"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_cabdoor"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_doorl"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_doorr"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_fnt"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_dm_seat"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_gang"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_m_bck"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_m_fnt"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_m_mid"
+                }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lipan_midori_pdoor"
+                }
+            },
+            {
+                "threshold": 1012,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/ycm/e24_end"
+                }
+            },
+            {
+                "threshold": 1013,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/ycm/e24_mid"
+                }
+            },
+            {
+                "threshold": 1014,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/ycm/e24_head"
+                }
+            },
+            {
+                "threshold": 1015,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s702_end"
+                }
+            },
+            {
+                "threshold": 1016,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s702_end_alt"
+                }
+            },
+            {
+                "threshold": 1017,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s702_mid"
+                }
+            },
+            {
+                "threshold": 1018,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s702_head"
+                }
+            },
+            {
+                "threshold": 1019,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/b28_mid"
+                }
+            },
+            {
+                "threshold": 1020,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s701_head"
+                }
+            },
+            {
+                "threshold": 1021,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s701_mid_alt"
+                }
+            },
+            {
+                "threshold": 1022,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/s701_end"
+                }
+            },
+            {
+                "threshold": 1023,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500_dm_b"
+                }
+            },
+            {
+                "threshold": 1024,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500_dm_f"
+                }
+            },
+            {
+                "threshold": 1025,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500_dm_m"
+                }
+            },
+            {
+                "threshold": 1026,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c278_end"
+                }
+            },
+            {
+                "threshold": 1027,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c278_mid"
+                }
+            },
+            {
+                "threshold": 1028,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c278_head"
+                }
+            },
+            {
+                "threshold": 1029,
+                "model": {
+                    "type": "model",
+                    "model": "item/unused"
+                }
+            },
+            {
+                "threshold": 1030,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/misc/c27_front_cab_door"
+                }
+            },
+            {
+                "threshold": 1031,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/misc/c27_front_escape_door"
+                }
+            },
+            {
+                "threshold": 1032,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus"
+                }
+            },
+            {
+                "threshold": 1033,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_front_door"
+                }
+            },
+            {
+                "threshold": 1034,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_center_door_a"
+                }
+            },
+            {
+                "threshold": 1035,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_center_door_b"
+                }
+            },
+            {
+                "threshold": 1036,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_rht"
+                }
+            },
+            {
+                "threshold": 1037,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_front_door_rht"
+                }
+            },
+            {
+                "threshold": 1038,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_center_door_a_rht"
+                }
+            },
+            {
+                "threshold": 1039,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/ktbus_center_door_b_rht"
+                }
+            }
+        ]
+    }
+}

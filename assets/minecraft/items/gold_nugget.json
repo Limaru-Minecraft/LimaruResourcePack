@@ -1,0 +1,187 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/gold_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10001_rs"
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10002_rs"
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10003_rs"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10004_rs"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10005_rs"
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10006_rs"
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10007_rs"
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10008_rs"
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10009_rs"
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10010_rs"
+                }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10011_rs"
+                }
+            },
+            {
+                "threshold": 10012,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10012_rs"
+                }
+            },
+            {
+                "threshold": 10013,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10013_rs"
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10014_rs"
+                }
+            },
+            {
+                "threshold": 10015,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10015_rs"
+                }
+            },
+            {
+                "threshold": 10016,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10016_rs"
+                }
+            },
+            {
+                "threshold": 10017,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10017_rs"
+                }
+            },
+            {
+                "threshold": 10018,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10018_rs"
+                }
+            },
+            {
+                "threshold": 10019,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10019_rs"
+                }
+            },
+            {
+                "threshold": 10020,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10020_rs"
+                }
+            },
+            {
+                "threshold": 10021,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10021_rs"
+                }
+            },
+            {
+                "threshold": 10022,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10022_rs"
+                }
+            },
+            {
+                "threshold": 10023,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10023_rs"
+                }
+            },
+            {
+                "threshold": 10024,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10024_rs"
+                }
+            },
+            {
+                "threshold": 10273,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/enb_273"
+                }
+            }
+        ]
+    }
+}

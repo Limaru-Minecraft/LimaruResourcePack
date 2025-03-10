@@ -1,0 +1,82 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/spider_eye"
+        },
+        "entries": [
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver"
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_middle"
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_end"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_pantograph"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_wheels"
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver_passenger"
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_door"
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_connector"
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt"
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt_front"
+                }
+            }
+        ]
+    }
+}
