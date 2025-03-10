@@ -253,23 +253,23 @@
 			"rotation": {"angle": 45, "axis": "x", "origin": [-1, 1.5, 16.5], "rescale": true},
 			"faces": {
 				"north": {"uv": [4, 0, 2, 2], "texture": "#rail"},
-				"east": {"uv": [3.5, 1, 3.6, 2], "texture": "#rail"},
+				"east": {"uv": [3, 0, 3.75, 16], "rotation": 90, "texture": "#rail"},
 				"south": {"uv": [2, 14, 4, 16], "texture": "#rail"},
-				"west": {"uv": [2.5, 1, 2.6, 2], "texture": "#rail"},
+				"west": {"uv": [2, 0, 2.75, 16], "rotation": 90, "texture": "#rail"},
 				"up": {"uv": [2, 0, 4, 16], "texture": "#rail"},
 				"down": {"uv": [2, 0, 4, 16], "texture": "#rail"}
 			}
 		},
 		{
 			"name": "Rail2",
-			"from": [13.999, 0.25, 0],
-			"to": [15.001, 1, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1, 16], "rescale": true},
+			"from": [13.999, 0.75, 0.5],
+			"to": [15.001, 1.5, 16.5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16.5], "rescale": true},
 			"faces": {
 				"north": {"uv": [14, 0, 12, 2], "texture": "#rail"},
-				"east": {"uv": [13.5, 1, 13.6, 2], "texture": "#rail"},
+				"east": {"uv": [2, 0, 2.75, 16], "rotation": 90, "texture": "#rail"},
 				"south": {"uv": [12, 14, 14, 16], "texture": "#rail"},
-				"west": {"uv": [12.5, 1, 12.6, 2], "texture": "#rail"},
+				"west": {"uv": [12, 0, 12.75, 16], "rotation": 90, "texture": "#rail"},
 				"up": {"uv": [12, 0, 14, 16], "texture": "#rail"},
 				"down": {"uv": [12, 0, 14, 16], "texture": "#rail"}
 			}
