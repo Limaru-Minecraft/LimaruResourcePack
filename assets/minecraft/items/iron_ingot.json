@@ -214,7 +214,7 @@
                 "threshold": 1029,
                 "model": {
                     "type": "model",
-                    "model": "item/unused"
+                    "model": "item/trainmodel/entetsu/r152"
                 }
             },
             {
