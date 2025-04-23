@@ -881,6 +881,41 @@
                     "type": "model",
                     "model": "item/busmodel/autonomous/display_inside/m5d13"
                 }
+            },
+            {
+                "threshold": 1125,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/main_body_taxi"
+                }
+            },
+            {
+                "threshold": 1126,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_pass_door"
+                }
+            },
+            {
+                "threshold": 1127,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_start"
+                }
+            },
+            {
+                "threshold": 1128,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_way"
+                }
+            },
+            {
+                "threshold": 1129,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_end"
+                }
             }
         ]
     }
