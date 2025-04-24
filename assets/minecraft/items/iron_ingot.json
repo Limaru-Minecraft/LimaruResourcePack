@@ -214,7 +214,7 @@
                 "threshold": 1029,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/entetsu/r152"
+                    "model": "item/trainmodel/entetsu/r152_mid"
                 }
             },
             {
@@ -916,7 +916,14 @@
                     "type": "model",
                     "model": "item/busmodel/autonomous/taxi_dis_end"
                 }
-            }
+            },
+{
+                "threshold": 1130,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/r152_end"
+                }
+            },
         ]
     }
 }
