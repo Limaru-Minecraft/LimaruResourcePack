@@ -917,13 +917,13 @@
                     "model": "item/busmodel/autonomous/taxi_dis_end"
                 }
             },
-{
+            {
                 "threshold": 1130,
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/entetsu/r152_end"
                 }
-            },
+            }
         ]
     }
 }
