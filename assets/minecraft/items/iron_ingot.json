@@ -354,7 +354,7 @@
                 "threshold": 1049,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/s-trec/b37/cab_inside_door"
+                    "model": "item/trainmodel/s-trec/b37/cab_interior_door"
                 }
             },
             {
