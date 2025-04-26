@@ -3,7 +3,7 @@
 	"textures": {
 		"5": "block/s-trec/b37/yellow",
 		"6": "block/s-trec/b37/blue",
-		"7": "block/s-trec/b37/front_window",
+		"7": "block/s-trec/b37/transparency",
 		"12": "block/s-trec/b37/interior_wall",
 		"19": "block/s-trec/b37/black",
 		"20": "block/s-trec/b37/aluminum",
