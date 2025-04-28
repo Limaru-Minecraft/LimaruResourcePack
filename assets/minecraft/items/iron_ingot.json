@@ -923,6 +923,20 @@
                     "type": "model",
                     "model": "item/trainmodel/entetsu/r152_end"
                 }
+            },
+            {
+                "threshold": 1131,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_a"
+                }
+            },
+            {
+                "threshold": 1132,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_b"
+                }
             }
         ]
     }
