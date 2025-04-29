@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/s-trec/b37/front_window",
+		"3": "block/s-trec/b37/transparency",
 		"12": "block/s-trec/b37/interior_wall",
 		"15": "block/s-trec/b37/compartment",
 		"particle": "block/s-trec/b37/yellow"
