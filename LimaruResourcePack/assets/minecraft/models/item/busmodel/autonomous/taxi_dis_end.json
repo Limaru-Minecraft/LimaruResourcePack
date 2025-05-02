@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "block/bus_autonomous/white_concrete",
+		"17": "block/bus_autonomous/gray_concrete",
+		"20": "block/bus_autonomous/waymo_almostthere",
+		"particle": "block/bus_autonomous/coal_block"
+	},
+	"elements": [
+		{
+			"from": [6.5, 1.75, 4],
+			"to": [9.5, 4, 4.3],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [-4, 15.25, 0.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 9.5, 16], "rotation": 180, "texture": "#17"},
+				"east": {"uv": [0, 0, 16, 0.75], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#20"},
+				"west": {"uv": [0, 0, 16, 0.75], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [0, 0, 9.5, 0.75], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 0, 9.5, 0.75], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6, 3.25, -2.75],
+			"to": [9, 5.5, -2.45],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [-4.5, 16.75, -6]},
+			"faces": {
+				"north": {"uv": [0, 0, 9.5, 16], "rotation": 180, "texture": "#17"},
+				"east": {"uv": [0, 0, 16, 0.75], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#20"},
+				"west": {"uv": [0, 0, 16, 0.75], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [0, 0, 9.5, 0.75], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 0, 9.5, 0.75], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}

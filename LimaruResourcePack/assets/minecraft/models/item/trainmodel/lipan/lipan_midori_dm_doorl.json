@@ -1,0 +1,109 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow",
+		"1": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gb",
+		"2": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gt",
+		"27": "LipanLocoTextures/wagon metal",
+		"particle": "LipanLocoTextures/MidoriMEMUtextures/MEMU_gwindow"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 0.5],
+			"to": [8, 0.5, 1.5],
+			"faces": {
+				"north": {"uv": [0, 0, 0.25, 0.25], "texture": "#27"},
+				"east": {"uv": [0, 0, 0.5, 0.25], "texture": "#27"},
+				"south": {"uv": [0, 0, 0.25, 0.25], "texture": "#27"},
+				"west": {"uv": [0, 0, 0.5, 0.25], "texture": "#27"},
+				"up": {"uv": [0, 0, 0.25, 0.5], "texture": "#27"},
+				"down": {"uv": [0, 0, 0.25, 0.5], "texture": "#27"}
+			}
+		},
+		{
+			"from": [7.5, 0, 0.25],
+			"to": [10, 0.5, 0.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1.25, 0.25], "texture": "#27"},
+				"east": {"uv": [0, 0, 0.125, 0.25], "texture": "#27"},
+				"south": {"uv": [0, 0, 1.25, 0.25], "texture": "#27"},
+				"west": {"uv": [0, 0, 0.125, 0.25], "texture": "#27"},
+				"up": {"uv": [0, 0, 1.25, 0.125], "texture": "#27"},
+				"down": {"uv": [0, 0, 1.25, 0.125], "texture": "#27"}
+			}
+		},
+		{
+			"from": [7.5, 27.5, 0.5],
+			"to": [8, 28, 1.5],
+			"faces": {
+				"north": {"uv": [0, 0, 0.25, 0.25], "texture": "#27"},
+				"east": {"uv": [0, 0, 0.5, 0.25], "texture": "#27"},
+				"south": {"uv": [0, 0, 0.25, 0.25], "texture": "#27"},
+				"west": {"uv": [0, 0, 0.5, 0.25], "texture": "#27"},
+				"up": {"uv": [0, 0, 0.25, 0.5], "texture": "#27"},
+				"down": {"uv": [0, 0, 0.25, 0.5], "texture": "#27"}
+			}
+		},
+		{
+			"from": [7.5, 27.5, 0.25],
+			"to": [10, 28, 0.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1.25, 0.25], "texture": "#27"},
+				"east": {"uv": [0, 0, 0.125, 0.25], "texture": "#27"},
+				"south": {"uv": [0, 0, 1.25, 0.25], "texture": "#27"},
+				"west": {"uv": [0, 0, 0.125, 0.25], "texture": "#27"},
+				"up": {"uv": [0, 0, 1.25, 0.125], "texture": "#27"},
+				"down": {"uv": [0, 0, 1.25, 0.125], "texture": "#27"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [12, 15, 0.25],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 15], "texture": "#1"},
+				"east": {"uv": [8, 0, 9, 15], "texture": "#1"},
+				"south": {"uv": [4, 0, 8, 15], "texture": "#1"},
+				"west": {"uv": [9, 0, 10, 15], "texture": "#1"},
+				"up": {"uv": [14, 1, 10, 0], "texture": "#1"},
+				"down": {"uv": [14, 1, 10, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 25, 0],
+			"to": [12, 28, 0.25],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 3], "texture": "#2"},
+				"east": {"uv": [4, 2, 5, 5], "texture": "#2"},
+				"south": {"uv": [0, 3, 4, 6], "texture": "#2"},
+				"west": {"uv": [5, 2, 6, 5], "texture": "#2"},
+				"up": {"uv": [8, 1, 4, 0], "texture": "#2"},
+				"down": {"uv": [8, 1, 4, 2], "texture": "#2"}
+			}
+		},
+		{
+			"from": [8, 15, 0],
+			"to": [12, 25, 0.25],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 10], "texture": "#0"},
+				"east": {"uv": [8, 0, 9, 10], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 10], "texture": "#0"},
+				"west": {"uv": [9, 0, 10, 10], "texture": "#0"},
+				"up": {"uv": [4, 11, 0, 10], "texture": "#0"},
+				"down": {"uv": [14, 0, 10, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Gangway Door L",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "LipanLocoTextures/500_pdb",
+		"1": "LipanLocoTextures/500_pds",
+		"2": "LipanLocoTextures/500_pdt",
+		"particle": "LipanLocoTextures/500_pdb"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 4],
+			"to": [8.5, 15, 12],
+			"faces": {
+				"north": {"uv": [0, 7.5, 0.5, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 7.5], "texture": "#0"},
+				"south": {"uv": [0.5, 7.5, 1, 15], "texture": "#0"},
+				"west": {"uv": [4, 0, 8, 7.5], "texture": "#0"},
+				"up": {"uv": [1.5, 11.5, 1, 7.5], "texture": "#0"},
+				"down": {"uv": [2, 7.5, 1.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 15, 4],
+			"to": [8.5, 25, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 10], "texture": "#1"},
+				"east": {"uv": [1, 0, 2, 10], "texture": "#1"},
+				"south": {"uv": [2, 0, 3, 10], "texture": "#1"},
+				"west": {"uv": [3, 0, 4, 10], "texture": "#1"},
+				"up": {"uv": [5, 1, 4, 0], "texture": "#1"},
+				"down": {"uv": [5, 1, 4, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 15, 11],
+			"to": [8.5, 25, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 10], "texture": "#1"},
+				"east": {"uv": [1, 0, 2, 10], "texture": "#1"},
+				"south": {"uv": [2, 0, 3, 10], "texture": "#1"},
+				"west": {"uv": [3, 0, 4, 10], "texture": "#1"},
+				"up": {"uv": [5, 1, 4, 0], "texture": "#1"},
+				"down": {"uv": [5, 1, 4, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 25, 4],
+			"to": [8.5, 27, 12],
+			"faces": {
+				"north": {"uv": [2, 4, 3, 6], "texture": "#2"},
+				"east": {"uv": [0, 0, 8, 2], "texture": "#2"},
+				"south": {"uv": [3, 4, 4, 6], "texture": "#2"},
+				"west": {"uv": [0, 2, 8, 4], "texture": "#2"},
+				"up": {"uv": [1, 12, 0, 4], "texture": "#2"},
+				"down": {"uv": [2, 4, 1, 12], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1, 2, 1.9]
+		}
+	},
+	"groups": [
+		{
+			"name": "TestDoor",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

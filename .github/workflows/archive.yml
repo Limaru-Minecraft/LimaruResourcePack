@@ -21,7 +21,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'LimaruResourcePack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        exclusions: '*.git* *.github* /*node_modules/* .editorconfig CODE_OF_CONDUCT.md CONTRIBUTING.md README.md'
 
     - name: push changes to remote
       run: |

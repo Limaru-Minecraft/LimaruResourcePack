@@ -1,0 +1,55 @@
+{
+	"credit": "Made by Mike Shafter",
+	"textures": {
+		"14": "block/gray_concrete_powder"
+	},
+	"elements": [
+		{
+			"from": [9.25, 7.75, 4],
+			"to": [9.75, 8.25, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8.288, 5.792, 8.788, 6.342], "rotation": 180, "texture": "#14"},
+				"east": {"uv": [0, 0, 0.55, 8.6], "rotation": 90, "texture": "#14"},
+				"south": {"uv": [0, 0, 0.5, 0.55], "texture": "#14"},
+				"west": {"uv": [0, 0, 0.55, 8.6], "rotation": 270, "texture": "#14"},
+				"up": {"uv": [0, 0, 0.5, 8.6], "texture": "#14"},
+				"down": {"uv": [0, 0, 0.5, 8.6], "rotation": 180, "texture": "#14"}
+			}
+		},
+		{
+			"from": [6, 7.75, 7.75],
+			"to": [10, 8.25, 8.25],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8.288, 5.792, 12.428, 6.342], "rotation": 180, "texture": "#14"},
+				"east": {"uv": [0, 0, 0.55, 0.55], "rotation": 90, "texture": "#14"},
+				"south": {"uv": [0, 0, 4.14, 0.55], "texture": "#14"},
+				"west": {"uv": [0, 0, 0.55, 0.55], "rotation": 270, "texture": "#14"},
+				"up": {"uv": [0, 0, 4.14, 0.55], "texture": "#14"},
+				"down": {"uv": [0, 0, 4.14, 0.55], "rotation": 180, "texture": "#14"}
+			}
+		},
+		{
+			"from": [6.25, 7.75, 4],
+			"to": [6.75, 8.25, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8.288, 5.792, 8.788, 6.342], "rotation": 180, "texture": "#14"},
+				"east": {"uv": [0, 0, 0.55, 8.6], "rotation": 90, "texture": "#14"},
+				"south": {"uv": [0, 0, 0.5, 0.55], "texture": "#14"},
+				"west": {"uv": [0, 0, 0.55, 8.6], "rotation": 270, "texture": "#14"},
+				"up": {"uv": [0, 0, 0.5, 8.6], "texture": "#14"},
+				"down": {"uv": [0, 0, 0.5, 8.6], "rotation": 180, "texture": "#14"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
