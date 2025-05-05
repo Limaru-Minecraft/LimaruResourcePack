@@ -937,6 +937,76 @@
                     "type": "model",
                     "model": "item/busmodel/kt-bus/rollsign_b"
                 }
+            },
+            {
+                "threshold": 1133,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/williamstridentiii_back"
+                }
+            },
+            {
+                "threshold": 1134,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/williamstridentiii_front"
+                }
+            },
+            {
+                "threshold": 1140,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_o"
+                }
+            },
+            {
+                "threshold": 1141,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_a"
+                }
+            },
+            {
+                "threshold": 1142,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_b"
+                }
+            },
+            {
+                "threshold": 1143,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_c"
+                }
+            },
+            {
+                "threshold": 1144,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_d"
+                }
+            },
+            {
+                "threshold": 1145,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_e"
+                }
+            },
+            {
+                "threshold": 1146,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_f"
+                }
+            },
+            {
+                "threshold": 1147,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/sylvbus_g"
+                }
             }
         ]
     }
