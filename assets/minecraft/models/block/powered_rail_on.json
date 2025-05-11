@@ -3,14 +3,15 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/tuff",
-		"particle": "block/powered_rail_on",
-		"rail": "block/powered_rail_on"
+		"2": "block/rail",
+		"3": "block/ladder",
+		"particle": "block/ladder"
 	},
 	"elements": [
 		{
 			"name": "Plank8",
 			"from": [0, 0, 2.5],
-			"to": [16, 0.75, 5.5],
+			"to": [18.5, 0.75, 5.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -2]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 0.75], "texture": "#1"},
@@ -24,7 +25,7 @@
 		{
 			"name": "Plank18",
 			"from": [0, 0, 10.5],
-			"to": [16, 0.75, 13.5],
+			"to": [18.5, 0.75, 13.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -2]},
 			"faces": {
 				"north": {"uv": [0, 13, 16, 13.75], "texture": "#1"},
@@ -41,12 +42,12 @@
 			"to": [2, 1.5, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0.5, 0]},
 			"faces": {
-				"north": {"uv": [4, 0, 2, 2], "texture": "#rail", "cullface": "north"},
-				"east": {"uv": [3, 0, 4, 16], "rotation": 90, "texture": "#rail"},
-				"south": {"uv": [2, 14, 4, 16], "texture": "#rail", "cullface": "south"},
-				"west": {"uv": [2, 0, 3, 16], "rotation": 90, "texture": "#rail"},
-				"up": {"uv": [2, 0, 4, 16], "texture": "#rail"},
-				"down": {"uv": [2, 0, 4, 16], "texture": "#rail"}
+				"north": {"uv": [4, 0, 2, 2], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [3, 0, 4, 16], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [2, 14, 4, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [2, 0, 3, 16], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [2, 0, 4, 16], "texture": "#2"},
+				"down": {"uv": [2, 0, 4, 16], "texture": "#2"}
 			}
 		},
 		{
@@ -55,54 +56,54 @@
 			"to": [15, 1.5, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0.5, 0]},
 			"faces": {
-				"north": {"uv": [14, 0, 12, 2], "texture": "#rail", "cullface": "north"},
-				"east": {"uv": [13, 0, 14, 16], "rotation": 270, "texture": "#rail"},
-				"south": {"uv": [12, 14, 14, 16], "texture": "#rail", "cullface": "south"},
-				"west": {"uv": [12, 0, 12.6, 16], "rotation": 270, "texture": "#rail"},
-				"up": {"uv": [12, 0, 14, 16], "texture": "#rail"},
-				"down": {"uv": [12, 0, 14, 16], "texture": "#rail"}
+				"north": {"uv": [14, 0, 12, 2], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [13, 0, 14, 16], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [12, 14, 14, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [12, 0, 12.6, 16], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [12, 0, 14, 16], "texture": "#2"},
+				"down": {"uv": [12, 0, 14, 16], "texture": "#2"}
 			}
 		},
 		{
-			"name": "Central Path",
-			"from": [7.5, 1.001, 0],
-			"to": [8.5, 1.6, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
+			"name": "Rail2",
+			"from": [17, 0.75, 11.5],
+			"to": [18, 1.75, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0.5, 0]},
 			"faces": {
-				"north": {"uv": [7, 0, 9, 0.599], "texture": "#rail"},
-				"east": {"uv": [8, 0, 9, 16], "rotation": 90, "texture": "#rail"},
-				"south": {"uv": [7, 15.401, 9, 16], "texture": "#rail"},
-				"west": {"uv": [7, 0, 8, 16], "rotation": 270, "texture": "#rail"},
-				"up": {"uv": [7, 0, 9, 16], "texture": "#rail"},
-				"down": {"uv": [9, 0, 7, 16], "rotation": 180, "texture": "#rail", "cullface": "down"}
+				"north": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"east": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"south": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"west": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"}
 			}
 		},
 		{
-			"name": "Golden Rail 1",
-			"from": [7, 0.501, 0],
-			"to": [7.5, 1.36, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.5, 0]},
+			"name": "Rail1",
+			"from": [17, 1.75, 0],
+			"to": [18, 2.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 1.5, 0]},
 			"faces": {
-				"north": {"uv": [6, 0, 7, 1], "texture": "#rail", "cullface": "north"},
-				"east": {"uv": [6, 0, 7, 16], "rotation": 90, "texture": "#rail"},
-				"south": {"uv": [6, 15, 7, 16], "texture": "#rail", "cullface": "south"},
-				"west": {"uv": [6, 0, 7, 16], "rotation": 270, "texture": "#rail"},
-				"up": {"uv": [6, 0, 7, 16], "texture": "#rail"},
-				"down": {"uv": [6, 0, 7, 16], "texture": "#rail", "cullface": "down"}
+				"north": {"uv": [4, 0, 2, 2], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [2, 0, 2.75, 16], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [3, 14, 4, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [2, 0, 2.75, 16], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [3, 0, 4, 16], "texture": "#2"},
+				"down": {"uv": [2, 0, 3, 16], "texture": "#2"}
 			}
 		},
 		{
-			"name": "Golden Rail 2",
-			"from": [8.5, 0.501, 0],
-			"to": [9, 1.36, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.5, 0]},
+			"name": "Rail3",
+			"from": [17, 0.75, 3.5],
+			"to": [18, 1.75, 4.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0.5, -8]},
 			"faces": {
-				"north": {"uv": [9, 0, 10, 1], "texture": "#rail", "cullface": "north"},
-				"east": {"uv": [9, 0, 10, 16], "rotation": 90, "texture": "#rail"},
-				"south": {"uv": [9, 15, 10, 16], "texture": "#rail", "cullface": "south"},
-				"west": {"uv": [9, 0, 10, 16], "rotation": 270, "texture": "#rail"},
-				"up": {"uv": [9, 0, 10, 16], "texture": "#rail"},
-				"down": {"uv": [9, 0, 10, 16], "texture": "#rail", "cullface": "down"}
+				"north": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"east": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"south": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"west": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [3, 3, 4, 4], "rotation": 90, "texture": "#3"}
 			}
 		}
 	],
