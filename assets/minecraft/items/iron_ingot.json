@@ -1007,6 +1007,13 @@
                     "type": "model",
                     "model": "item/busmodel/sylvbus_g"
                 }
+            },
+            {
+                "threshold": 1149,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/m9_paper"
+                }
             }
         ]
     }
