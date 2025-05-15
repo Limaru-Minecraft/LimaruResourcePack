@@ -1054,7 +1054,7 @@
                 "threshold": 1205,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/kt_hybrid_47_twyf"
+                    "model": "item/busmodel/kt-bus/kt_hybrid_46_twyf"
                 }
             },
             {
@@ -1068,7 +1068,7 @@
                 "threshold": 1207,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/kt_hybrid_46_twyf"
+                    "model": "item/busmodel/kt-bus/kt_hybrid_47_twyf"
                 }
             },
             {
