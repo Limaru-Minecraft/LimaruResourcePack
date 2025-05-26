@@ -1,0 +1,27 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/firework_star",
+    "layer1": "item/firework_star_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "tce:vehicles/pickup_double_cab"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "tce:vehicles/sedan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "tce:wheels/wheel_1"
+    }
+  ]
+}

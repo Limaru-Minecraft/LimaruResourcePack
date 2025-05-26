@@ -931,6 +931,30 @@
         {
             "type": "single",
             "resource": "minecraft:entetsu_textures/can"
+        },
+        {
+            "type": "single",
+            "resource": "tce:vehicles/pickup_double_cab"
+        },
+        {
+            "type": "single",
+            "resource": "tce:vehicles/sedan"
+        },
+        {
+            "type": "single",
+            "resource": "tce:wheels/wheel_1"
+        },
+        {
+            "type": "single",
+            "resource": "tce:items/spray_can"
+        },
+        {
+            "type": "single",
+            "resource": "tce:engines/engine_i6_1"
+        },
+        {
+            "type": "single",
+            "resource": "tce:engines/engine_i4_1"
         }
     ]
 }

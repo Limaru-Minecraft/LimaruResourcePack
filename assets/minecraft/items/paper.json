@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 50000,
+        "model": {
+          "model": "tce:engines/engine_i6_1",
+          "type": "minecraft:model"
+        }
+      },
+      {
+        "threshold": 50001,
+        "model": {
+          "model": "tce:engines/engine_i4_1",
+          "type": "minecraft:model"
+        }
+      }
+    ],
+    "scale": 1,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}
