@@ -55,6 +55,23 @@
         }
       },
       {
+        "threshold": 10001,
+        "model": {
+          "model": "item/busmodel/noodle/noodle",
+          "type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            },
+            {
+              "type": "minecraft:firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
         "threshold": 20000,
         "model": {
           "model": "tce:wheels/wheel_1",
