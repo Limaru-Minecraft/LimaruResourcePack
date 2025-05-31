@@ -19,6 +19,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 15000
+      },
+      "model": "item/busmodel/noodle/noodle"
+    },
+    {
+      "predicate": {
         "custom_model_data": 20000
       },
       "model": "tce:wheels/wheel_1"
