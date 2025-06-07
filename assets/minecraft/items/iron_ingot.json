@@ -963,14 +963,14 @@
                 "threshold": 1133,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/williamstridentiii_back"
+                    "model": "item/busmodel/UNUSED"
                 }
             },
             {
                 "threshold": 1134,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/williamstridentiii_front"
+                    "model": "item/busmodel/UNUSED"
                 }
             },
             {
@@ -1063,14 +1063,7 @@
                     "type": "model",
                     "model": "item/busmodel/kt-bus/songtaew_m377"
                 }
-            },
-            {
-                "threshold": 1213,
-                "model": {
-                    "type": "model",
-                    "model": "item/busmodel/noodle/noodle"
- 
-                }
+
             }
         ]
     }
