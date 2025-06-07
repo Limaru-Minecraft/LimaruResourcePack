@@ -8,7 +8,7 @@
         },
         "entries": [
             {
-                "threshold": 100,
+                "threshold": 1001,
                 "model": {
                     "type": "model",
                     "model": "item/mizuno_ezcard"

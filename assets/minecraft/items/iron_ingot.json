@@ -214,7 +214,7 @@
                 "threshold": 1029,
                 "model": {
                     "type": "model",
-                    "model": "item/unused"
+                    "model": "item/trainmodel/entetsu/r152_mid"
                 }
             },
             {
@@ -354,7 +354,7 @@
                 "threshold": 1049,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/s-trec/b37/cab_inside_door"
+                    "model": "item/trainmodel/s-trec/b37/cab_interior_door"
                 }
             },
             {
@@ -882,7 +882,7 @@
                     "model": "item/busmodel/autonomous/display_inside/m5d13"
                 }
             },
-            {
+            { 
                 "threshold": 2000,
                 "model": {
                     "type": "model",
@@ -901,6 +901,175 @@
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+             },
+             {
+                "threshold": 1125,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/main_body_taxi"
+                }
+            },
+            {
+                "threshold": 1126,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_pass_door"
+                }
+            },
+            {
+                "threshold": 1127,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_start"
+                }
+            },
+            {
+                "threshold": 1128,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_way"
+                }
+            },
+            {
+                "threshold": 1129,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/taxi_dis_end"
+                }
+            },
+            {
+                "threshold": 1130,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/r152_end"
+                }
+            },
+            {
+                "threshold": 1131,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_a"
+                }
+            },
+            {
+                "threshold": 1132,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_b"
+                }
+            },
+            {
+                "threshold": 1133,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/williamstridentiii_back"
+                }
+            },
+            {
+                "threshold": 1134,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/williamstridentiii_front"
+                }
+            },
+            {
+                "threshold": 1149,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/m9_paper"
+                }
+            },
+            {
+                "threshold": 1200,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_c"
+                }
+            },
+            {
+                "threshold": 1201,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/rollsign_d"
+                }
+            },
+            {
+                "threshold": 1202,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_43"
+                }
+            },
+            {
+                "threshold": 1203,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_43x"
+                }
+            },
+            {
+                "threshold": 1204,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_51"
+                }
+            },
+            {
+                "threshold": 1205,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_n92"
+                }
+            },
+            {
+                "threshold": 1206,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_351"
+                }
+            },
+            {
+                "threshold": 1207,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_352"
+                }
+            },
+            {
+                "threshold": 1208,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/kt_hybrid_off"
+                }
+            },
+            {
+                "threshold": 1209,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/songtaew_m60"
+                }
+            },
+            {
+                "threshold": 1210,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/songtaew_m101"
+                }
+            },
+            {
+                "threshold": 1211,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/songtaew_m377"
+                }
+            },
+            {
+                "threshold": 1213,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/noodle/noodle"
+ 
                 }
             }
         ]
