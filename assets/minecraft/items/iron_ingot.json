@@ -881,6 +881,27 @@
                     "type": "model",
                     "model": "item/busmodel/autonomous/display_inside/m5d13"
                 }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_dm"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_bogie"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
             }
         ]
     }
