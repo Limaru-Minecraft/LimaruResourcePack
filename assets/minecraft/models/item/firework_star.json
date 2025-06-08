@@ -1,93 +1,59 @@
 {
-  "model": {
-    "type": "minecraft:range_dispatch",
-    "property": "minecraft:custom_model_data",
-    "entries": [
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/firework_star",
-          "tints": [
-            {
-              "type": "minecraft:constant",
-              "value": -1
-            },
-            {
-              "type": "minecraft:firework",
-              "default": -7697782
-            }
-          ]
-        },
-        "threshold": 0
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/firework_star",
+    "layer1": "item/firework_star_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
       },
-      {
-        "threshold": 10000,
-        "model": {
-          "model": "tce:vehicles/pickup_double_cab",
-          "type": "minecraft:model",
-          "tints": [
-            {
-              "type": "minecraft:constant",
-              "value": -1
-            },
-            {
-              "type": "minecraft:firework",
-              "default": -7697782
-            }
-          ]
-        }
+      "model": "tce:vehicles/tmc-pickup_4door"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10001
       },
-      {
-        "threshold": 10001,
-        "model": {
-          "model": "tce:vehicles/sedan",
-          "type": "minecraft:model",
-          "tints": [
-            {
-              "type": "minecraft:constant",
-              "value": -1
-            },
-            {
-              "type": "minecraft:firework",
-              "default": -7697782
-            }
-          ]
-        }
+      "model": "tce:vehicles/tmc-clarion"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10002
       },
-      {
-        "threshold": 15000,
-        "model": {
-          "model": "item/busmodel/noodle/noodle",
-          "type": "minecraft:model",
-          "tints": [
-            {
-              "type": "minecraft:constant",
-              "value": -1
-            },
-            {
-              "type": "minecraft:firework",
-              "default": -7697782
-            }
-          ]
-        }
+      "model": "tce:vehicles/tmc-pickup"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10003
       },
-      {
-        "threshold": 20000,
-        "model": {
-          "model": "tce:wheels/wheel_1",
-          "type": "minecraft:model",
-          "tints": [
-            {
-              "type": "minecraft:constant",
-              "value": -1
-            },
-            {
-              "type": "minecraft:firework",
-              "default": -7697782
-            }
-          ]
-        }
-      }
-    ]
-  }
+      "model": "tce:vehicles/tmc-transbox"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "tce:vehicles/chestler-lr"
+    },
+
+
+    {
+      "predicate": {
+        "custom_model_data": 15000
+      },
+      "model": "item/busmodel/noodle/noodle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "tce:wheels/wheel_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "tce:wheels/wheel_2"
+    }
+  ]
 }
