@@ -15,6 +15,8 @@
 		"14": "block/ent_logo",
 		"15": "block/calibrated_sculk_sensor_amethyst",
 		"16": "block/ent_voltmeter",
+		"29": "block/ent_pressure_gauge",
+		"30": "block/ent_speedometer",
 		"particle": "block/black_stained_glass"
 	},
 	"elements": [
@@ -117,7 +119,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [-2.5, 9.75, -3.25]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#29"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
@@ -129,7 +131,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 9.75, -3.25]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#30"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
