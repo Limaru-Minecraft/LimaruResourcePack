@@ -902,8 +902,8 @@
                     "type": "model",
                     "model": "item/trainmodel/lipan/l500/l_500_articulation"
                 }
-             },
-             {
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
@@ -963,14 +963,14 @@
                 "threshold": 1133,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/UNUSED"
+                    "model": "item/busmodel/unused"
                 }
             },
             {
                 "threshold": 1134,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/UNUSED"
+                    "model": "item/busmodel/unused"
                 }
             },
             {
