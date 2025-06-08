@@ -16,6 +16,20 @@
           "model": "tce:engines/engine_i4_1",
           "type": "minecraft:model"
         }
+      },
+      {
+        "threshold": 50002,
+        "model": {
+          "model": "tce:engines/engine_v6_1",
+          "type": "minecraft:model"
+        }
+      },
+      {
+        "threshold": 50003,
+        "model": {
+          "model": "tce:engines/engine_v8_1",
+          "type": "minecraft:model"
+        }
       }
     ],
     "scale": 1,

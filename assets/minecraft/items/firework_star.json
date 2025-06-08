@@ -23,7 +23,7 @@
       {
         "threshold": 10000,
         "model": {
-          "model": "tce:vehicles/pickup_double_cab",
+          "model": "tce:vehicles/tmc-pickup_4door",
           "type": "minecraft:model",
           "tints": [
             {
@@ -40,7 +40,58 @@
       {
         "threshold": 10001,
         "model": {
-          "model": "tce:vehicles/sedan",
+          "model": "tce:vehicles/tmc-clarion",
+          "type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            },
+            {
+              "type": "minecraft:firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+	  {
+        "threshold": 10002,
+        "model": {
+          "model": "tce:vehicles/tmc-pickup",
+          "type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            },
+            {
+              "type": "minecraft:firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+	  {
+        "threshold": 10003,
+        "model": {
+          "model": "tce:vehicles/tmc-transbox",
+          "type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            },
+            {
+              "type": "minecraft:firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+	  {
+        "threshold": 10004,
+        "model": {
+          "model": "tce:vehicles/chestler-lr",
           "type": "minecraft:model",
           "tints": [
             {
@@ -75,6 +126,23 @@
         "threshold": 20000,
         "model": {
           "model": "tce:wheels/wheel_1",
+          "type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            },
+            {
+              "type": "minecraft:firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 20001,
+        "model": {
+          "model": "tce:wheels/wheel_2",
           "type": "minecraft:model",
           "tints": [
             {

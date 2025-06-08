@@ -15,6 +15,18 @@
         "custom_model_data": 50001
       },
       "model": "tce:engines/engine_i4_1"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 50002
+      },
+      "model": "tce:engines/engine_v6_1"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 50003
+      },
+      "model": "tce:engines/engine_v8_1"
     }
   ]
 }
