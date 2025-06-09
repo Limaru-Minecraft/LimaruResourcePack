@@ -904,6 +904,48 @@
                 }
             },
             {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_gangway_door"
+                }
+            },
+            {
+                "threshold": 2004,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+            },
+            {
+                "threshold": 2005,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+            },
+            {
+                "threshold": 2006,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+            },
+            {
+                "threshold": 2007,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+            },
+            {
+                "threshold": 2008,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
