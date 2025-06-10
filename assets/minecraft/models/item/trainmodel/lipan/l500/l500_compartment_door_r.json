@@ -1,0 +1,94 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/lipan/lili/lilo_light_glass_white",
+		"1": "block/lipan/l500/l500_compartment_door_r",
+		"particle": "block/lipan/lili/lilo_light_glass_white"
+	},
+	"elements": [
+		{
+			"from": [7.875, 9.05, 6],
+			"to": [8, 9.55, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -2.2, 16]},
+			"faces": {
+				"north": {"uv": [10, 1, 10.125, 1.5], "texture": "#1"},
+				"east": {"uv": [4, 5, 8, 5.5], "texture": "#1"},
+				"south": {"uv": [2, 10, 2.125, 10.5], "texture": "#1"},
+				"west": {"uv": [4, 6, 8, 6.5], "texture": "#1"},
+				"up": {"uv": [9.125, 12, 9, 8], "texture": "#1"},
+				"down": {"uv": [0.125, 10, 0, 14], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.875, 4.8, 9.5],
+			"to": [8, 9.05, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -2.7, 16]},
+			"faces": {
+				"north": {"uv": [6, 7, 6.125, 11.25], "texture": "#1"},
+				"east": {"uv": [0, 5, 0.5, 9.25], "texture": "#1"},
+				"south": {"uv": [7, 7, 7.125, 11.25], "texture": "#1"},
+				"west": {"uv": [1, 5, 1.5, 9.25], "texture": "#1"},
+				"up": {"uv": [10.125, 0.5, 10, 0], "texture": "#1"},
+				"down": {"uv": [1.125, 10, 1, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.875, 4.8, 6],
+			"to": [8, 9.05, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -2.7, 12.5]},
+			"faces": {
+				"north": {"uv": [8, 0, 8.125, 4.25], "texture": "#1"},
+				"east": {"uv": [2, 5, 2.5, 9.25], "texture": "#1"},
+				"south": {"uv": [8, 5, 8.125, 9.25], "texture": "#1"},
+				"west": {"uv": [3, 5, 3.5, 9.25], "texture": "#1"},
+				"up": {"uv": [10.125, 2.5, 10, 2], "texture": "#1"},
+				"down": {"uv": [3.125, 10, 3, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.875, 0.05, 6],
+			"to": [8, 4.8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -11.2, 16]},
+			"faces": {
+				"north": {"uv": [4, 7, 4.125, 11.75], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 4.75], "texture": "#1"},
+				"south": {"uv": [5, 7, 5.125, 11.75], "texture": "#1"},
+				"west": {"uv": [4, 0, 8, 4.75], "texture": "#1"},
+				"up": {"uv": [9.125, 4, 9, 0], "texture": "#1"},
+				"down": {"uv": [9.125, 4, 9, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.875, 4.8, 6.5],
+			"to": [8, 9.05, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -7.075, 15.875]},
+			"faces": {
+				"north": {"uv": [0.5, 8.5, 0.6, 11.9], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 8.05], "texture": "#0"},
+				"south": {"uv": [1, 8.5, 1.1, 11.9], "texture": "#0"},
+				"west": {"uv": [8, 0, 15.95, 8], "texture": "#0"},
+				"up": {"uv": [1.5, 8.5, 1.6, 10.9], "texture": "#0"},
+				"down": {"uv": [2, 8.5, 2.1, 10.9], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Door",
+			"origin": [2.5, -8.9, 17.4],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				{
+					"name": "Window",
+					"origin": [2.5, -8.8, 17.3],
+					"color": 0,
+					"children": [4]
+				}
+			]
+		}
+	]
+}
