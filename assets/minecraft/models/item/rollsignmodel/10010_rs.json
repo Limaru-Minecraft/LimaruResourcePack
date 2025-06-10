@@ -1,1 +1,1 @@
-{"texture_size":[1024,1024],"textures":{"0":"block/ent/10010_rs"},"elements":[{"from":[2,0,8],"to":[14,3,8],"rotation":{"angle":0,"axis":"y","origin":[8,1.5,8]},"faces":{"north":{"uv":[0,0,16,16],"texture":"#0"}}}],"display":{"head":{"scale":[2,2,2]}}}
+{"texture_size":[1024,1024],"textures":{"0":"block/ent/10010_rs"},"elements":[{"from":[2,0,8],"to":[14,3,8],"rotation":{"angle":0,"axis":"y","origin":[8,1.5,8]},"faces":{"north":{"uv":[0,0,16,16],"texture":"#0"},"south": {"uv": [0, 0, 16, 16], "texture": "#0"}}}],"display":{"head":{"scale":[2,2,2]}}}
