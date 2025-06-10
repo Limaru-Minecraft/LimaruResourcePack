@@ -914,28 +914,28 @@
                 "threshold": 2004,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                    "model": "item/trainmodel/lipan/l500/l_500_cab_door"
                 }
             },
             {
                 "threshold": 2005,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                    "model": "item/trainmodel/lipan/l500/l_500_compartment_door_l"
                 }
             },
             {
                 "threshold": 2006,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                    "model": "item/trainmodel/lipan/l500/l_500_compartment_door_r"
                 }
             },
             {
                 "threshold": 2007,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                    "model": "item/trainmodel/lipan/l500/l_500_gapfillers"
                 }
             },
             {
