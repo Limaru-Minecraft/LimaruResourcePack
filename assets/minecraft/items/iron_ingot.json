@@ -942,7 +942,21 @@
                 "threshold": 2008,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/l500/l_500_articulation"
+                    "model": "item/trainmodel/lipan/lili_hsp/lili_hsp_head"
+                }
+            },
+            {
+                "threshold": 2009,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_hsp/lili_hsp_lower"
+                }
+            },
+            {
+                "threshold": 2010,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_hsp/lili_hsp_upper"
                 }
             },
             {
