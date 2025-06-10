@@ -2618,6 +2618,32 @@
 			}
 		},
 		{
+			"from": [7.9, 8.9, -5.025],
+			"to": [8.2, 9.5, -4.725],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.05, 8.95, -4.875]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#11"}
+			}
+		},
+		{
+			"from": [7.9, 9.3, -4.825],
+			"to": [8.2, 9.5, -4.425],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8.05, 9.35, -4.775]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#11"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#11"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#11"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#11"}
+			}
+		},
+		{
 			"from": [2.9, 2.75, -6.225],
 			"to": [3.375, 3, -5.175],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [3.65, 2.75, -5.375]},
@@ -4516,6 +4542,12 @@
 									"origin": [-6.6, -1.7, 11],
 									"color": 0,
 									"children": [195, 196, 197, 198]
+								},
+								{
+									"name": "Antenna",
+									"origin": [-6.6, -1.7, 11],
+									"color": 0,
+									"children": [199, 200]
 								}
 							]
 						}
@@ -4535,31 +4567,31 @@
 									"name": "Screens",
 									"origin": [11.5, 2.75, -5.375],
 									"color": 0,
-									"children": [199, 200, 201, 202]
+									"children": [201, 202, 203, 204]
 								},
 								{
 									"name": "DriverDesk",
 									"origin": [3, 0, -3],
 									"color": 0,
-									"children": [203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220]
+									"children": [205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222]
 								},
 								{
 									"name": "Seat",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [221, 222, 223]
+									"children": [223, 224, 225]
 								},
 								{
 									"name": "Seat",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [224, 225, 226]
+									"children": [226, 227, 228]
 								},
 								{
 									"name": "SeatSupport",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [227, 228, 229, 230]
+									"children": [229, 230, 231, 232]
 								}
 							]
 						},
@@ -4572,29 +4604,29 @@
 									"name": "Stanchon",
 									"origin": [6.5, 0, 13.2],
 									"color": 0,
-									"children": [231, 232, 233, 234]
+									"children": [233, 234, 235, 236]
 								},
 								{
 									"name": "Stanchon",
 									"origin": [6.5, 0, 13.2],
 									"color": 0,
 									"children": [
-										235,
-										236,
 										237,
 										238,
 										239,
+										240,
+										241,
 										{
 											"name": "StanchonR",
 											"origin": [6.5, 0, 13.2],
 											"color": 0,
-											"children": [240, 241, 242]
+											"children": [242, 243, 244]
 										},
 										{
 											"name": "StanchonL",
 											"origin": [6.5, 0, 13.2],
 											"color": 0,
-											"children": [243, 244, 245]
+											"children": [245, 246, 247]
 										}
 									]
 								},
@@ -4607,13 +4639,13 @@
 											"name": "FlipSeatL",
 											"origin": [2.3, 1, 19.7],
 											"color": 0,
-											"children": [246, 247]
+											"children": [248, 249]
 										},
 										{
 											"name": "FlipSeatL",
 											"origin": [2.3, 1, 19.7],
 											"color": 0,
-											"children": [248, 249]
+											"children": [250, 251]
 										}
 									]
 								},
@@ -4626,13 +4658,13 @@
 											"name": "FlipSeatR",
 											"origin": [2.3, 1, 19.7],
 											"color": 0,
-											"children": [250, 251]
+											"children": [252, 253]
 										},
 										{
 											"name": "FlipSeatR",
 											"origin": [2.3, 1, 19.7],
 											"color": 0,
-											"children": [252, 253]
+											"children": [254, 255]
 										}
 									]
 								},
@@ -4640,13 +4672,13 @@
 									"name": "Lights",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [254, 255]
+									"children": [256, 257]
 								},
 								{
 									"name": "SeatBases",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [256, 257, 258, 259, 260, 261, 262, 263]
+									"children": [258, 259, 260, 261, 262, 263, 264, 265]
 								},
 								{
 									"name": "SeatSets",
@@ -4662,12 +4694,6 @@
 													"name": "SeatR",
 													"origin": [2.3, 1, 19.7],
 													"color": 0,
-													"children": [264, 265]
-												},
-												{
-													"name": "SeatF",
-													"origin": [8, 8, 8],
-													"color": 0,
 													"children": [266, 267]
 												},
 												{
@@ -4675,31 +4701,37 @@
 													"origin": [8, 8, 8],
 													"color": 0,
 													"children": [268, 269]
-												}
-											]
-										},
-										{
-											"name": "Seats",
-											"origin": [8, 8, 8],
-											"color": 0,
-											"children": [
+												},
 												{
 													"name": "SeatF",
 													"origin": [8, 8, 8],
 													"color": 0,
 													"children": [270, 271]
+												}
+											]
+										},
+										{
+											"name": "Seats",
+											"origin": [8, 8, 8],
+											"color": 0,
+											"children": [
+												{
+													"name": "SeatF",
+													"origin": [8, 8, 8],
+													"color": 0,
+													"children": [272, 273]
 												},
 												{
 													"name": "SeatL",
 													"origin": [2.3, 1, 19.7],
 													"color": 0,
-													"children": [272, 273]
+													"children": [274, 275]
 												},
 												{
 													"name": "SeatF",
 													"origin": [8, 8, 8],
 													"color": 0,
-													"children": [274, 275]
+													"children": [276, 277]
 												}
 											]
 										},
@@ -4712,19 +4744,19 @@
 													"name": "SeatR",
 													"origin": [8, 8, 8],
 													"color": 0,
-													"children": [276, 277]
+													"children": [278, 279]
 												},
 												{
 													"name": "SeatR",
 													"origin": [2.3, 1, 19.7],
 													"color": 0,
-													"children": [278, 279]
+													"children": [280, 281]
 												},
 												{
 													"name": "SeatR",
 													"origin": [8, 8, 8],
 													"color": 0,
-													"children": [280, 281]
+													"children": [282, 283]
 												}
 											]
 										},
@@ -4737,12 +4769,6 @@
 													"name": "SeatL",
 													"origin": [2.3, 1, 19.7],
 													"color": 0,
-													"children": [282, 283]
-												},
-												{
-													"name": "SeatR",
-													"origin": [8, 8, 8],
-													"color": 0,
 													"children": [284, 285]
 												},
 												{
@@ -4750,6 +4776,12 @@
 													"origin": [8, 8, 8],
 													"color": 0,
 													"children": [286, 287]
+												},
+												{
+													"name": "SeatR",
+													"origin": [8, 8, 8],
+													"color": 0,
+													"children": [288, 289]
 												}
 											]
 										}
@@ -4764,10 +4796,10 @@
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [
-						288,
-						289,
 						290,
 						291,
+						292,
+						293,
 						{
 							"name": "Underframe",
 							"origin": [8, 8, 8],
@@ -4777,25 +4809,25 @@
 									"name": "Pilot",
 									"origin": [2.125, -2.125, -4.6875],
 									"color": 0,
-									"children": [292, 293, 294]
+									"children": [294, 295, 296]
 								},
 								{
 									"name": "PivotPins",
 									"origin": [11.375, -2.375, -9.3125],
 									"color": 0,
-									"children": [295, 296]
+									"children": [297, 298]
 								},
 								{
 									"name": "DriveTrain",
 									"origin": [8, -2.875, 3.125],
 									"color": 0,
-									"children": [297, 298, 299, 300]
+									"children": [299, 300, 301, 302]
 								},
 								{
 									"name": "DamperAnchors",
 									"origin": [16.5, -2.375, -5.0625],
 									"color": 0,
-									"children": [301, 302, 303, 304]
+									"children": [303, 304, 305, 306]
 								}
 							]
 						},
@@ -4803,7 +4835,7 @@
 							"name": "EquipmentBox",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [305, 306, 307]
+							"children": [307, 308, 309]
 						}
 					]
 				},
@@ -4816,13 +4848,13 @@
 							"name": "DoorCS",
 							"origin": [2.5, -1.7, 10.5],
 							"color": 0,
-							"children": [308, 309, 310, 311, 312]
+							"children": [310, 311, 312, 313, 314]
 						},
 						{
 							"name": "DoorCS",
 							"origin": [2.5, -1.7, 10.5],
 							"color": 0,
-							"children": [313, 314, 315, 316, 317]
+							"children": [315, 316, 317, 318, 319]
 						},
 						{
 							"name": "Windows",
@@ -4833,13 +4865,13 @@
 									"name": "Window",
 									"origin": [2.5, -2.4, 10.2],
 									"color": 0,
-									"children": [318]
+									"children": [320]
 								},
 								{
 									"name": "Window",
 									"origin": [2.5, -2.4, 10.2],
 									"color": 0,
-									"children": [319]
+									"children": [321]
 								}
 							]
 						}
@@ -4849,13 +4881,13 @@
 					"name": "Posters",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [320, 321]
+					"children": [322, 323]
 				},
 				{
 					"name": "Signs",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [322, 323]
+					"children": [324, 325]
 				}
 			]
 		}
