@@ -960,6 +960,27 @@
                 }
             },
             {
+                "threshold": 2011,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_md52/lili_md523"
+                }
+            },
+            {
+                "threshold": 2012,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l1222/l_1222_body"
+                }
+            },
+            {
+                "threshold": 2013,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l1222/l_1222_bogie"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
