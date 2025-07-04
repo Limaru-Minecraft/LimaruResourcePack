@@ -981,6 +981,13 @@
                 }
             },
             {
+                "threshold": 2014,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_dd160/lili_dd160"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
