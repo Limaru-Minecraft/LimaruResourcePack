@@ -988,6 +988,13 @@
                 }
             },
             {
+                "threshold": 2015,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_dm_chiyoda_body"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
