@@ -988,6 +988,48 @@
                 }
             },
             {
+                "threshold": 2015,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_dm_chiyoda_body"
+                }
+            },
+            {
+                "threshold": 2016,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_dm_chiyoda_hatch"
+                }
+            },
+            {
+                "threshold": 2017,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_dm_chiyoda_door_r"
+                }
+            },
+            {
+                "threshold": 2018,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_dm_chiyoda_door_l"
+                }
+            },
+            {
+                "threshold": 2019,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_bogie_typel"
+                }
+            },
+            {
+                "threshold": 2020,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_bogie_articulation"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
