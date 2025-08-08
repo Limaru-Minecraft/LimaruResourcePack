@@ -1189,7 +1189,13 @@
                     "type": "model",
                     "model": "item/busmodel/kt-bus/songtaew_m377"
                 }
-
+            },
+            {
+                "threshold": 1212,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/misc/ets_bogie"
+                }
             }
         ]
     }
