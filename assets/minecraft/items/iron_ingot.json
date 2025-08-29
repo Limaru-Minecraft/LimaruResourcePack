@@ -1030,6 +1030,20 @@
                 }
             },
             {
+                "threshold": 2021,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_bmf/lili_bmf_body"
+                }
+            },
+            {
+                "threshold": 2022,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_gb25rs/lili_gb25rs_nb"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
