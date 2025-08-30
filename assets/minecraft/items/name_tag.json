@@ -62,6 +62,13 @@
                     "type": "model",
                     "model": "item/wasabi/7th"
                 }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/plazma"
+                }
             }
         ]
     }
