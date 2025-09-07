@@ -1044,6 +1044,13 @@
                 }
             },
             {
+                "threshold": 2023,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_midori/lili_midori_bmpz"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
