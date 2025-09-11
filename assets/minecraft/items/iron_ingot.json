@@ -1245,6 +1245,874 @@
                     "type": "model",
                     "model": "item/trainmodel/misc/ets_bogie"
                 }
+            },
+            {
+                "threshold": 1213,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/panto"
+                }
+            },
+            {
+                "threshold": 1214,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/center"
+                }
+            },
+            {
+                "threshold": 1215,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/door_a1"
+                }
+            },
+            {
+                "threshold": 1216,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/door_a2"
+                }
+            },
+            {
+                "threshold": 1217,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/door_b1"
+                }
+            },
+            {
+                "threshold": 1218,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/door_b2"
+                }
+            },
+            {
+                "threshold": 1219,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/lowac"
+                }
+            },
+            {
+                "threshold": 1220,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_1"
+                }
+            },
+            {
+                "threshold": 1221,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_2"
+                }
+            },
+            {
+                "threshold": 1222,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_3"
+                }
+            },
+            {
+                "threshold": 1223,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_4"
+                }
+            },
+            {
+                "threshold": 1224,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_5"
+                }
+            },
+            {
+                "threshold": 1225,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/car_6"
+                }
+            },
+            {
+                "threshold": 1226,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/display"
+                }
+            },
+            {
+                "threshold": 1227,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/destination"
+                }
+            },
+            {
+                "threshold": 1228,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/001_i"
+                }
+            },
+            {
+                "threshold": 1229,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/002_i"
+                }
+            },
+            {
+                "threshold": 1230,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/003_i"
+                }
+            },
+            {
+                "threshold": 1231,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/004_i"
+                }
+            },
+            {
+                "threshold": 1232,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/005_i"
+                }
+            },
+            {
+                "threshold": 1233,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/006_i"
+                }
+            },
+            {
+                "threshold": 1234,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/101_i"
+                }
+            },
+            {
+                "threshold": 1235,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/102_i"
+                }
+            },
+            {
+                "threshold": 1236,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/103_i"
+                }
+            },
+            {
+                "threshold": 1237,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/104_i"
+                }
+            },
+            {
+                "threshold": 1238,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/105_i"
+                }
+            },
+            {
+                "threshold": 1239,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/106_i"
+                }
+            },
+            {
+                "threshold": 1240,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/107_i"
+                }
+            },
+            {
+                "threshold": 1241,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/108_i"
+                }
+            },
+            {
+                "threshold": 1242,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/109_i"
+                }
+            },
+            {
+                "threshold": 1243,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/110_i"
+                }
+            },
+            {
+                "threshold": 1244,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/111_i"
+                }
+            },
+            {
+                "threshold": 1245,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/112_i"
+                }
+            },
+            {
+                "threshold": 1246,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/113_i"
+                }
+            },
+            {
+                "threshold": 1247,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/114_i"
+                }
+            },
+            {
+                "threshold": 1248,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/115_i"
+                }
+            },
+            {
+                "threshold": 1249,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/116_i"
+                }
+            },
+            {
+                "threshold": 1250,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/117_i"
+                }
+            },
+            {
+                "threshold": 1251,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/118_i"
+                }
+            },
+            {
+                "threshold": 1252,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/119_i"
+                }
+            },
+            {
+                "threshold": 1253,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/120_i"
+                }
+            },
+            {
+                "threshold": 1254,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/121_i"
+                }
+            },
+            {
+                "threshold": 1255,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/122_i"
+                }
+            },
+            {
+                "threshold": 1256,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/123_i"
+                }
+            },
+            {
+                "threshold": 1257,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/201_i"
+                }
+            },
+            {
+                "threshold": 1258,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/202_i"
+                }
+            },
+            {
+                "threshold": 1259,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/203_i"
+                }
+            },
+            {
+                "threshold": 1260,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/204_i"
+                }
+            },
+            {
+                "threshold": 1261,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/205_i"
+                }
+            },
+            {
+                "threshold": 1262,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/206_i"
+                }
+            },
+            {
+                "threshold": 1263,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/207_i"
+                }
+            },
+            {
+                "threshold": 1264,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/208_i"
+                }
+            },
+            {
+                "threshold": 1265,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_a"
+                }
+            },
+            {
+                "threshold": 1266,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_b"
+                }
+            },
+            {
+                "threshold": 1267,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_a_yellow"
+                }
+            },
+            {
+                "threshold": 1268,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_b_yellow"
+                }
+            },
+            {
+                "threshold": 1269,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_a_green"
+                }
+            },
+            {
+                "threshold": 1270,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/indicator_b_green"
+                }
+            },
+            {
+                "threshold": 1271,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/701"
+                }
+            },
+            {
+                "threshold": 1272,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/702"
+                }
+            },
+            {
+                "threshold": 1273,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/703"
+                }
+            },
+            {
+                "threshold": 1274,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/704"
+                }
+            },
+            {
+                "threshold": 1275,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/705"
+                }
+            },
+            {
+                "threshold": 1276,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/706"
+                }
+            },
+            {
+                "threshold": 1277,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/707"
+                }
+            },
+            {
+                "threshold": 1278,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/708"
+                }
+            },
+            {
+                "threshold": 1279,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/709"
+                }
+            },
+            {
+                "threshold": 1280,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/710"
+                }
+            },
+            {
+                "threshold": 1281,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/711"
+                }
+            },
+            {
+                "threshold": 1282,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/712"
+                }
+            },
+            {
+                "threshold": 1283,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/713"
+                }
+            },
+            {
+                "threshold": 1284,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/714"
+                }
+            },
+            {
+                "threshold": 1285,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/715"
+                }
+            },
+            {
+                "threshold": 1286,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/716"
+                }
+            },
+            {
+                "threshold": 1287,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/717"
+                }
+            },
+            {
+                "threshold": 1288,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/718"
+                }
+            },
+            {
+                "threshold": 1289,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/719"
+                }
+            },
+            {
+                "threshold": 1290,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/720"
+                }
+            },
+            {
+                "threshold": 1291,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_1"
+                }
+            },
+            {
+                "threshold": 1292,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_2"
+                }
+            },
+            {
+                "threshold": 1293,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_3"
+                }
+            },
+            {
+                "threshold": 1294,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_4"
+                }
+            },
+            {
+                "threshold": 1295,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_5"
+                }
+            },
+            {
+                "threshold": 1296,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/sticker_6"
+                }
+            },
+            {
+                "threshold": 1297,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/wheelchair"
+                }
+            },
+            {
+                "threshold": 1298,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/vvvf"
+                }
+            },
+            {
+                "threshold": 1299,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/greencar_center"
+                }
+            },
+            {
+                "threshold": 1300,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/ad_kn24_plazgo"
+                }
+            },
+            {
+                "threshold": 1301,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/ae_kn24_plazgo"
+                }
+            },
+            {
+                "threshold": 1302,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/greencar_cab"
+                }
+            },
+            {
+                "threshold": 1303,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/greencar_cab_head"
+                }
+            },
+            {
+                "threshold": 1304,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/greencar_cab_tail"
+                }
+            },
+            {
+                "threshold": 1305,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/greencar_cab_dest"
+                }
+            },
+            {
+                "threshold": 1306,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/701"
+                }
+            },
+            {
+                "threshold": 1307,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/705"
+                }
+            },
+            {
+                "threshold": 1308,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/703"
+                }
+            },
+            {
+                "threshold": 1309,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/704"
+                }
+            },
+            {
+                "threshold": 1310,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/705"
+                }
+            },
+            {
+                "threshold": 1311,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/706"
+                }
+            },
+            {
+                "threshold": 1312,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/707"
+                }
+            },
+            {
+                "threshold": 1313,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/708"
+                }
+            },
+            {
+                "threshold": 1314,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/709"
+                }
+            },
+            {
+                "threshold": 1315,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/710"
+                }
+            },
+            {
+                "threshold": 1316,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/711"
+                }
+            },
+            {
+                "threshold": 1317,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/712"
+                }
+            },
+            {
+                "threshold": 1318,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/713"
+                }
+            },
+            {
+                "threshold": 1319,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/714"
+                }
+            },
+            {
+                "threshold": 1320,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/715"
+                }
+            },
+            {
+                "threshold": 1321,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/716"
+                }
+            },
+            {
+                "threshold": 1322,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/717"
+                }
+            },
+            {
+                "threshold": 1323,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/718"
+                }
+            },
+            {
+                "threshold": 1324,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/719"
+                }
+            },
+            {
+                "threshold": 1325,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/interior/exterior/cab/720"
+                }
+            },
+            {
+                "threshold": 1326,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/cab"
+                }
+            },
+            {
+                "threshold": 1327,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/priority_seats"
+                }
+            },
+            {
+                "threshold": 1328,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/prio_panto"
+                }
+            },
+            {
+                "threshold": 1329,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/cab_panto"
+                }
+            },
+            {
+                "threshold": 1330,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/priority_wheel"
+                }
+            },
+            {
+                "threshold": 1331,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/battery"
+                }
+            },
+            {
+                "threshold": 1332,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/door_btn"
+                }
+            },
+            {
+                "threshold": 1333,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/ic_card"
+                }
+            },
+            {
+                "threshold": 1334,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/farebox"
+                }
+            },
+            {
+                "threshold": 1335,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/fare_ticket"
+                }
+            },
+            {
+                "threshold": 1336,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/green_ticket"
+                }
             }
         ]
     }

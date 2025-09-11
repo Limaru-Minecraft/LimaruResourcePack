@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"15": "block/bus_autonomous/gray_concrete",
+		"16": "block/bus_autonomous/car_5",
+		"particle": "block/bus_autonomous/cyan_terracotta"
+	},
+	"elements": [
+		{
+			"from": [-1.15, 16.6, 9.55],
+			"to": [-0.65, 18.6, 11.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.65, -5.2, 5.55]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 6.25], "texture": "#15"},
+				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#15"},
+				"south": {"uv": [0, 0, 1, 6.25], "texture": "#15"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#15"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#15"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
