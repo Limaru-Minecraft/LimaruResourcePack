@@ -3,6 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/bus_autonomous/white_concrete",
+		"3": "block/bus_autonomous/bn41_ad/wasabi_c",
 		"15": "block/bus_autonomous/bn41_ad/vert_kn24_plazgo",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
@@ -13,7 +14,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [16.7, -5.45, 5.6]},
 			"faces": {
 				"north": {"uv": [1, 0, 0, 6.25], "texture": "#1"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#15"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"south": {"uv": [1, 0, 0, 6.25], "texture": "#1"},
 				"west": {"uv": [16, 5.024, 0, 7.786], "texture": "#1"},
 				"up": {"uv": [1, 0, 0, 16], "texture": "#1"},
@@ -41,7 +42,7 @@
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#1"},
 				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#15"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
 			}
