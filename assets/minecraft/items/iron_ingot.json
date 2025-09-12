@@ -2120,6 +2120,13 @@
                     "type": "model",
                     "model": "item/trainmodel/s-trec/bn41/ab_marker"
                 }
+            },
+            {
+                "threshold": 1338,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/stop_mark"
+                }
             }
         ]
     }
