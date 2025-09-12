@@ -1079,6 +1079,13 @@
                 }
             },
             {
+                "threshold": 2028,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_emd_htc/lili_emd_htc"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
@@ -2126,6 +2133,13 @@
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/s-trec/bn41/stop_mark"
+                }
+            },
+            {
+                "threshold": 1339,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/ktb/mugunghwa/rlink_loco_body"
                 }
             }
         ]
