@@ -2,6 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
+		"3": "block/bus_autonomous/bn41_ad/plazma",
 		"6": "block/bus_autonomous/quartz_block_bottom",
 		"17": "block/bus_autonomous/bn41_ad/kn24_plazgo",
 		"particle": "block/bus_autonomous/cyan_terracotta"
@@ -15,7 +16,7 @@
 				"north": {"uv": [1, 0, 0, 6.25], "texture": "#6"},
 				"east": {"uv": [16, 6.112, 0, 9.834], "texture": "#6"},
 				"south": {"uv": [1, 0, 0, 6.25], "texture": "#6"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#17"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"up": {"uv": [1, 0, 0, 16], "texture": "#6"},
 				"down": {"uv": [1, 0, 0, 16], "texture": "#6"}
 			}

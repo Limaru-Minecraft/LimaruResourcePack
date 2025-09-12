@@ -3,16 +3,16 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/bus_autonomous/cyan_terracotta",
-		"18": "block/bus_autonomous/cab_disp2",
+		"18": "block/bus_autonomous/cabsignal/12",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
 	"elements": [
 		{
-			"from": [12.9, 6.7, 11.3],
-			"to": [15.1, 7.7, 11.65],
+			"from": [11.6, 6.7, 11.3],
+			"to": [12.9, 7.7, 11.65],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [20.75, 7.45, 21.5]},
 			"faces": {
-				"north": {"uv": [10.01143, 16, 0, 0], "rotation": 180, "texture": "#18"},
+				"north": {"uv": [16, 16, 10.05714, 0], "rotation": 180, "texture": "#18"},
 				"east": {"uv": [16, 6.112, 0, 9.834], "rotation": 90, "texture": "#0"},
 				"south": {"uv": [1, 0, 0, 16], "texture": "#0"},
 				"west": {"uv": [16, 5.024, 0, 7.786], "rotation": 270, "texture": "#0"},
