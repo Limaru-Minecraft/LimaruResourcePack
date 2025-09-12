@@ -2113,6 +2113,13 @@
                     "type": "model",
                     "model": "item/trainmodel/s-trec/bn41/green_ticket"
                 }
+            },
+            {
+                "threshold": 1337,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/ab_marker"
+                }
             }
         ]
     }
