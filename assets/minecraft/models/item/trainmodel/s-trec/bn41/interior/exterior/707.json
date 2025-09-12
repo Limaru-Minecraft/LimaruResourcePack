@@ -1,0 +1,46 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/bus_autonomous/white_concrete",
+		"6": "block/bus_autonomous/quartz_block_bottom",
+		"16": "block/bus_autonomous/bn41_interior/exterior/707",
+		"particle": "block/bus_autonomous/cyan_terracotta"
+	},
+	"elements": [
+		{
+			"from": [-1.25, 17.55, 4.9],
+			"to": [-0.9, 18.9, 11.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.15, -5.45, 26.1]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#6"},
+				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [16.9, 17.55, 4.9],
+			"to": [17.25, 18.9, 11.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17.15, -5.45, 26.1]},
+			"faces": {
+				"north": {"uv": [1, 0, 0, 6.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#16"},
+				"south": {"uv": [1, 0, 0, 6.25], "texture": "#1"},
+				"west": {"uv": [16, 5.024, 0, 7.786], "texture": "#6"},
+				"up": {"uv": [1, 0, 0, 16], "texture": "#1"},
+				"down": {"uv": [1, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
