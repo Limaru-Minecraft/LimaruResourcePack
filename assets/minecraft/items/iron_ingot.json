@@ -1196,6 +1196,13 @@
                     "type": "model",
                     "model": "item/trainmodel/misc/ets_bogie"
                 }
+            },
+            {
+                "threshold": 1213,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c13/c13_mc_body"
+                }
             }
         ]
     }
