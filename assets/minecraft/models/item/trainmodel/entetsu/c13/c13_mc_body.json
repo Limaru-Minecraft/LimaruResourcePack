@@ -15,7 +15,7 @@
 	"elements": [
 		{
 			"name": "main_floor",
-			"from": [3.875, -1.375, -6.5],
+			"from": [3.875, -1.375, -6.25],
 			"to": [12.125, -0.875, 23],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.125, 8]},
 			"faces": {
