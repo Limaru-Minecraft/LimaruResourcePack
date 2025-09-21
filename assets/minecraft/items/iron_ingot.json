@@ -1086,6 +1086,13 @@
                 }
             },
             {
+                "threshold": 2029,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/eot_signal"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",

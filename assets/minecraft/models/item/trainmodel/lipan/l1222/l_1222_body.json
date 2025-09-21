@@ -762,6 +762,84 @@
 			}
 		},
 		{
+			"from": [12.125, 5.75, 26.5625],
+			"to": [12.25, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8.875, 22.9375]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [12.25, 5.75, 26.5],
+			"to": [12.375, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.125, 8.875, 23.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [12, 5.75, 26.5],
+			"to": [12.125, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.875, 8.875, 23.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.75, 5.75, 26.5625],
+			"to": [3.875, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8.875, 22.9375]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#3"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.625, 5.75, 26.5],
+			"to": [3.75, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.875, 8.875, 23.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#3"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.875, 5.75, 26.5],
+			"to": [4, 5.875, 26.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.125, 8.875, 23.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#3"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#3"}
+			}
+		},
+		{
 			"from": [2.5, 3.875, -10.5],
 			"to": [3.25, 5.125, -10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 7.625, -6.75]},
@@ -1188,6 +1266,84 @@
 				"west": {"uv": [14, 0, 0, 16], "texture": "#11"},
 				"up": {"uv": [0, 12, 14, 0], "texture": "#11"},
 				"down": {"uv": [14, 16, 16, 0], "texture": "#11"}
+			}
+		},
+		{
+			"from": [12.125, 5.75, -10.625],
+			"to": [12.25, 5.875, -10.5625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8.875, -6.9375]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [12.25, 5.75, -10.625],
+			"to": [12.375, 5.875, -10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.125, 8.875, -7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [12, 5.75, -10.625],
+			"to": [12.125, 5.875, -10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.875, 8.875, -7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.75, 5.75, -10.625],
+			"to": [3.875, 5.875, -10.5625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8.875, -6.9375]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.625, 5.75, -10.625],
+			"to": [3.75, 5.875, -10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.875, 8.875, -7.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.875, 5.75, -10.625],
+			"to": [4, 5.875, -10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.125, 8.875, -7.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#3"}
 			}
 		},
 		{
@@ -4561,6 +4717,18 @@
 									"children": [54, 55, 56]
 								}
 							]
+						},
+						{
+							"name": "LampBracket",
+							"origin": [8.8, 8.7, -3.95],
+							"color": 0,
+							"children": [57, 58, 59]
+						},
+						{
+							"name": "LampBracket",
+							"origin": [8.8, 8.7, -3.95],
+							"color": 0,
+							"children": [60, 61, 62]
 						}
 					]
 				},
@@ -4569,21 +4737,21 @@
 					"origin": [-14.6, -11, -14],
 					"color": 0,
 					"children": [
-						57,
+						63,
 						{
 							"name": "HEP",
 							"origin": [2.4, 5.1, -3.8],
 							"color": 0,
-							"children": [58, 59]
+							"children": [64, 65]
 						},
-						60,
-						61,
-						62,
-						63,
-						64,
-						65,
 						66,
 						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
 						{
 							"name": "Coupler",
 							"origin": [10.28, 8, 8],
@@ -4593,13 +4761,13 @@
 									"name": "BufferL",
 									"origin": [17.4, -11, -14],
 									"color": 0,
-									"children": [68, 69, 70, 71, 72]
+									"children": [74, 75, 76, 77, 78]
 								},
 								{
 									"name": "BufferR",
 									"origin": [-14.6, -11, -14],
 									"color": 0,
-									"children": [73, 74, 75, 76, 77]
+									"children": [79, 80, 81, 82, 83]
 								}
 							]
 						},
@@ -4612,18 +4780,6 @@
 									"name": "AirPipe",
 									"origin": [2.2, 2.4, 7.7],
 									"color": 0,
-									"children": [78, 79, 80]
-								},
-								{
-									"name": "AirPipe",
-									"origin": [2.2, 2.4, 7.7],
-									"color": 0,
-									"children": [81, 82, 83]
-								},
-								{
-									"name": "AirPipe",
-									"origin": [2.2, 2.4, 7.7],
-									"color": 0,
 									"children": [84, 85, 86]
 								},
 								{
@@ -4631,8 +4787,32 @@
 									"origin": [2.2, 2.4, 7.7],
 									"color": 0,
 									"children": [87, 88, 89]
+								},
+								{
+									"name": "AirPipe",
+									"origin": [2.2, 2.4, 7.7],
+									"color": 0,
+									"children": [90, 91, 92]
+								},
+								{
+									"name": "AirPipe",
+									"origin": [2.2, 2.4, 7.7],
+									"color": 0,
+									"children": [93, 94, 95]
 								}
 							]
+						},
+						{
+							"name": "LampBracket",
+							"origin": [8.8, 8.7, -3.95],
+							"color": 0,
+							"children": [96, 97, 98]
+						},
+						{
+							"name": "LampBracket",
+							"origin": [8.8, 8.7, -3.95],
+							"color": 0,
+							"children": [99, 100, 101]
 						}
 					]
 				},
@@ -4645,7 +4825,7 @@
 							"name": "Sides",
 							"origin": [6.4, 6.1, -5.2],
 							"color": 0,
-							"children": [90, 91, 92, 93, 94, 95]
+							"children": [102, 103, 104, 105, 106, 107]
 						},
 						{
 							"name": "Roof",
@@ -4656,10 +4836,10 @@
 									"name": "Pit",
 									"origin": [0.4, 0, 0],
 									"color": 0,
-									"children": [96, 97, 98]
+									"children": [108, 109, 110]
 								},
-								99,
-								100
+								111,
+								112
 							]
 						},
 						{
@@ -4667,10 +4847,10 @@
 							"origin": [8.4, 8, 8],
 							"color": 0,
 							"children": [
-								101,
-								102,
-								103,
-								104,
+								113,
+								114,
+								115,
+								116,
 								{
 									"name": "Fittings",
 									"origin": [8, 3.9, -6.8],
@@ -4680,54 +4860,54 @@
 											"name": "MURail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [105, 106, 107]
+											"children": [117, 118, 119]
 										},
 										{
 											"name": "Wiper",
 											"origin": [7.5, 3.9, -6.8],
 											"color": 0,
-											"children": [108, 109, 110, 111, 112, 113, 114]
+											"children": [120, 121, 122, 123, 124, 125, 126]
 										},
 										{
 											"name": "Wiper",
 											"origin": [7.5, 3.9, -6.8],
 											"color": 0,
-											"children": [115, 116, 117, 118, 119, 120, 121]
+											"children": [127, 128, 129, 130, 131, 132, 133]
 										},
 										{
 											"name": "Handrail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [122, 123, 124]
+											"children": [134, 135, 136]
 										},
 										{
 											"name": "Handrail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [125, 126, 127]
+											"children": [137, 138, 139]
 										}
 									]
 								},
-								128,
-								129,
-								130,
-								131,
-								132,
-								133,
-								134,
-								135,
-								136,
+								140,
+								141,
+								142,
+								143,
+								144,
+								145,
+								146,
+								147,
+								148,
 								{
 									"name": "Right",
 									"origin": [-0.6, -1, 2],
 									"color": 0,
-									"children": [137, 138, 139, 140, 141, 142, 143]
+									"children": [149, 150, 151, 152, 153, 154, 155]
 								},
 								{
 									"name": "Left",
 									"origin": [-0.6, -1, 2],
 									"color": 0,
-									"children": [144, 145, 146, 147, 148, 149, 150]
+									"children": [156, 157, 158, 159, 160, 161, 162]
 								}
 							]
 						},
@@ -4736,10 +4916,10 @@
 							"origin": [8.4, 8, 8],
 							"color": 0,
 							"children": [
-								151,
-								152,
-								153,
-								154,
+								163,
+								164,
+								165,
+								166,
 								{
 									"name": "Fittings",
 									"origin": [8, 3.9, -6.8],
@@ -4749,54 +4929,54 @@
 											"name": "MURail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [155, 156, 157]
+											"children": [167, 168, 169]
 										},
 										{
 											"name": "Wiper",
 											"origin": [7.5, 3.9, -6.8],
 											"color": 0,
-											"children": [158, 159, 160, 161, 162, 163, 164]
+											"children": [170, 171, 172, 173, 174, 175, 176]
 										},
 										{
 											"name": "Wiper",
 											"origin": [7.5, 3.9, -6.8],
 											"color": 0,
-											"children": [165, 166, 167, 168, 169, 170, 171]
+											"children": [177, 178, 179, 180, 181, 182, 183]
 										},
 										{
 											"name": "Handrail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [172, 173, 174]
+											"children": [184, 185, 186]
 										},
 										{
 											"name": "Handrail",
 											"origin": [8, 3.9, -6.8],
 											"color": 0,
-											"children": [175, 176, 177]
+											"children": [187, 188, 189]
 										}
 									]
 								},
-								178,
-								179,
-								180,
-								181,
-								182,
-								183,
-								184,
-								185,
-								186,
+								190,
+								191,
+								192,
+								193,
+								194,
+								195,
+								196,
+								197,
+								198,
 								{
 									"name": "Right",
 									"origin": [-0.6, -1, 2],
 									"color": 0,
-									"children": [187, 188, 189, 190, 191, 192, 193]
+									"children": [199, 200, 201, 202, 203, 204, 205]
 								},
 								{
 									"name": "Left",
 									"origin": [-0.6, -1, 2],
 									"color": 0,
-									"children": [194, 195, 196, 197, 198, 199, 200]
+									"children": [206, 207, 208, 209, 210, 211, 212]
 								}
 							]
 						}
@@ -4816,25 +4996,25 @@
 									"name": "Walls",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [201, 202]
+									"children": [213, 214]
 								},
 								{
 									"name": "ControlStand",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [203, 204, 205, 206, 207, 208, 209]
+									"children": [215, 216, 217, 218, 219, 220, 221]
 								},
 								{
 									"name": "Seat",
 									"origin": [11.1, 8, 8],
 									"color": 0,
-									"children": [210, 211, 212, 213, 214]
+									"children": [222, 223, 224, 225, 226]
 								},
 								{
 									"name": "Seat",
 									"origin": [11.1, 8, 8],
 									"color": 0,
-									"children": [215, 216, 217, 218, 219]
+									"children": [227, 228, 229, 230, 231]
 								},
 								{
 									"name": "Instruments",
@@ -4845,48 +5025,48 @@
 											"name": "Phone",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [220, 221, 222]
+											"children": [232, 233, 234]
 										},
 										{
 											"name": "Controller",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [223, 224, 225, 226, 227]
+											"children": [235, 236, 237, 238, 239]
 										},
 										{
 											"name": "Reverser",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [228, 229, 230, 231]
+											"children": [240, 241, 242, 243]
 										},
 										{
 											"name": "LTC",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [232, 233]
+											"children": [244, 245]
 										},
 										{
 											"name": "Radio",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [234]
+											"children": [246]
 										},
-										235,
-										236,
-										237
+										247,
+										248,
+										249
 									]
 								},
 								{
 									"name": "BrakeLever",
 									"origin": [3.3, 4.4, -4],
 									"color": 0,
-									"children": [238, 239, 240]
+									"children": [250, 251, 252]
 								},
 								{
 									"name": "HornLever",
 									"origin": [3.3, 4.4, -4],
 									"color": 0,
-									"children": [241, 242]
+									"children": [253, 254]
 								}
 							]
 						},
@@ -4899,25 +5079,25 @@
 									"name": "Walls",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [243, 244]
+									"children": [255, 256]
 								},
 								{
 									"name": "ControlStand",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [245, 246, 247, 248, 249, 250, 251]
+									"children": [257, 258, 259, 260, 261, 262, 263]
 								},
 								{
 									"name": "Seat",
 									"origin": [11.1, 8, 8],
 									"color": 0,
-									"children": [252, 253, 254, 255, 256]
+									"children": [264, 265, 266, 267, 268]
 								},
 								{
 									"name": "Seat",
 									"origin": [11.1, 8, 8],
 									"color": 0,
-									"children": [257, 258, 259, 260, 261]
+									"children": [269, 270, 271, 272, 273]
 								},
 								{
 									"name": "Instruments",
@@ -4928,48 +5108,48 @@
 											"name": "Phone",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [262, 263, 264]
+											"children": [274, 275, 276]
 										},
 										{
 											"name": "Controller",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [265, 266, 267, 268, 269]
+											"children": [277, 278, 279, 280, 281]
 										},
 										{
 											"name": "Reverser",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [270, 271, 272, 273]
+											"children": [282, 283, 284, 285]
 										},
 										{
 											"name": "LTC",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [274, 275]
+											"children": [286, 287]
 										},
 										{
 											"name": "Radio",
 											"origin": [8, 8, 8],
 											"color": 0,
-											"children": [276]
+											"children": [288]
 										},
-										277,
-										278,
-										279
+										289,
+										290,
+										291
 									]
 								},
 								{
 									"name": "BrakeLever",
 									"origin": [3.3, 4.4, -4],
 									"color": 0,
-									"children": [280, 281, 282]
+									"children": [292, 293, 294]
 								},
 								{
 									"name": "HornLever",
 									"origin": [3.3, 4.4, -4],
 									"color": 0,
-									"children": [283, 284]
+									"children": [295, 296]
 								}
 							]
 						},
@@ -4977,7 +5157,7 @@
 							"name": "MachineRoom",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [285, 286, 287, 288, 289, 290]
+							"children": [297, 298, 299, 300, 301, 302]
 						}
 					]
 				},
@@ -4985,19 +5165,19 @@
 					"name": "Door",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [291, 292, 293, 294]
+					"children": [303, 304, 305, 306]
 				},
 				{
 					"name": "Windows1",
 					"origin": [7.8, 3.9, -6.8],
 					"color": 0,
-					"children": [295, 296, 297, 298, 299, 300, 301]
+					"children": [307, 308, 309, 310, 311, 312, 313]
 				},
 				{
 					"name": "Windows2",
 					"origin": [6.4, 6.1, 21.6],
 					"color": 0,
-					"children": [302, 303, 304, 305, 306, 307, 308]
+					"children": [314, 315, 316, 317, 318, 319, 320]
 				},
 				{
 					"name": "DoorHandrails",
@@ -5008,13 +5188,13 @@
 							"name": "Rails",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [309, 310, 311]
+							"children": [321, 322, 323]
 						},
 						{
 							"name": "Rails",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [312, 313, 314]
+							"children": [324, 325, 326]
 						}
 					]
 				},
@@ -5027,13 +5207,13 @@
 							"name": "Rails",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [315, 316, 317]
+							"children": [327, 328, 329]
 						},
 						{
 							"name": "Rails",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [318, 319, 320]
+							"children": [330, 331, 332]
 						}
 					]
 				},
@@ -5041,13 +5221,13 @@
 					"name": "Pantograph",
 					"origin": [-6.6, -1.7, 11],
 					"color": 0,
-					"children": [321, 322, 323, 324, 325, 326, 327, 328, 329]
+					"children": [333, 334, 335, 336, 337, 338, 339, 340, 341]
 				},
 				{
 					"name": "Pantograph",
 					"origin": [-6.6, -1.7, 11],
 					"color": 0,
-					"children": [330, 331, 332, 333, 334, 335, 336, 337, 338]
+					"children": [342, 343, 344, 345, 346, 347, 348, 349, 350]
 				}
 			]
 		}

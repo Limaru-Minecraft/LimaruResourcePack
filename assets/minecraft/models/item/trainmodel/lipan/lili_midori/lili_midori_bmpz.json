@@ -1528,6 +1528,162 @@
 			}
 		},
 		{
+			"from": [12.375, 2.25, -14.625],
+			"to": [12.5, 2.375, -14.5625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.25, 5.375, -10.9375]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.5, 2.25, -14.625],
+			"to": [12.625, 2.375, -14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.375, 5.375, -11.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.25, 2.25, -14.625],
+			"to": [12.375, 2.375, -14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.125, 5.375, -11.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.375, 2.25, 30.5625],
+			"to": [12.5, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.25, 5.375, 26.9375]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.5, 2.25, 30.5],
+			"to": [12.625, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.375, 5.375, 27.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.25, 2.25, 30.5],
+			"to": [12.375, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.125, 5.375, 27.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.5, 2.25, -14.625],
+			"to": [3.625, 2.375, -14.5625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 5.375, -10.9375]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.375, 2.25, -14.625],
+			"to": [3.5, 2.375, -14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.625, 5.375, -11.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.625, 2.25, -14.625],
+			"to": [3.75, 2.375, -14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.875, 5.375, -11.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.5, 2.25, 30.5625],
+			"to": [3.625, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 5.375, 26.9375]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.375, 2.25, 30.5],
+			"to": [3.5, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.625, 5.375, 27.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.625, 2.25, 30.5],
+			"to": [3.75, 2.375, 30.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.875, 5.375, 27.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
 			"from": [12.5, -1.995, -14.125],
 			"to": [13, -1.495, -13.5],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [12.75, -1.745, -13.8125]},
@@ -6011,6 +6167,37 @@
 									]
 								}
 							]
+						},
+						{
+							"name": "LampBrackets",
+							"origin": [8.8, 8.7, -3.95],
+							"color": 0,
+							"children": [
+								{
+									"name": "LampBracket",
+									"origin": [8.8, 8.7, -3.95],
+									"color": 0,
+									"children": [116, 117, 118]
+								},
+								{
+									"name": "LampBracket",
+									"origin": [8.8, 8.7, -3.95],
+									"color": 0,
+									"children": [119, 120, 121]
+								},
+								{
+									"name": "LampBracket",
+									"origin": [8.8, 8.7, -3.95],
+									"color": 0,
+									"children": [122, 123, 124]
+								},
+								{
+									"name": "LampBracket",
+									"origin": [8.8, 8.7, -3.95],
+									"color": 0,
+									"children": [125, 126, 127]
+								}
+							]
 						}
 					]
 				},
@@ -6023,13 +6210,13 @@
 							"name": "ElectricalF",
 							"origin": [14.4, -5.3, -13],
 							"color": 0,
-							"children": [116, 117, 118]
+							"children": [128, 129, 130]
 						},
 						{
 							"name": "ElectricalB",
 							"origin": [14.4, -5.3, -13],
 							"color": 0,
-							"children": [119, 120, 121]
+							"children": [131, 132, 133]
 						}
 					]
 				},
@@ -6037,72 +6224,72 @@
 					"name": "Windows",
 					"origin": [13.75, 3.13, -14.5],
 					"color": 0,
-					"children": [122, 123]
+					"children": [134, 135]
 				},
 				{
 					"name": "Body",
 					"origin": [10.4, 8, 9],
 					"color": 0,
 					"children": [
-						124,
-						125,
-						126,
-						127,
-						128,
+						136,
+						137,
+						138,
+						139,
+						140,
 						{
 							"name": "Roof",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [129, 130, 131, 132, 133]
+							"children": [141, 142, 143, 144, 145]
 						},
 						{
 							"name": "F",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [134, 135, 136, 137, 138, 139, 140, 141, 142]
+							"children": [146, 147, 148, 149, 150, 151, 152, 153, 154]
 						},
 						{
 							"name": "B",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [143, 144, 145, 146, 147, 148, 149, 150, 151]
+							"children": [155, 156, 157, 158, 159, 160, 161, 162, 163]
 						},
-						152,
+						164,
 						{
 							"name": "WR",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [153, 154, 155, 156, 157, 158, 159, 160]
+							"children": [165, 166, 167, 168, 169, 170, 171, 172]
 						},
 						{
 							"name": "WL",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [161, 162, 163, 164, 165, 166, 167]
+							"children": [173, 174, 175, 176, 177, 178, 179]
 						},
 						{
 							"name": "VestibuleDividerF",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [168, 169, 170, 171, 172, 173, 174]
+							"children": [180, 181, 182, 183, 184, 185, 186]
 						},
 						{
 							"name": "VestibuleDividerB",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [175, 176, 177, 178, 179, 180]
+							"children": [187, 188, 189, 190, 191, 192]
 						},
 						{
 							"name": "Toilet Divider",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [181, 182, 183, 184, 185, 186, 187]
+							"children": [193, 194, 195, 196, 197, 198, 199]
 						},
 						{
 							"name": "Gutters",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [188, 189, 190, 191]
+							"children": [200, 201, 202, 203]
 						}
 					]
 				},
@@ -6115,19 +6302,19 @@
 							"name": "ToiletDoor",
 							"origin": [18.2, -4, 18.9],
 							"color": 0,
-							"children": [192, 193]
+							"children": [204, 205]
 						},
 						{
 							"name": "SaloonDoor",
 							"origin": [15, -4, -9],
 							"color": 0,
-							"children": [194]
+							"children": [206]
 						},
 						{
 							"name": "SaloonDoorC",
 							"origin": [15, -4, -9],
 							"color": 0,
-							"children": [195, 196]
+							"children": [207, 208]
 						},
 						{
 							"name": "GangwayDoorSet",
@@ -6138,13 +6325,13 @@
 									"name": "GangwayDoor",
 									"origin": [2.6, -10, -12.7],
 									"color": 0,
-									"children": [197, 198, 199, 200, 201]
+									"children": [209, 210, 211, 212, 213]
 								},
 								{
 									"name": "GangwayDoor",
 									"origin": [2.6, -10, -12.7],
 									"color": 0,
-									"children": [202, 203, 204, 205, 206]
+									"children": [214, 215, 216, 217, 218]
 								}
 							]
 						},
@@ -6157,13 +6344,13 @@
 									"name": "GangwayDoor",
 									"origin": [2.6, -10, -12.7],
 									"color": 0,
-									"children": [207, 208, 209, 210, 211]
+									"children": [219, 220, 221, 222, 223]
 								},
 								{
 									"name": "GangwayDoor",
 									"origin": [2.6, -10, -12.7],
 									"color": 0,
-									"children": [212, 213, 214, 215, 216]
+									"children": [224, 225, 226, 227, 228]
 								}
 							]
 						}
@@ -6188,13 +6375,13 @@
 											"name": "Table",
 											"origin": [10.4, 8, 9],
 											"color": 0,
-											"children": [217, 218]
+											"children": [229, 230]
 										},
 										{
 											"name": "Table",
 											"origin": [10.4, 8, 9],
 											"color": 0,
-											"children": [219, 220]
+											"children": [231, 232]
 										}
 									]
 								},
@@ -6208,44 +6395,6 @@
 											"origin": [17.02, 4.5, 17.9],
 											"color": 0,
 											"children": [
-												{
-													"name": "Row",
-													"origin": [17.02, 4.5, 17.9],
-													"color": 0,
-													"children": [
-														{
-															"name": "SeatPair",
-															"origin": [17.02, 4.5, 17.9],
-															"color": 0,
-															"children": [
-																{
-																	"name": "Seat",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [221, 222, 223]
-																},
-																{
-																	"name": "Seat",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [224, 225, 226]
-																},
-																{
-																	"name": "Armrests",
-																	"origin": [10.4, 8, 9],
-																	"color": 0,
-																	"children": [227, 228, 229]
-																},
-																{
-																	"name": "Support",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [230, 231, 232]
-																}
-															]
-														}
-													]
-												},
 												{
 													"name": "Row",
 													"origin": [17.02, 4.5, 17.9],
@@ -6319,7 +6468,14 @@
 																	"children": [254, 255, 256]
 																}
 															]
-														},
+														}
+													]
+												},
+												{
+													"name": "Row",
+													"origin": [17.02, 4.5, 17.9],
+													"color": 0,
+													"children": [
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6350,14 +6506,7 @@
 																	"children": [266, 267, 268]
 																}
 															]
-														}
-													]
-												},
-												{
-													"name": "Row",
-													"origin": [17.02, 4.5, 17.9],
-													"color": 0,
-													"children": [
+														},
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6388,7 +6537,14 @@
 																	"children": [278, 279, 280]
 																}
 															]
-														},
+														}
+													]
+												},
+												{
+													"name": "Row",
+													"origin": [17.02, 4.5, 17.9],
+													"color": 0,
+													"children": [
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6419,14 +6575,7 @@
 																	"children": [290, 291, 292]
 																}
 															]
-														}
-													]
-												},
-												{
-													"name": "Row",
-													"origin": [17.02, 4.5, 17.9],
-													"color": 0,
-													"children": [
+														},
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6457,7 +6606,14 @@
 																	"children": [302, 303, 304]
 																}
 															]
-														},
+														}
+													]
+												},
+												{
+													"name": "Row",
+													"origin": [17.02, 4.5, 17.9],
+													"color": 0,
+													"children": [
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6488,6 +6644,37 @@
 																	"children": [314, 315, 316]
 																}
 															]
+														},
+														{
+															"name": "SeatPair",
+															"origin": [17.02, 4.5, 17.9],
+															"color": 0,
+															"children": [
+																{
+																	"name": "Seat",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [317, 318, 319]
+																},
+																{
+																	"name": "Seat",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [320, 321, 322]
+																},
+																{
+																	"name": "Armrests",
+																	"origin": [10.4, 8, 9],
+																	"color": 0,
+																	"children": [323, 324, 325]
+																},
+																{
+																	"name": "Support",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [326, 327, 328]
+																}
+															]
 														}
 													]
 												}
@@ -6512,19 +6699,19 @@
 																	"name": "Seat",
 																	"origin": [17.02, 4.5, 17.9],
 																	"color": 0,
-																	"children": [317, 318, 319]
+																	"children": [329, 330, 331]
 																},
 																{
 																	"name": "Armrests",
 																	"origin": [10.4, 8, 9],
 																	"color": 0,
-																	"children": [320, 321]
+																	"children": [332, 333]
 																},
 																{
 																	"name": "Support",
 																	"origin": [17.02, 4.5, 17.9],
 																	"color": 0,
-																	"children": [322, 323]
+																	"children": [334, 335]
 																}
 															]
 														},
@@ -6532,7 +6719,7 @@
 															"name": "Railing",
 															"origin": [17.02, 4.5, 17.9],
 															"color": 0,
-															"children": [324, 325, 326]
+															"children": [336, 337, 338]
 														}
 													]
 												},
@@ -6541,37 +6728,6 @@
 													"origin": [17.02, 4.5, 17.9],
 													"color": 0,
 													"children": [
-														{
-															"name": "SeatPair",
-															"origin": [17.02, 4.5, 17.9],
-															"color": 0,
-															"children": [
-																{
-																	"name": "Seat",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [327, 328, 329]
-																},
-																{
-																	"name": "Seat",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [330, 331, 332]
-																},
-																{
-																	"name": "Armrests",
-																	"origin": [10.4, 8, 9],
-																	"color": 0,
-																	"children": [333, 334, 335]
-																},
-																{
-																	"name": "Support",
-																	"origin": [17.02, 4.5, 17.9],
-																	"color": 0,
-																	"children": [336, 337, 338]
-																}
-															]
-														},
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6602,14 +6758,7 @@
 																	"children": [348, 349, 350]
 																}
 															]
-														}
-													]
-												},
-												{
-													"name": "Row",
-													"origin": [17.02, 4.5, 17.9],
-													"color": 0,
-													"children": [
+														},
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6640,7 +6789,14 @@
 																	"children": [360, 361, 362]
 																}
 															]
-														},
+														}
+													]
+												},
+												{
+													"name": "Row",
+													"origin": [17.02, 4.5, 17.9],
+													"color": 0,
+													"children": [
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6671,14 +6827,7 @@
 																	"children": [372, 373, 374]
 																}
 															]
-														}
-													]
-												},
-												{
-													"name": "Row",
-													"origin": [17.02, 4.5, 17.9],
-													"color": 0,
-													"children": [
+														},
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6709,7 +6858,14 @@
 																	"children": [384, 385, 386]
 																}
 															]
-														},
+														}
+													]
+												},
+												{
+													"name": "Row",
+													"origin": [17.02, 4.5, 17.9],
+													"color": 0,
+													"children": [
 														{
 															"name": "SeatPair",
 															"origin": [17.02, 4.5, 17.9],
@@ -6740,6 +6896,37 @@
 																	"children": [396, 397, 398]
 																}
 															]
+														},
+														{
+															"name": "SeatPair",
+															"origin": [17.02, 4.5, 17.9],
+															"color": 0,
+															"children": [
+																{
+																	"name": "Seat",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [399, 400, 401]
+																},
+																{
+																	"name": "Seat",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [402, 403, 404]
+																},
+																{
+																	"name": "Armrests",
+																	"origin": [10.4, 8, 9],
+																	"color": 0,
+																	"children": [405, 406, 407]
+																},
+																{
+																	"name": "Support",
+																	"origin": [17.02, 4.5, 17.9],
+																	"color": 0,
+																	"children": [408, 409, 410]
+																}
+															]
 														}
 													]
 												}
@@ -6756,25 +6943,25 @@
 											"name": "RackL",
 											"origin": [4.3, -0.5, -9],
 											"color": 0,
-											"children": [399, 400]
+											"children": [411, 412]
 										},
 										{
 											"name": "RackR",
 											"origin": [4.3, -0.5, -9],
 											"color": 0,
-											"children": [401, 402]
+											"children": [413, 414]
 										},
 										{
 											"name": "group",
 											"origin": [10.4, 8, 9],
 											"color": 0,
-											"children": [403]
+											"children": [415]
 										},
 										{
 											"name": "group",
 											"origin": [10.4, 8, 9],
 											"color": 0,
-											"children": [404, 405, 406]
+											"children": [416, 417, 418]
 										}
 									]
 								}
@@ -6789,25 +6976,25 @@
 									"name": "Railing",
 									"origin": [15, -1.5, 10.8],
 									"color": 0,
-									"children": [407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418]
+									"children": [419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430]
 								},
 								{
 									"name": "Toilet",
 									"origin": [15.2, -4, 10.8],
 									"color": 0,
-									"children": [419, 420, 421, 422, 423, 424, 425, 426]
+									"children": [431, 432, 433, 434, 435, 436, 437, 438]
 								},
 								{
 									"name": "Bidet",
 									"origin": [10.4, 8, 9],
 									"color": 0,
-									"children": [427, 428, 429, 430]
+									"children": [439, 440, 441, 442]
 								},
 								{
 									"name": "Table",
 									"origin": [10.4, 8, 9],
 									"color": 0,
-									"children": [431, 432, 433, 434, 435, 436, 437]
+									"children": [443, 444, 445, 446, 447, 448, 449]
 								}
 							]
 						},
@@ -6815,7 +7002,7 @@
 							"name": "Lights",
 							"origin": [10.4, 8, 9],
 							"color": 0,
-							"children": [438, 439, 440]
+							"children": [450, 451, 452]
 						}
 					]
 				},
@@ -6823,7 +7010,7 @@
 					"name": "Posters",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [441]
+					"children": [453]
 				}
 			]
 		}
