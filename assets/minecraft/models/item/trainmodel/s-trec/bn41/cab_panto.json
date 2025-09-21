@@ -14,7 +14,6 @@
 		"13": "block/bus_autonomous/glass",
 		"14": "block/bus_autonomous/light_blue_wool",
 		"15": "block/bus_autonomous/black_wool",
-		"18": "block/bus_autonomous/cab_disp1",
 		"19": "block/bus_autonomous/yellow_concrete",
 		"20": "block/bus_autonomous/red_concrete",
 		"particle": "block/bus_autonomous/cyan_terracotta"
@@ -811,19 +810,6 @@
 				"west": {"uv": [16, 5.024, 0, 7.786], "texture": "#4"},
 				"up": {"uv": [1, 0, 0, 16], "texture": "#4"},
 				"down": {"uv": [1, 0, 0, 16], "texture": "#4"}
-			}
-		},
-		{
-			"from": [11.6, 6.7, 11.4],
-			"to": [15.1, 7.7, 11.65],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [20.75, 7.45, 21.5]},
-			"faces": {
-				"north": {"uv": [16, 16, 0, 0], "rotation": 180, "texture": "#18"},
-				"east": {"uv": [16, 6.112, 0, 9.834], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [1, 0, 0, 16], "texture": "#0"},
-				"west": {"uv": [16, 5.024, 0, 7.786], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [1, 0, 0, 6.25], "texture": "#0"},
-				"down": {"uv": [1, 0, 0, 6.25], "rotation": 180, "texture": "#0"}
 			}
 		},
 		{
@@ -3100,7 +3086,6 @@
 		214,
 		215,
 		216,
-		217,
-		218
+		217
 	]
 }
