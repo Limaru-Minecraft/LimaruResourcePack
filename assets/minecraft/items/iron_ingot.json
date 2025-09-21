@@ -2253,6 +2253,20 @@
                     "type": "model",
                     "model": "item/trainmodel/s-trec/bn41/cabsignal/cab_16"
                 }
+            },
+            {
+                "threshold": 1356,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/cabsignal/cab_00"
+                }
+            },
+            {
+                "threshold": 1357,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/stop_mark_disable"
+                }
             }
         ]
     }
