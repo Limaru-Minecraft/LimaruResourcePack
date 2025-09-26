@@ -3,7 +3,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/bus_autonomous/black_concrete",
-		"5": "block/bus_autonomous/light_blue_concrete",
 		"15": "block/bus_autonomous/bn41_interior/exterior/708",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
@@ -17,7 +16,7 @@
 				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#3"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#15"},
 				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#3"},
-				"up": {"uv": [0, 0, 1, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#3"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#3"}
 			}
 		}
