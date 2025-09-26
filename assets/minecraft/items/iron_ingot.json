@@ -2274,6 +2274,48 @@
                     "type": "model",
                     "model": "item/trainmodel/s-trec/bn41/stop_mark_disable"
                 }
+            },
+            {
+                "threshold": 1358,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_cab"
+                }
+            },
+            {
+                "threshold": 1359,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_center"
+                }
+            },
+            {
+                "threshold": 1360,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_door_a1"
+                }
+            },
+            {
+                "threshold": 1361,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_door_a2"
+                }
+            },
+            {
+                "threshold": 1362,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_door_b1"
+                }
+            },
+            {
+                "threshold": 1363,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/bn41/tk_door_b2"
+                }
             }
         ]
     }
