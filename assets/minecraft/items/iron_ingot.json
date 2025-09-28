@@ -1093,6 +1093,20 @@
                 }
             },
             {
+                "threshold": 2030,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_y25/lili_y25"
+                }
+            },
+            {
+                "threshold": 2031,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_wagons/e/lili_eans/lili_eans_body"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
@@ -2262,6 +2276,40 @@
                 }
             },
             {
+                "threshold": 99000,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/couplers/knuckle-e"
+                }
+            },
+            {
+                "threshold": 99001,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/couplers/knuckle-h"
+                }
+            },
+            {
+                "threshold": 99002,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/couplers/knuckle-f"
+                }
+            },
+            {
+                "threshold": 99003,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/couplers/knuckle-se"
+                }
+            },
+            {
+                "threshold": 99999,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/eot_signal"
+                }
+            },
                 "threshold": 1356,
                 "model": {
                     "type": "model",
