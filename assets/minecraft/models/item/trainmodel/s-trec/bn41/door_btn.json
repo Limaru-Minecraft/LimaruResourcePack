@@ -2,66 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
-		"5": "block/bus_autonomous/door_btn",
-		"6": "block/bus_autonomous/quartz_block_bottom",
-		"7": "block/bus_autonomous/light_blue_concrete",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
-	"elements": [
-		{
-			"from": [15.5, 9.8, -5.75],
-			"to": [15.75, 11.9, -5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, -8.7, -9.4]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
-				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#1"},
-				"south": {"uv": [0, 0, 1, 6.25], "texture": "#6"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
-			}
-		},
-		{
-			"from": [16.9, 9.85, -5.75],
-			"to": [17.15, 10.85, -5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16.4, -9.75, -9.4]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 6.25], "texture": "#7"},
-				"east": {"uv": [0, 0, 16, 7], "texture": "#5"},
-				"south": {"uv": [0, 0, 1, 6.25], "texture": "#7"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
-				"up": {"uv": [0, 0, 1, 16], "texture": "#7"},
-				"down": {"uv": [0, 0, 1, 16], "texture": "#7"}
-			}
-		},
-		{
-			"from": [-1.15, 9.85, -5.75],
-			"to": [-0.9, 10.85, -5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.4, -9.75, -9.4]},
-			"faces": {
-				"north": {"uv": [1, 0, 0, 6.25], "texture": "#7"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#6"},
-				"south": {"uv": [1, 0, 0, 6.25], "texture": "#7"},
-				"west": {"uv": [0, 0, 16, 7], "texture": "#5"},
-				"up": {"uv": [1, 0, 0, 16], "texture": "#7"},
-				"down": {"uv": [1, 0, 0, 16], "texture": "#7"}
-			}
-		},
-		{
-			"from": [0.25, 9.8, -5.75],
-			"to": [0.5, 11.9, -5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1, -8.7, -9.4]},
-			"faces": {
-				"north": {"uv": [1, 0, 0, 6.25], "texture": "#1"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"south": {"uv": [1, 0, 0, 6.25], "texture": "#6"},
-				"west": {"uv": [16, 5.024, 0, 7.786], "texture": "#1"},
-				"up": {"uv": [1, 0, 0, 16], "texture": "#1"},
-				"down": {"uv": [1, 0, 0, 16], "texture": "#1"}
-			}
-		}
-	],
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [4, 4, 4]
