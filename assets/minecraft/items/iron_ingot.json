@@ -2310,6 +2310,7 @@
                     "model": "item/trainmodel/lipan/lili_utility/eot_signal"
                 }
             },
+            {
                 "threshold": 1356,
                 "model": {
                     "type": "model",
