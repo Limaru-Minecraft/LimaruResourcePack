@@ -1198,7 +1198,7 @@
                 }
             },
             {
-                "threshold": 1213,
+                "threshold": 1313,
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/entetsu/c13/c13_mc_body"
