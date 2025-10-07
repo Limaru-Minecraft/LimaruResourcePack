@@ -12,8 +12,7 @@
 		"19": "block/enb/e17_katsuragi",
 		"24": "block/gray_concrete_powder",
 		"30": "block/gray_concrete",
-		"43": "block/red_concrete",
-		"particle": "block/bus_autonomous/white_concrete"
+		"43": "block/red_concrete"
 	},
 	"elements": [
 		{
