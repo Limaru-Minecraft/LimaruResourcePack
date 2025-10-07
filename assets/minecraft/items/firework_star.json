@@ -108,7 +108,7 @@
       {
         "threshold": 15000,
         "model": {
-          "model": "item/busmodel/noodle/noodle",
+          "model": "item/busmodel/etb/noodle",
           "type": "minecraft:model",
           "tints": [
             {
