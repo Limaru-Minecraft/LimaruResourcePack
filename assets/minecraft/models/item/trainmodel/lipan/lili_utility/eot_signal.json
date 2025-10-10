@@ -1,0 +1,98 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/lipan/lili/eot_signal",
+		"particle": "block/lipan/lili/eot_signal"
+	},
+	"elements": [
+		{
+			"from": [7.8, 0.95, 7.99],
+			"to": [7.85, 1.15, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.7, 0.95, 7.99]},
+			"faces": {
+				"north": {"uv": [5.5, 6, 5.75, 7], "texture": "#0"},
+				"east": {"uv": [6, 6, 6.25, 7], "texture": "#0"},
+				"south": {"uv": [6.5, 1, 6.75, 2], "texture": "#0"},
+				"west": {"uv": [6.5, 2, 6.75, 3], "texture": "#0"},
+				"up": {"uv": [7.75, 2.75, 7.5, 2.5], "texture": "#0"},
+				"down": {"uv": [3.25, 7.5, 3, 7.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.95, 0, 7.99],
+			"to": [8.05, 0.2, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 0, 7.99]},
+			"faces": {
+				"north": {"uv": [5.5, 1, 6, 2], "texture": "#0"},
+				"east": {"uv": [6.5, 5, 6.75, 6], "texture": "#0"},
+				"south": {"uv": [5.5, 2, 6, 3], "texture": "#0"},
+				"west": {"uv": [6.5, 6, 6.75, 7], "texture": "#0"},
+				"up": {"uv": [6, 7.25, 5.5, 7], "texture": "#0"},
+				"down": {"uv": [6.5, 7, 6, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.75, 0.2, 7.99],
+			"to": [8.25, 0.95, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 0.2, 7.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.5, 3.75], "texture": "#0"},
+				"east": {"uv": [5, 0, 5.25, 3.75], "texture": "#0"},
+				"south": {"uv": [2.5, 0, 5, 3.75], "texture": "#0"},
+				"west": {"uv": [5, 4, 5.25, 7.75], "texture": "#0"},
+				"up": {"uv": [8, 0.25, 5.5, 0], "texture": "#0"},
+				"down": {"uv": [8, 0.5, 5.5, 0.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.15, 0.95, 7.99],
+			"to": [8.2, 1.15, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.1, 0.95, 7.99]},
+			"faces": {
+				"north": {"uv": [5.5, 5, 5.75, 6], "texture": "#0"},
+				"east": {"uv": [6, 1, 6.25, 2], "texture": "#0"},
+				"south": {"uv": [6, 2, 6.25, 3], "texture": "#0"},
+				"west": {"uv": [6, 5, 6.25, 6], "texture": "#0"},
+				"up": {"uv": [6.75, 7.25, 6.5, 7], "texture": "#0"},
+				"down": {"uv": [7.75, 1.5, 7.5, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.85, 1.1, 7.99],
+			"to": [8.15, 1.15, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 0.95, 7.99]},
+			"faces": {
+				"north": {"uv": [5.5, 3, 7, 3.25], "texture": "#0"},
+				"east": {"uv": [7.5, 2, 7.75, 2.25], "texture": "#0"},
+				"south": {"uv": [5.5, 3.5, 7, 3.75], "texture": "#0"},
+				"west": {"uv": [2.5, 7.5, 2.75, 7.75], "texture": "#0"},
+				"up": {"uv": [7, 4.25, 5.5, 4], "texture": "#0"},
+				"down": {"uv": [7, 4.5, 5.5, 4.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.775, 0.25, 7.98],
+			"to": [8.225, 0.9, 7.99],
+			"light_emission": 7,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 0.2, 7.94]},
+			"faces": {
+				"north": {"uv": [0, 4, 2.25, 7.25], "texture": "#0"},
+				"east": {"uv": [7, 1, 7.0625, 4.25], "texture": "#0"},
+				"south": {"uv": [2.5, 4, 4.75, 7.25], "texture": "#0"},
+				"west": {"uv": [7, 4.5, 7.0625, 7.75], "texture": "#0"},
+				"up": {"uv": [2.25, 7.5625, 0, 7.5], "texture": "#0"},
+				"down": {"uv": [9.75, 1, 7.5, 1.0625], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "eot_signal",
+			"origin": [7.7, 7.5, 7.99],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

@@ -11,7 +11,63 @@
                 "threshold": 1001,
                 "model": {
                     "type": "model",
-                    "model": "item/mizuno_ezcard"
+                    "model": "item/wasabi/emv"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/general"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/cinemaru"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/tourist"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/student"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/fts"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/veteran"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/7th"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "item/wasabi/plazma"
                 }
             }
         ]
