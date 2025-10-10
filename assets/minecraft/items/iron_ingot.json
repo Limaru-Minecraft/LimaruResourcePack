@@ -1166,7 +1166,7 @@
                 "threshold": 1133,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/unused"
+                    "model": "item/busmodel/etb/trident"
                 }
             },
             {
@@ -1275,6 +1275,10 @@
                 }
             },
             {
+                "threshold": 1501,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c13/c13_mc_body"
                 "threshold": 1213,
                 "model": {
                     "type": "model",
