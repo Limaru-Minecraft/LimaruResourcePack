@@ -23,6 +23,7 @@
 		"23": "block/bus_autonomous/wheelchair",
 		"24": "block/bus_autonomous/wheelleft",
 		"25": "block/bus_autonomous/wheelright",
+		"26": "block/bus_autonomous/yellowstripe",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
 	"elements": [
@@ -930,7 +931,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#24"},
-				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#26"},
 				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#6"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
@@ -943,7 +944,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#6"},
-				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#26"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#25"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}

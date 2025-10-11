@@ -20,6 +20,7 @@
 		"20": "block/bus_autonomous/b43_ext_low",
 		"21": "block/bus_autonomous/pink_wool",
 		"22": "block/bus_autonomous/ps",
+		"23": "block/bus_autonomous/yellowstripe",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
 	"elements": [
@@ -1013,13 +1014,39 @@
 		},
 		{
 			"from": [-1.1, 17.35, -16],
-			"to": [0.4, 19.1, 13.25],
+			"to": [0.4, 19.1, 5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-1.1, -5.45, 5.2]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#6"},
 				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [15.6, 17.35, 5],
+			"to": [17.1, 19.1, 13.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.6, -5.45, 5.2]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#23"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#23"},
+				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#6"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-1.1, 17.35, 5],
+			"to": [0.4, 19.1, 13.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.1, -5.45, 5.2]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
+				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#23"},
+				"west": {"uv": [16, 0.03879, 0, 16], "texture": "#23"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
 			}
@@ -1065,7 +1092,7 @@
 		},
 		{
 			"from": [15.6, 17.35, -16],
-			"to": [17.1, 19.1, 13.25],
+			"to": [17.1, 19.1, 5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [15.6, -5.45, 5.2]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
