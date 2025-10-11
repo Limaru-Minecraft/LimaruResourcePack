@@ -176,6 +176,27 @@
                 }
             },
             {
+                "threshold": 10025,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10025_rs"
+                }
+            },
+            {
+                "threshold": 10026,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10026_rs"
+                }
+            },
+            {
+                "threshold": 10027,
+                "model": {
+                    "type": "model",
+                    "model": "item/rollsignmodel/10027_rs"
+                }
+            },
+            {
                 "threshold": 10273,
                 "model": {
                     "type": "model",
