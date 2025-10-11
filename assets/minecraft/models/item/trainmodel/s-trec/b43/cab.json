@@ -18,7 +18,6 @@
 		"19": "block/bus_autonomous/bn",
 		"20": "block/bus_autonomous/red_concrete",
 		"21": "block/bus_autonomous/yellow_wool",
-		"22": "block/bus_autonomous/wheelchair",
 		"25": "block/s-trec/b37/transparency",
 		"26": "block/bus_autonomous/ycm",
 		"particle": "block/bus_autonomous/cyan_terracotta"
@@ -1468,19 +1467,6 @@
 			}
 		},
 		{
-			"from": [0.3, 8.1, 6.7],
-			"to": [0.5, 9.1, 7.7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.6, -8.2, 3.95]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 6.25], "texture": "#6"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#22"},
-				"south": {"uv": [0, 0, 1, 6.25], "texture": "#6"},
-				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#6"},
-				"up": {"uv": [0, 0, 1, 16], "texture": "#6"},
-				"down": {"uv": [0, 0, 1, 16], "texture": "#6"}
-			}
-		},
-		{
 			"from": [2.8, 8.7, 10.175],
 			"to": [3, 10.1, 10.375],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.4, -16.6, 5.8]},
@@ -2712,7 +2698,6 @@
 		186,
 		187,
 		188,
-		189,
-		190
+		189
 	]
 }
