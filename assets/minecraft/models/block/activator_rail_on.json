@@ -6,7 +6,7 @@
 		"2": "block/stone",
 		"6": "block/brown_concrete_powder",
 		"7": "block/gray_concrete_powder",
-		"8": "block/red_mushroom_block",
+		"8": "block/stripped_mangrove_log",
 		"9": "block/lipan/lili/lilo_insulator_small_brown",
 		"13": "block/anvil",
 		"particle": "block/rail"
@@ -91,7 +91,7 @@
 			}
 		},
 		{
-			"from": [-11, 0, 5],
+			"from": [-11, -2, 5],
 			"to": [28, 0.1, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.075, 8]},
 			"faces": {
@@ -216,7 +216,7 @@
 				"east": {"uv": [16, 0, 0, 0.8], "texture": "#8"},
 				"south": {"uv": [1, 0, 0, 0.8], "texture": "#8"},
 				"west": {"uv": [16, 0, 0, 0.8], "texture": "#8"},
-				"up": {"uv": [1, 0, 0, 16], "texture": "#8"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#8"},
 				"down": {"uv": [1, 0, 0, 16], "texture": "#8"}
 			}
 		},
