@@ -4,70 +4,70 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/name_tag"
+            "model": "item/cards/pancard"
         },
         "entries": [
             {
                 "threshold": 1001,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/emv"
+                    "model": "item/cards/allmizunodebit"
                 }
             },
             {
                 "threshold": 1002,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/general"
+                    "model": "item/cards/wasabi_general"
                 }
             },
             {
                 "threshold": 1003,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/cinemaru"
+                    "model": "item/cards/cinemarucard"
                 }
             },
             {
                 "threshold": 1004,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/tourist"
+                    "model": "item/cards/wasabi_tourist"
                 }
             },
             {
                 "threshold": 1005,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/student"
+                    "model": "item/cards/wasabi_student"
                 }
             },
             {
                 "threshold": 1006,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/fts"
+                    "model": "item/cards/wasabi_fts"
                 }
             },
             {
                 "threshold": 1007,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/veteran"
+                    "model": "item/cards/wasabi_veteran"
                 }
             },
             {
                 "threshold": 1008,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/7th"
+                    "model": "item/cards/annicard"
                 }
             },
             {
                 "threshold": 1009,
                 "model": {
                     "type": "model",
-                    "model": "item/wasabi/plazma"
+                    "model": "item/cards/plazmacard"
                 }
             }
         ]
