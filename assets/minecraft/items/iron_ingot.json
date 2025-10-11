@@ -2416,6 +2416,146 @@
                 }
             },
             {
+                "threshold": 1371,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/center"
+                }
+            },
+            {
+                "threshold": 1372,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/ad"
+                }
+            },
+            {
+                "threshold": 1373,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/door_a1"
+                }
+            },
+            {
+                "threshold": 1374,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/door_a2"
+                }
+            },
+            {
+                "threshold": 1375,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/door_b1"
+                }
+            },
+            {
+                "threshold": 1376,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/door_b2"
+                }
+            },
+            {
+                "threshold": 1377,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/sticker"
+                }
+            },
+            {
+                "threshold": 1378,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/panto"
+                }
+            },
+            {
+                "threshold": 1379,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/cab"
+                }
+            },
+            {
+                "threshold": 1380,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/front"
+                }
+            },
+            {
+                "threshold": 1381,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/head"
+                }
+            },
+            {
+                "threshold": 1382,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/tail"
+                }
+            },
+            {
+                "threshold": 1383,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/cabdoor"
+                }
+            },
+            {
+                "threshold": 1384,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/cabdriver"
+                }
+            },
+            {
+                "threshold": 1385,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/ladder_slope_a"
+                }
+            },
+            {
+                "threshold": 1386,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/ladder_slope_b"
+                }
+            },
+            {
+                "threshold": 1387,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/ladder_slope_c"
+                }
+            },
+            {
+                "threshold": 43100,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/interior/100"
+                }
+            },
+            {
+                "threshold": 43700,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/interior/exterior/700"
+                }
+            },
+            {
+                "threshold": 43800,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b43/interior/exterior/800"
+                }
+            },
+            {
                 "threshold": 4795,
                 "model": {
                     "type": "model",
