@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"10": "block/bus_autonomous/gray_wool",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"10": "block/gray_wool",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

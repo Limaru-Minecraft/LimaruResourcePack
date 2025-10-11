@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/bus_autonomous/black_concrete",
+		"3": "block/black_concrete",
 		"15": "block/bus_autonomous/bn41_interior/exterior/710",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

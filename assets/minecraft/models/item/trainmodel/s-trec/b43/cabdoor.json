@@ -2,15 +2,15 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
-		"3": "block/bus_autonomous/black_concrete",
-		"4": "block/bus_autonomous/light_gray_concrete",
-		"6": "block/bus_autonomous/quartz_block_bottom",
-		"13": "block/bus_autonomous/glass",
+		"1": "block/white_concrete",
+		"3": "block/black_concrete",
+		"4": "block/light_gray_concrete",
+		"6": "block/quartz_block_bottom",
+		"13": "block/glass",
 		"20": "block/bus_autonomous/ycm",
 		"21": "block/s-trec/b37/transparency",
 		"23": "block/bus_autonomous/exit",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

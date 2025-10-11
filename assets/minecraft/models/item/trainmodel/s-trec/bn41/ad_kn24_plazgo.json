@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/bus_autonomous/bn41_ad/plazma",
-		"6": "block/bus_autonomous/quartz_block_bottom",
+		"6": "block/quartz_block_bottom",
 		"17": "block/bus_autonomous/bn41_ad/kn24_plazgo",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

@@ -2,11 +2,11 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
+		"1": "block/white_concrete",
 		"5": "block/bus_autonomous/door_btn",
-		"6": "block/bus_autonomous/quartz_block_bottom",
-		"7": "block/bus_autonomous/light_blue_concrete",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"6": "block/quartz_block_bottom",
+		"7": "block/light_blue_concrete",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

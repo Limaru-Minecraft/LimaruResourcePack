@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "block/bus_autonomous/lime_concrete",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"4": "block/lime_concrete",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

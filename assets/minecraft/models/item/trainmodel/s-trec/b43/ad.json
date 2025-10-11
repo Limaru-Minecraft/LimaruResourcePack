@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"4": "block/bus_autonomous/ycm_ad",
-		"6": "block/bus_autonomous/quartz_block_bottom",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"6": "block/quartz_block_bottom",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

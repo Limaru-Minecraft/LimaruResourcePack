@@ -5,7 +5,7 @@
 		"15": "block/s-trec/b37/vvvf",
 		"16": "block/s-trec/b37/compartment",
 		"17": "block/s-trec/b37/motor",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

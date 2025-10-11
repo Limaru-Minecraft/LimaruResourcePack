@@ -2,12 +2,12 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
-		"3": "block/bus_autonomous/black_concrete",
-		"4": "block/bus_autonomous/light_gray_concrete",
+		"1": "block/white_concrete",
+		"3": "block/black_concrete",
+		"4": "block/light_gray_concrete",
 		"14": "block/bus_autonomous/ic_card",
-		"20": "block/bus_autonomous/red_concrete",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"20": "block/red_concrete",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{
