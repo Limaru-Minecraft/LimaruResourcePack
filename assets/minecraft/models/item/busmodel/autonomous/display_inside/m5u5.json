@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/bus_autonomous/cyan_concrete",
+		"2": "block/cyan_concrete",
 		"4": "block/bus_autonomous/display_interior/next_m5u5",
-		"17": "block/bus_autonomous/gray_concrete",
+		"17": "block/gray_concrete",
 		"23": "block/bus_autonomous/display_interior/pancard_m5u5",
-		"particle": "block/bus_autonomous/coal_block"
+		"particle": "block/coal_block"
 	},
 	"elements": [
 		{

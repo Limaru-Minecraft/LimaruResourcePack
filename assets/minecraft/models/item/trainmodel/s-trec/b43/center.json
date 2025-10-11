@@ -18,8 +18,8 @@
 		"18": "block/bus_autonomous/light_gray_concrete_powder",
 		"19": "block/bus_autonomous/b43_ext_upp",
 		"20": "block/bus_autonomous/b43_ext_low",
-		"21": "block/bus_autonomous/pink_wool",
-		"22": "block/bus_autonomous/ps",
+		"21": "block/bus_autonomous/light_blue_wool",
+		"22": "block/bus_autonomous/psycm",
 		"particle": "block/bus_autonomous/cyan_terracotta"
 	},
 	"elements": [

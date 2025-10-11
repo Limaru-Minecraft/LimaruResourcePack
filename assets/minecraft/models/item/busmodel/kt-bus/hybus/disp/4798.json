@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"6": "block/bus_autonomous/display_exterior/tmp/m47_twyford",
-		"12": "block/bus_autonomous/black_concrete",
-		"particle": "block/bus_autonomous/gray_concrete"
+		"12": "block/black_concrete",
+		"particle": "block/gray_concrete"
 	},
 	"elements": [
 		{

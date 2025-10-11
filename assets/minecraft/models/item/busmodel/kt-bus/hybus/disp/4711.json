@@ -2,11 +2,11 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bus_autonomous/gray_concrete",
-		"13": "block/bus_autonomous/cyan_concrete",
+		"0": "block/gray_concrete",
+		"13": "block/cyan_concrete",
 		"15": "block/bus_autonomous/iciwi_display",
 		"21": "block/bus_autonomous/display_interior/hybus/4711",
-		"particle": "block/bus_autonomous/gray_concrete"
+		"particle": "block/gray_concrete"
 	},
 	"elements": [
 		{
