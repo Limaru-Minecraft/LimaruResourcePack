@@ -19,7 +19,7 @@
 		"14": "block/bus_autonomous/iciwi_new",
 		"15": "block/bus_autonomous/iciwi_display",
 		"17": "block/bus_autonomous/license_plate",
-		"18": "block/wheelchair",
+		"18": "block/bus_autonomous/wheelchair",
 		"19": "block/bus_autonomous/pay_iciwi",
 		"21": "block/bus_autonomous/display_interior/off",
 		"22": "block/sea_lantern",
