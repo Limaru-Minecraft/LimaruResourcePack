@@ -15,7 +15,6 @@
 		"10": "block/gray_wool",
 		"12": "block/bus_autonomous/tjt_concrete",
 		"13": "block/glass",
-		"14": "block/bus_autonomous/khi_concrete",
 		"15": "block/bus_autonomous/tjt_quartz",
 		"16": "block/ktb/mugunghwa/toilet",
 		"17": "block/pink_wool",
@@ -24,6 +23,7 @@
 		"20": "block/bus_autonomous/ex_st1",
 		"21": "block/bus_autonomous/ex_st2",
 		"22": "block/light_gray_concrete_powder",
+		"23": "block/bus_autonomous/bmlt",
 		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
@@ -2295,7 +2295,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [16.1, -7.2, 5.2]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
-				"east": {"uv": [2, 4, 14, 12], "texture": "#14"},
+				"east": {"uv": [2, 4, 14, 12], "texture": "#23"},
 				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"west": {"uv": [0, 6.112, 16, 9.834], "texture": "#1"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},

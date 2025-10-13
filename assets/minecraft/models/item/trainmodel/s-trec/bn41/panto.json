@@ -14,13 +14,13 @@
 		"9": "block/black_wool",
 		"10": "block/gray_wool",
 		"11": "block/bus_autonomous/tjt_quartz",
-		"12": "block/bus_autonomous/khi_concrete",
 		"14": "block/glass",
 		"15": "block/bus_autonomous/tjt_entetsu",
 		"16": "block/bus_autonomous/bogie_mark",
 		"17": "block/bus_autonomous/ex_st1",
 		"18": "block/bus_autonomous/ex_st2",
 		"19": "block/light_gray_concrete_powder",
+		"21": "block/bus_autonomous/tjt_concrete",
 		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
@@ -1254,7 +1254,7 @@
 				"north": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
 				"east": {"uv": [0, 5.024, 16, 7.786], "texture": "#1"},
 				"south": {"uv": [0, 0, 1, 6.25], "texture": "#1"},
-				"west": {"uv": [2, 4, 14, 12], "texture": "#12"},
+				"west": {"uv": [2, 4, 14, 12], "texture": "#21"},
 				"up": {"uv": [0, 0, 1, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 16], "texture": "#1"}
 			}
