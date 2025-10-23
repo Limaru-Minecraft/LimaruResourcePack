@@ -882,7 +882,7 @@
                     "model": "item/busmodel/autonomous/display_inside/m5d13"
                 }
             },
-            { 
+            {
                 "threshold": 2000,
                 "model": {
                     "type": "model",
@@ -1104,6 +1104,20 @@
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/lipan/lili_wagons/e/lili_eans/lili_eans_body"
+                }
+            },
+            {
+                "threshold": 2032,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_brel/lili_p3"
+                }
+            },
+            {
+                "threshold": 2033,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_brel/lili_t3"
                 }
             },
             {
