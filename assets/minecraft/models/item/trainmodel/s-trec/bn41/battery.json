@@ -6,7 +6,7 @@
 		"5": "block/s-trec/b37/li-ion_battery_01",
 		"6": "block/s-trec/b37/pure_white",
 		"16": "block/s-trec/b37/compartment",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

@@ -2,12 +2,12 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
-		"6": "block/bus_autonomous/quartz_block_bottom",
-		"8": "block/bus_autonomous/brown_concrete",
-		"9": "block/bus_autonomous/black_wool",
-		"14": "block/bus_autonomous/glass",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"1": "block/white_concrete",
+		"6": "block/quartz_block_bottom",
+		"8": "block/brown_concrete",
+		"9": "block/black_wool",
+		"14": "block/glass",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

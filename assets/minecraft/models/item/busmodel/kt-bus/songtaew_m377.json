@@ -1,22 +1,22 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bus_autonomous/gray_concrete",
-		"1": "block/bus_autonomous/white_concrete",
-		"2": "block/bus_autonomous/blue_concrete_powder",
-		"3": "block/bus_autonomous/coal_block",
-		"4": "block/bus_autonomous/light_gray_concrete",
-		"6": "block/bus_autonomous/light_blue_wool",
-		"10": "block/bus_autonomous/black_wool",
+		"0": "block/gray_concrete",
+		"1": "block/white_concrete",
+		"2": "block/blue_concrete_powder",
+		"3": "block/coal_block",
+		"4": "block/light_gray_concrete",
+		"6": "block/light_blue_wool",
+		"10": "block/black_wool",
 		"12": "block/bus_autonomous/display_exterior/m377",
 		"13": "block/bus_autonomous/display_exterior/side_m377",
 		"14": "block/bus_autonomous/display_exterior/kn24_songtaew",
 		"17": "block/bus_autonomous/license_plate",
-		"22": "block/bus_autonomous/sea_lantern",
-		"23": "block/bus_autonomous/shroomlight",
-		"24": "block/bus_autonomous/redstone_block",
-		"30": "block/bus_autonomous/red_concrete",
-		"particle": "block/bus_autonomous/gray_concrete"
+		"22": "block/sea_lantern",
+		"23": "block/shroomlight",
+		"24": "block/redstone_block",
+		"30": "block/red_concrete",
+		"particle": "block/gray_concrete"
 	},
 	"elements": [
 		{

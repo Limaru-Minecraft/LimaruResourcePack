@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"13": "block/bus_autonomous/quartz_block_bottom",
+		"13": "block/quartz_block_bottom",
 		"23": "block/bus_autonomous/m9_inside",
 		"24": "block/bus_autonomous/m9_outside",
-		"particle": "block/bus_autonomous/coal_block"
+		"particle": "block/coal_block"
 	},
 	"elements": [
 		{

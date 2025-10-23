@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bus_autonomous/cyan_terracotta",
+		"0": "block/cyan_terracotta",
 		"18": "block/bus_autonomous/cabsignal/06",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

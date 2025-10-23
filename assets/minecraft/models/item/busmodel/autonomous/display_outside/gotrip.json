@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/bus_autonomous/cyan_concrete",
+		"2": "block/cyan_concrete",
 		"24": "block/bus_autonomous/display_exterior/go",
-		"particle": "block/bus_autonomous/coal_block"
+		"particle": "block/coal_block"
 	},
 	"elements": [
 		{

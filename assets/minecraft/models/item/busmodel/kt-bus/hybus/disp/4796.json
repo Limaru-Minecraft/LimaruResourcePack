@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"12": "block/bus_autonomous/black_concrete",
+		"12": "block/black_concrete",
 		"20": "block/bus_autonomous/display_exterior/tmp/m47_mizuno",
-		"particle": "block/bus_autonomous/gray_concrete"
+		"particle": "block/gray_concrete"
 	},
 	"elements": [
 		{

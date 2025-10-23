@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/light_gray_concrete",
-		"3": "block/bus_autonomous/white_concrete",
-		"4": "block/bus_autonomous/glass",
-		"17": "block/bus_autonomous/gray_concrete",
-		"27": "block/bus_autonomous/gray_stained_glass",
-		"particle": "block/bus_autonomous/coal_block"
+		"1": "block/light_gray_concrete",
+		"3": "block/white_concrete",
+		"4": "block/glass",
+		"17": "block/gray_concrete",
+		"27": "block/gray_stained_glass",
+		"particle": "block/coal_block"
 	},
 	"elements": [
 		{

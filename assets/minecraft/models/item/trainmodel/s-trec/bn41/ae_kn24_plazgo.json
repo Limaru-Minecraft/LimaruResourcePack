@@ -2,11 +2,11 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/bus_autonomous/white_concrete",
+		"1": "block/white_concrete",
 		"3": "block/bus_autonomous/bn41_ad/wasabi_c",
 		"4": "block/bus_autonomous/bn41_ad/bind_today",
 		"5": "block/bus_autonomous/bn41_ad/truthfromthailand",
-		"particle": "block/bus_autonomous/cyan_terracotta"
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

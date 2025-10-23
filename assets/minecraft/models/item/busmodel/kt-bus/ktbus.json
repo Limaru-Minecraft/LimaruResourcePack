@@ -25,8 +25,8 @@
 		"28": "block/ktb/lex_electric_bus",
 		"29": "block/ktb/danger_black_concrete",
 		"30": "block/bus_autonomous/pancard_tapping",
-		"31": "block/bus_autonomous/gray_concrete",
-		"32": "block/bus_autonomous/cyan_concrete",
+		"31": "block/gray_concrete",
+		"32": "block/cyan_concrete",
 		"33": "block/bus_autonomous/display_interior/pancard_m5u1",
 		"34": "block/bus_autonomous/display_interior/next_m5u1",
 		"particle": "block/black_concrete"
