@@ -16,7 +16,7 @@
 		"12": "block/black_concrete",
 		"13": "block/cyan_concrete",
 		"16": "block/red_concrete",
-		"17": "block/license_plate",
+		"17": "block/bus_autonomous/license_plate",
 		"18": "block/bus_autonomous/wheelchair",
 		"19": "block/bus_autonomous/pay_iciwi",
 		"20": "block/bus_autonomous/display_exterior/nm351",
