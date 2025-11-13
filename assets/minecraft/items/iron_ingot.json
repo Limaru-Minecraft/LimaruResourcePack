@@ -1121,6 +1121,20 @@
                 }
             },
             {
+                "threshold": 2034,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/k88l89/k88_body_er"
+                }
+            },
+            {
+                "threshold": 2035,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/k88l89/l89_body_er"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
