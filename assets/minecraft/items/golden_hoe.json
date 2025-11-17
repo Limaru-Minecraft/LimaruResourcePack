@@ -25,7 +25,7 @@
                 "threshold": 0.09375,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/trainmodel/misc/pantograph"
+                    "model": "item/golden_hoe"
                 }
             },
             {
@@ -46,14 +46,14 @@
                 "threshold": 0.1875,
                 "model": {
                     "type": "model",
-                    "model": "item/rollsignmodel/500_metrocoderollsign"
+                    "model": "item/golden_hoe"
                 }
             },
             {
                 "threshold": 0.21875,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/rollsignmodel/500_metrolinerollsign"
+                    "model": "item/golden_hoe"
                 }
             },
             {
