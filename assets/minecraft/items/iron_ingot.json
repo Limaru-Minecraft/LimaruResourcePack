@@ -792,7 +792,7 @@
                 }
             },
             {
-                "threshold": 2039,
+                "threshold": 2039,S
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/lipan/lili_midori/lili_midori_ampz_door_lb_prm"
