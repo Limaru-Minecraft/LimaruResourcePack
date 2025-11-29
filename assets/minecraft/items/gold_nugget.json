@@ -195,13 +195,6 @@
                     "type": "model",
                     "model": "item/rollsignmodel/10027_rs"
                 }
-            },
-            {
-                "threshold": 10273,
-                "model": {
-                    "type": "model",
-                    "model": "item/rollsignmodel/enb_273"
-                }
             }
         ]
     }
