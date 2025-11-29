@@ -778,6 +778,34 @@
                 }
             },
             {
+                "threshold": 2037,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_midori/lili_midori_ampz_door_fl_mdr"
+                }
+            },
+            {
+                "threshold": 2038,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_midori/lili_midori_ampz_door_fr_mdr"
+                }
+            },
+            {
+                "threshold": 2039,S
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_midori/lili_midori_ampz_door_lb_prm"
+                }
+            },
+            {
+                "threshold": 2040,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_midori/lili_midori_ampz_door_rb_prm"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
