@@ -806,6 +806,13 @@
                 }
             },
             {
+                "threshold": 2041,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_dosto/lili_dosto_dbpz"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
@@ -2469,13 +2476,6 @@
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/lipan/lili_brel/lili_t3"
-                }
-            },
-            {
-                "threshold": 2034,
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/lipan/lili_dosto/dosto_test2"
                 }
             },
             {
