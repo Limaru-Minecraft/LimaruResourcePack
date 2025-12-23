@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/rail"
+        },
+        "entries": [
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/lmrail_lod1"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/lmrail_lod2"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/lmrail_lod3"
+                }
+            }
+        ]
+    }
+}
