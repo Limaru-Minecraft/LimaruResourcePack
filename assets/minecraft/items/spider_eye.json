@@ -76,6 +76,13 @@
                     "type": "model",
                     "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt_front"
                 }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/transpark/pk_ferry_a.json"
+                }
             }
         ]
     }

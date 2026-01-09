@@ -2248,6 +2248,13 @@
                 }
             },
             {
+                "threshold": 1389,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/util/ets_coupler"
+                }
+            },
+            {
                 "threshold": 2000,
                 "model": {
                     "type": "model",
