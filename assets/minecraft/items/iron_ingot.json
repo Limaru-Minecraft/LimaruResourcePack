@@ -970,7 +970,7 @@
                 "threshold": 1212,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/misc/ets_bogie"
+                    "model": "item/trainmodel/entetsu/util/ets_bogie"
                 }
             },
             {
