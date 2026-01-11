@@ -30,9 +30,6 @@
 		"27": "block/bus_autonomous/tesla",
 		"28": "block/bus_autonomous/hyd",
 		"29": "block/bus_autonomous/ev",
-		"30": "block/bus_autonomous/display_exterior/tmp/off_bck",
-		"31": "block/bus_autonomous/display_exterior/tmp/off_frt",
-		"32": "block/bus_autonomous/display_exterior/tmp/off_sde",
 		"33": "block/lime_concrete",
 		"34": "block/blue_concrete",
 		"35": "block/pink_concrete",
@@ -40,6 +37,9 @@
 		"37": "block/magenta_concrete",
 		"38": "block/orange_concrete",
 		"39": "block/red_concrete",
+		"40": "block/bus_autonomous/display_exterior/2026/lm_frnt",
+		"41": "block/bus_autonomous/display_exterior/2026/lm_side",
+		"42": "block/bus_autonomous/display_exterior/2026/lm_tail",
 		"particle": "block/gray_concrete"
 	},
 	"elements": [
@@ -1442,7 +1442,7 @@
 			"to": [12.75, 19.25, -14.76],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 15, -7.3]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#31"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#40"},
 				"east": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
 				"south": {"uv": [0, 0, 9.5, 0.75], "texture": "#12"},
 				"west": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
@@ -1458,7 +1458,7 @@
 				"north": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
 				"east": {"uv": [0, 0, 9.5, 0.75], "texture": "#12"},
 				"south": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#32"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#41"},
 				"up": {"uv": [0, 0, 9.5, 16], "rotation": 270, "texture": "#12"},
 				"down": {"uv": [0, 0, 9.5, 16], "rotation": 90, "texture": "#12"}
 			}
@@ -1470,7 +1470,7 @@
 			"faces": {
 				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#12"},
 				"east": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#30"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#42"},
 				"west": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
 				"up": {"uv": [0, 16, 9.5, 0], "texture": "#12"},
 				"down": {"uv": [0, 16, 9.5, 0], "texture": "#12"}
