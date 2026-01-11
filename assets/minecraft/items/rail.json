@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "item/rails/lmrail_lod3"
                 }
+            },
+            {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/lili_buffer/lili_buffer_friction/lili_buffer_friction"
+                }
             }
         ]
     }
