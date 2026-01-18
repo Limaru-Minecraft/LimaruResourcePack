@@ -2549,6 +2549,125 @@
                 }
             },
             {
+                "threshold": 4801,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/disp_main"
+                }
+            },
+            {
+                "threshold": 4802,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4802"
+                }
+            },
+            {
+                "threshold": 4803,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4803"
+                }
+            },
+            {
+                "threshold": 4804,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4804"
+                }
+            },
+            {
+                "threshold": 4805,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4805"
+                }
+            },
+            {
+                "threshold": 4806,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4806"
+                }
+            },
+            {
+                "threshold": 4807,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4807"
+                }
+            },
+            {
+                "threshold": 4808,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4808"
+                }
+            },
+            {
+                "threshold": 4809,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4809"
+                }
+            },
+            {
+                "threshold": 4810,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4810"
+                }
+            },
+            {
+                "threshold": 4811,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4811"
+                }
+            },
+            {
+                "threshold": 4812,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4812"
+                }
+            },
+            {
+                "threshold": 4813,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4813"
+                }
+            },
+            {
+                "threshold": 4814,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4814"
+                }
+            },
+            {
+                "threshold": 4815,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4815"
+                }
+            },
+            {
+                "threshold": 4816,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4816"
+                }
+            },
+            {
+                "threshold": 4817,
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/ktb/hyboat/full/4817"
+                }
+            },
+            {
                 "threshold": 4101,
                 "model": {
                     "type": "model",

@@ -69,6 +69,13 @@
                     "type": "model",
                     "model": "item/cards/plazmacard"
                 }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "item/cards/wasabi_ktb"
+                }
             }
         ]
     }
