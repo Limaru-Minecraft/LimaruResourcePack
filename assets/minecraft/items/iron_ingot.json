@@ -2829,6 +2829,13 @@
                 }
             },
             {
+                "threshold": 4099,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4099"
+                }
+            },
+            {
                 "threshold": 4601,
                 "model": {
                     "type": "model",
