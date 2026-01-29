@@ -2262,6 +2262,13 @@
                 }
             },
             {
+                "threshold": 1390,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/util/ets_bogie_third"
+                }
+            },
+            {
                 "threshold": 2000,
                 "model": {
                     "type": "model",
@@ -2819,6 +2826,160 @@
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/kt-bus/hybus/disp/4701"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4000"
+                }
+            },
+            {
+                "threshold": 4099,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4099"
+                }
+            },
+            {
+                "threshold": 4601,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4601"
+                }
+            },
+            {
+                "threshold": 4602,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4602"
+                }
+            },
+            {
+                "threshold": 4603,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4603"
+                }
+            },
+            {
+                "threshold": 4604,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4604"
+                }
+            },
+            {
+                "threshold": 4605,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4605"
+                }
+            },
+            {
+                "threshold": 4606,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4606"
+                }
+            },
+            {
+                "threshold": 4607,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4607"
+                }
+            },
+            {
+                "threshold": 4608,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4608"
+                }
+            },
+            {
+                "threshold": 4609,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4609"
+                }
+            },
+            {
+                "threshold": 4610,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4610"
+                }
+            },
+            {
+                "threshold": 4611,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4611"
+                }
+            },
+            {
+                "threshold": 4612,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4612"
+                }
+            },
+            {
+                "threshold": 4613,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4613"
+                }
+            },
+            {
+                "threshold": 4614,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4614"
+                }
+            },
+            {
+                "threshold": 4615,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4615"
+                }
+            },
+            {
+                "threshold": 4616,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4616"
+                }
+            },
+            {
+                "threshold": 4695,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4695"
+                }
+            },
+            {
+                "threshold": 4696,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4696"
+                }
+            },
+            {
+                "threshold": 4697,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4697"
+                }
+            },
+            {
+                "threshold": 4698,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/4698"
                 }
             },
             {
