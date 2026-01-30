@@ -2262,6 +2262,13 @@
                 }
             },
             {
+                "threshold": 1390,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/util/ets_bogie_third"
+                }
+            },
+            {
                 "threshold": 2000,
                 "model": {
                     "type": "model",
