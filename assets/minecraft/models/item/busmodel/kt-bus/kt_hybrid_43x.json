@@ -1506,7 +1506,7 @@
 			"faces": {
 				"north": {"uv": [14, 0, 0, 1], "texture": "#12"},
 				"east": {"uv": [16, 0, 0, 1], "texture": "#12"},
-				"south": {"uv": [14, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [14, 0, 0, 1], "texture": "#12"},
 				"west": {"uv": [16, 0, 0, 1], "texture": "#5"},
 				"up": {"uv": [16, 0, 0, 16], "texture": "#1"},
 				"down": {"uv": [14, 0, 0, 16], "texture": "#0"}
