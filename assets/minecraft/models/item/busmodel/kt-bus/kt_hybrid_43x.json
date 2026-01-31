@@ -17,7 +17,6 @@
 		"12": "block/black_concrete",
 		"13": "block/cyan_concrete",
 		"14": "block/bus_autonomous/iciwi_new",
-		"15": "block/bus_autonomous/payment/m2",
 		"16": "block/red_concrete",
 		"17": "block/bus_autonomous/license_plate",
 		"18": "block/bus_autonomous/wheelchair",
@@ -5617,7 +5616,7 @@
 			"faces": {
 				"north": {"uv": [14, 0, 0, 1], "texture": "#0"},
 				"east": {"uv": [16, 0, 0, 1], "texture": "#13"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#15"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#39"},
 				"west": {"uv": [16, 0, 0, 1], "texture": "#13"},
 				"up": {"uv": [16, 0, 0, 16], "texture": "#13"},
 				"down": {"uv": [14, 0, 0, 16], "texture": "#13"}
