@@ -1,10 +1,10 @@
 {
-	"format_version": "1.21.6",
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "block/bus_autonomous/display_exterior/2026/m1_frnt_fls",
-		"6": "block/bus_autonomous/display_exterior/2026/m1_side_fls",
-		"7": "block/bus_autonomous/display_exterior/2026/m1_tail",
+		"5": "block/bus_autonomous/display26/brt1/m1_frnt_fls",
+		"7": "block/bus_autonomous/display26/brt1/m1_side_fls",
+		"9": "block/bus_autonomous/display26/brt1/m1_tail",
 		"12": "block/black_concrete",
 		"particle": "block/gray_concrete"
 	},
@@ -17,7 +17,7 @@
 				"north": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
 				"east": {"uv": [0, 0, 9.5, 0.75], "texture": "#12"},
 				"south": {"uv": [0, 0, 16, 0.75], "texture": "#12"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
 				"up": {"uv": [0, 0, 9.5, 16], "rotation": 270, "texture": "#12"},
 				"down": {"uv": [0, 0, 9.5, 16], "rotation": 90, "texture": "#12"}
 			}
@@ -36,13 +36,26 @@
 			}
 		},
 		{
+			"from": [15.71, 19.25, -8.3],
+			"to": [16.01, 21.25, 1.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.25, 17, 4.45]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"south": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
+				"west": {"uv": [9.5, 0, 0, 0.75], "texture": "#12"},
+				"up": {"uv": [0, 16, 9.5, 0], "rotation": 270, "texture": "#12"},
+				"down": {"uv": [0, 16, 9.5, 0], "rotation": 90, "texture": "#12"}
+			}
+		},
+		{
 			"from": [3.25, 19.25, 30.76],
 			"to": [12.75, 21.25, 31.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 17, 23.3]},
 			"faces": {
 				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#12"},
 				"east": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#9"},
 				"west": {"uv": [16, 0, 0, 0.75], "texture": "#12"},
 				"up": {"uv": [0, 16, 9.5, 0], "texture": "#12"},
 				"down": {"uv": [0, 16, 9.5, 0], "texture": "#12"}

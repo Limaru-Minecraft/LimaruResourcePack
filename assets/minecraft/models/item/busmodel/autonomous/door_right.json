@@ -1,9 +1,10 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/coal_block",
 		"1": "block/light_gray_concrete",
-		"2": "block/cyan_concrete",
+		"2": "block/lime_concrete",
 		"4": "block/glass",
 		"5": "block/quartz_block_bottom",
 		"particle": "block/coal_block"
