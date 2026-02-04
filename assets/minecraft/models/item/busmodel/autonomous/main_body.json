@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/coal_block",
 		"1": "block/light_gray_concrete",
-		"2": "block/cyan_concrete",
+		"2": "block/lime_concrete",
 		"3": "block/white_concrete",
 		"4": "block/glass",
 		"5": "block/redstone_lamp_on",
@@ -13,7 +13,7 @@
 		"9": "block/sea_lantern",
 		"11": "block/bus_autonomous/ktbkonno",
 		"13": "block/quartz_block_bottom",
-		"14": "block/lime_concrete",
+		"14": "block/light_blue_concrete",
 		"15": "block/yellow_concrete",
 		"16": "block/red_concrete",
 		"17": "block/gray_concrete",
@@ -25,6 +25,7 @@
 		"23": "block/bus_autonomous/b51",
 		"24": "block/bus_autonomous/bus_tft",
 		"25": "block/bus_autonomous/bus_wsbb",
+		"43": "block/cyan_concrete",
 		"particle": "block/coal_block"
 	},
 	"elements": [
@@ -678,12 +679,12 @@
 			"to": [6.75, 10.7, 3],
 			"rotation": {"angle": 0, "axis": "y", "origin": [11.25, 1.95, -2]},
 			"faces": {
-				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#2"},
-				"east": {"uv": [16, 0, 0, 0.75], "texture": "#2"},
-				"south": {"uv": [9.5, 0, 0, 0.75], "texture": "#2"},
-				"west": {"uv": [16, 0, 0, 0.75], "texture": "#2"},
-				"up": {"uv": [9.5, 0, 0, 16], "texture": "#2"},
-				"down": {"uv": [9.5, 0, 0, 16], "texture": "#2"}
+				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#43"},
+				"east": {"uv": [16, 0, 0, 0.75], "texture": "#43"},
+				"south": {"uv": [9.5, 0, 0, 0.75], "texture": "#43"},
+				"west": {"uv": [16, 0, 0, 0.75], "texture": "#43"},
+				"up": {"uv": [9.5, 0, 0, 16], "texture": "#43"},
+				"down": {"uv": [9.5, 0, 0, 16], "texture": "#43"}
 			}
 		},
 		{
