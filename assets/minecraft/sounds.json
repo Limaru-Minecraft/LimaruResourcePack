@@ -124,6 +124,11 @@
 			"train/entetsu/doorclosing"
 		]
 	},
+"train.entetsu.c13_doorclosing": {
+		"sounds": [
+			"train/entetsu/c13_doorclosing"
+		]
+	},
 	"train.entetsu.dooropen": {
 		"sounds": [
 			"train/entetsu/dooropen"
