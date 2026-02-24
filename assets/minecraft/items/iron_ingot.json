@@ -995,6 +995,13 @@
                 }
             },
             {
+                "threshold": 1502,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/entetsu/c13/c13_door"
+                }
+            },
+            {
                 "threshold": 1213,
                 "model": {
                     "type": "model",
