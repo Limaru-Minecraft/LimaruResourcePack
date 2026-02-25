@@ -827,6 +827,20 @@
                 }
             },
             {
+                "threshold": 2044,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l1221/l1221_body"
+                }
+            },
+            {
+                "threshold": 2045,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l1221/l1221_bogie"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
