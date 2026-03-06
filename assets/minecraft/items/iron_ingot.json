@@ -844,7 +844,7 @@
                 "threshold": 2046,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/k88l89/k88l89_seat.json"
+                    "model": "item/trainmodel/lipan/k88l89/k88l89_seat"
                 }
             },
             {
