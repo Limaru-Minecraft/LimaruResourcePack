@@ -94,26 +94,6 @@
 			"train/motion_out"
 		]
 	},
-	"train.unused_0": {
-		"sounds": [
-			"train/unused_0"
-		]
-	},
-	"train.unused_1": {
-		"sounds": [
-			"train/unused_1"
-		]
-	},
-	"train.unused_2": {
-		"sounds": [
-			"train/unused_2"
-		]
-	},
-	"train.unused_3": {
-		"sounds": [
-			"train/unused_3"
-		]
-	},
 	"train.entetsu.doorclose": {
 		"sounds": [
 			"train/entetsu/doorclose"
