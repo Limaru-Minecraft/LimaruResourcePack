@@ -18,6 +18,7 @@
 		"22": "block/sea_lantern",
 		"23": "block/shroomlight",
 		"24": "block/redstone_block",
+		"25": "block/enb/etb",
 		"30": "block/gray_concrete",
 		"33": "block/light_gray_concrete",
 		"40": "block/enb/numplate",
@@ -204,6 +205,32 @@
 				"west": {"uv": [0, 0, 16, 16], "texture": "#11"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#11"},
 				"down": {"uv": [0, 0, 14, 16], "texture": "#11"}
+			}
+		},
+		{
+			"from": [-0.025, 1.25, 8],
+			"to": [-0.025, 6.25, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.025, -5.5, -1.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 1], "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"south": {"uv": [0, 0, 14, 1], "texture": "#11"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#25"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"down": {"uv": [0, 0, 14, 16], "texture": "#11"}
+			}
+		},
+		{
+			"from": [16.025, 1.25, 8],
+			"to": [16.025, 6.25, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.025, -5.5, -1.5]},
+			"faces": {
+				"north": {"uv": [14, 0, 0, 1], "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#25"},
+				"south": {"uv": [14, 0, 0, 1], "texture": "#11"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#11"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#11"},
+				"down": {"uv": [14, 0, 0, 16], "texture": "#11"}
 			}
 		},
 		{

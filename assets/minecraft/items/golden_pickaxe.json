@@ -123,14 +123,14 @@
                 "threshold": 0.53125,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/trainmodel/unused"
+                    "model": "minecraft:item/golden_pickaxe"
                 }
             },
             {
                 "threshold": 0.5625,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/trainmodel/entetsu/l89"
+                    "model": "minecraft:item/golden_pickaxe"
                 }
             },
             {
