@@ -848,6 +848,33 @@
                 }
             },
             {
+                "threshold": 2047,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_gp200/lili_gp200"
+                }
+            },
+            {
+                "threshold": 2048,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_nst/lpn_bdmtee_body"
+                }
+            },
+            {
+                "threshold": 2049,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_nst/lpn_bdmtee_doorsl"
+                }
+            },{
+                "threshold": 2050,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_nst/lpn_bdmtee_doorsr"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
