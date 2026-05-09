@@ -1,0 +1,89 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/spider_eye"
+        },
+        "cases": [
+            {
+                "when": "pk_metrotram_21d_driver",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_middle",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_middle"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_end",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_end"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_pantograph",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_pantograph"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_wheels",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_wheels"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_driver_passenger",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver_passenger"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_door",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_door"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_connector",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_connector"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_skirt",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt"
+                }
+            },
+            {
+                "when": "pk_metrotram_21d_skirt_front",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt_front"
+                }
+            },
+            {
+                "when": "pk_ferry_a",
+                "model": {
+                    "type": "model",
+                    "model": "item/boatmodel/transpark/pk_ferry_a"
+                }
+            }
+        ]
+    }
+}

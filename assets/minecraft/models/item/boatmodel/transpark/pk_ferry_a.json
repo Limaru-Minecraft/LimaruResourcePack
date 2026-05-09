@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/parkston/pk_ferry_a",
-		"particle": "block/parkston/pk_ferry_a"
+		"0": "block/transpark/pk_ferry_a",
+		"particle": "block/transpark/pk_ferry_a"
 	},
 	"elements": [
 		{
@@ -4794,6 +4794,11 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "windows gropup",
