@@ -8,80 +8,52 @@
         },
         "cases": [
             {
-                "when": "pk_metrotram_21d_driver",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_middle",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_middle"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_end",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_end"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_pantograph",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_pantograph"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_wheels",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_wheels"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_driver_passenger",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_driver_passenger"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_door",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_door"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_connector",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_connector"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_skirt",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt"
-                }
-            },
-            {
-                "when": "pk_metrotram_21d_skirt_front",
-                "model": {
-                    "type": "model",
-                    "model": "item/trainmodel/parkston/pk_metrotram_21d_skirt_front"
-                }
-            },
-            {
                 "when": "pk_ferry_a",
                 "model": {
                     "type": "model",
                     "model": "item/boatmodel/transpark/pk_ferry_a"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_passengercar",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_passengercar"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_drivercar",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_drivercar"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_accordian",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_accordian"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_bogie",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_bogie"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_pantograph",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_pantograph"
+                }
+            },
+            {
+                "when": "pk_metrotram_c_utility",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_utility"
                 }
             }
         ]
