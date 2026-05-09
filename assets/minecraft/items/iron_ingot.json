@@ -2079,6 +2079,13 @@
                 }
             },
             {
+                "threshold": 99011,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_utility/couplers/scharfenberg_side"
+                }
+            },
+            {
                 "threshold": 99999,
                 "model": {
                     "type": "model",
