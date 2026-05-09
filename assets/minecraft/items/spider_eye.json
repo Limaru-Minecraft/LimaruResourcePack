@@ -55,6 +55,13 @@
                     "type": "model",
                     "model": "item/trainmodel/transpark/pk_metrotram_c_utility"
                 }
+            },
+            {
+                "when": "pk_metrotram_c_door",
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/transpark/pk_metrotram_c_door"
+                }
             }
         ]
     }
