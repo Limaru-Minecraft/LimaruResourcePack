@@ -4794,6 +4794,11 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "windows gropup",
