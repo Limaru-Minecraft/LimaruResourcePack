@@ -1,0 +1,19 @@
+{
+"model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/activator_rail"
+        },
+        "cases": [
+            {
+                "when": "middle",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_middle"
+                }
+            }
+        ]
+    }
+}
