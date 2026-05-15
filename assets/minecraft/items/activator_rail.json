@@ -13,6 +13,27 @@
                     "type": "model",
                     "model": "block/activator_rail_middle"
                 }
+            },
+            {
+                "when": "bricks",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_bricks"
+                }
+            },
+            {
+                "when": "bricksL",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_bricksL"
+                }
+            },
+            {
+                "when": "yellow_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_yellow_concrete"
+                }
             }
         ]
     }
