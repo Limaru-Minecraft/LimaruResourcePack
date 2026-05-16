@@ -34,6 +34,76 @@
                     "type": "model",
                     "model": "block/activator_rail_yellow_concrete"
                 }
+            },
+            {
+                "when": "white_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_white_concrete"
+                }
+            },
+            {
+                "when": "stone_bricks",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_stone_bricks"
+                }
+            },
+            {
+                "when": "red_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_red_concrete"
+                }
+            },
+            {
+                "when": "orange_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_orange_concrete"
+                }
+            },
+            {
+                "when": "blackstone",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_blackstone"
+                }
+            },
+            {
+                "when": "stripped_bamboo_top",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_stripped_bamboo_top"
+                }
+            },
+            {
+                "when": "light_gray_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_light_gray_concrete"
+                }
+            },
+            {
+                "when": "black_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_black_concrete"
+                }
+            },
+            {
+                "when": "gray_concrete",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_gray_concrete"
+                }
+            },
+            {
+                "when": "cyan_terracotta",
+                "model": {
+                    "type": "model",
+                    "model": "block/activator_rail_cyan_terracotta"
+                }
             }
         ]
     }
