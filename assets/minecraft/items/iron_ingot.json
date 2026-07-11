@@ -867,11 +867,19 @@
                     "type": "model",
                     "model": "item/trainmodel/lipan/lili_nst/lpn_bdmtee_doorsl"
                 }
-            },{
+            },
+            {
                 "threshold": 2050,
                 "model": {
                     "type": "model",
                     "model": "item/trainmodel/lipan/lili_nst/lpn_bdmtee_doorsr"
+                }
+            },
+            {
+                "threshold": 2051,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/s-trec/b37/ktb_b37_dm_body"
                 }
             },
             {
