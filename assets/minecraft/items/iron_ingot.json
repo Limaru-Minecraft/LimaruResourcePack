@@ -883,6 +883,13 @@
                 }
             },
             {
+                "threshold": 2052,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_m"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
