@@ -890,6 +890,20 @@
                 }
             },
             {
+                "threshold": 2053,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_dm_trainbow"
+                }
+            },
+            {
+                "threshold": 2054,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/l500/l_500_m_trainbow"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
