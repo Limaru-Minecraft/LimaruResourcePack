@@ -35,7 +35,7 @@
         "threshold": 60000,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/paper"
+          "model": "minecraft:item/papervanilla"
         }
       }
     ],
