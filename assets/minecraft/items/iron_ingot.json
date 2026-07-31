@@ -3723,6 +3723,153 @@
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17r/6707"
                 }
+            },
+            {
+                "threshold": 4401,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_01"
+                }
+            },
+            {
+                "threshold": 4402,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_02"
+                }
+            },
+            {
+                "threshold": 4403,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_03"
+                }
+            },
+            {
+                "threshold": 4404,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_04"
+                }
+            },
+            {
+                "threshold": 4405,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_05"
+                }
+            },
+            {
+                "threshold": 4406,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_06"
+                }
+            },
+            {
+                "threshold": 4407,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_07"
+                }
+            },
+            {
+                "threshold": 4408,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_08"
+                }
+            },
+            {
+                "threshold": 4409,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_09"
+                }
+            },
+            {
+                "threshold": 4410,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_10"
+                }
+            },
+            {
+                "threshold": 4411,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_11"
+                }
+            },
+            {
+                "threshold": 4412,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_12"
+                }
+            },
+            {
+                "threshold": 4413,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_13"
+                }
+            },
+            {
+                "threshold": 4414,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_14"
+                }
+            },
+            {
+                "threshold": 4415,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_15"
+                }
+            },
+            {
+                "threshold": 4416,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_16"
+                }
+            },
+            {
+                "threshold": 4417,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_17"
+                }
+            },
+            {
+                "threshold": 4418,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_18"
+                }
+            },
+            {
+                "threshold": 4499,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_ext_01"
+                }
+            },
+            {
+                "threshold": 4498,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_ext_02"
+                }
+            },
+            {
+                "threshold": 4490,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m04/m04_ext"
+                }
             }
         ]
     }
