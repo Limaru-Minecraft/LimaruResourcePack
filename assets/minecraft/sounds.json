@@ -29,6 +29,16 @@
 			"cablecar/next_sml"
 		]
 	},
+	"city-ambience.city1": {
+		"sounds": [
+			"city-ambience/city1"
+		]
+	},
+	"city-ambience.road_default": {
+		"sounds": [
+			"city-ambience/road_default"
+		]
+	},
 	"entity.player.death": {
 		"sounds": [
 			"entity/player/death"

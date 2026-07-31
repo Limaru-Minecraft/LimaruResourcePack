@@ -30,6 +30,13 @@
           "model": "tce:engines/engine_v8_1",
           "type": "minecraft:model"
         }
+      },
+      {
+        "threshold": 60000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/papervanilla"
+        }
       }
     ],
     "scale": 1,

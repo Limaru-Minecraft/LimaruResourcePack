@@ -62,6 +62,13 @@
                     "type": "model",
                     "model": "item/trainmodel/transpark/pk_metrotram_c_door"
                 }
+            },
+            {
+                "when": "paper",
+                "model": {
+                    "type": "model",
+                    "model": "item/papervanilla"
+                }
             }
         ]
     }
