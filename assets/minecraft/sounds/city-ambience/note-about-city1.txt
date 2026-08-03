@@ -1,0 +1,3 @@
+city1.ogg is the default road ambience used in Parkston, and is equivalent to road_default.ogg. It was named before the sound stations were pasted and so city1.ogg is kept for posterity.
+
+road_default.ogg should be used in future.

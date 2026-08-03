@@ -76,6 +76,13 @@
                     "type": "model",
                     "model": "item/cards/wasabi_ktb"
                 }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "item/cards/bluetap"
+                }
             }
         ]
     }
