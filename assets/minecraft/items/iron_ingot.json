@@ -904,6 +904,13 @@
                 }
             },
             {
+                "threshold": 2055,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_gangway"
+                }
+            },
+            {
                 "threshold": 1125,
                 "model": {
                     "type": "model",
