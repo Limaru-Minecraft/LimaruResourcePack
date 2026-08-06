@@ -260,6 +260,152 @@
                 }
             },
             {
+                "threshold": 1171,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a_lod1f"
+                }
+            },
+            {
+                "threshold": 1172,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a_lod2f"
+                }
+            },
+            {
+                "threshold": 1173,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a_lod3f"
+                }
+            },
+            {
+                "threshold": 1174,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a1_lod1f"
+                }
+            },
+            {
+                "threshold": 1175,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a1_lod2f"
+                }
+            },
+            {
+                "threshold": 1176,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a1_lod3f"
+                }
+            },
+            {
+                "threshold": 1177,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a2_lod1f"
+                }
+            },
+            {
+                "threshold": 1178,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a2_lod2f"
+                }
+            },
+            {
+                "threshold": 1179,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_a/lmrail_ramp_a2_lod3f"
+                }
+            },
+            {
+                "threshold": 1181,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b_lod1f"
+                }
+            },
+            {
+                "threshold": 1182,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b_lod2f"
+                }
+            },
+            {
+                "threshold": 1183,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b_lod3f"
+                }
+            },
+            {
+                "threshold": 1184,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b1_lod1f"
+                }
+            },
+            {
+                "threshold": 1185,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b1_lod2f"
+                }
+            },
+            {
+                "threshold": 1186,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b1_lod3f"
+                }
+            },
+            {
+                "threshold": 1187,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b2_lod1f"
+                }
+            },
+            {
+                "threshold": 1188,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b2_lod2f"
+                }
+            },
+            {
+                "threshold": 1189,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b2_lod3f"
+                }
+            },
+            {
+                "threshold": 1190,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b3_lod1f"
+                }
+            },
+            {
+                "threshold": 1191,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b3_lod2f"
+                }
+            },
+            {
+                "threshold": 1192,
+                "model": {
+                    "type": "model",
+                    "model": "item/rails/rail/lmrail_ramp_b/lmrail_ramp_b3_lod3f"
+                }
+            },            {
                 "threshold": 2000,
                 "model": {
                     "type": "model",
