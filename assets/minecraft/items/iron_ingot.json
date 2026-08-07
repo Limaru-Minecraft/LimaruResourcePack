@@ -2755,63 +2755,63 @@
                 "threshold": 4171,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_01"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_01"
                 }
             },
 	    {
                 "threshold": 4172,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_02"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_02"
                 }
             },
 	    {
                 "threshold": 4173,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_03"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_03"
                 }
             },
 	    {
                 "threshold": 4174,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_04"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_04"
                 }
             },
 	    {
                 "threshold": 4175,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_05"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_05"
                 }
             },
 	    {
                 "threshold": 4176,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_06"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_06"
                 }
             },
 	    {
                 "threshold": 4179,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_ext_01"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_ext_01"
                 }
             },
 	    {
                 "threshold": 4178,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_ext_02"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_ext_02"
                 }
             },
 	    {
                 "threshold": 4170,
                 "model": {
                     "type": "model",
-                    "model": "item/busmodel/kt-bus/hybus/disp/m17b/m17b_ext"
+                    "model": "item/busmodel/kt-bus/autonomous/display/m17b/m17b_ext"
                 }
             },
             {
