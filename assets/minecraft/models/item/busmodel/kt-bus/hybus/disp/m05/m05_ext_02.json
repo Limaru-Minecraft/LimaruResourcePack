@@ -4,8 +4,8 @@
 	"textures": {
 		"3": "block/black_concrete",
 		"4": "block/bus_autonomous/display_interior/m05/ext/m05",
-		"8": "block/bus_autonomous/display_interior/m05/ext/m05_21764",
-		"10": "block/bus_autonomous/display_interior/m05/ext/m05_side_21764",
+		"8": "block/bus_autonomous/display_interior/m05/ext/m05_11764",
+		"10": "block/bus_autonomous/display_interior/m05/ext/m05_side_11764",
 		"particle": "block/black_concrete"
 	},
 	"elements": [
