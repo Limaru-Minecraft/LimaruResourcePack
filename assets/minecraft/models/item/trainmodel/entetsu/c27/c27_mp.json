@@ -6,6 +6,8 @@
 		"0": "block/ent/c27/mp_fukuno_body",
 		"1": "block/ent/c27/window",
 		"2": "block/ent/c27/mp_fukuno_wall",
+		"3": "block/lipan/lili/lili_black_rubber",
+		"4": "block/lipan/lili/lilo_light_metal",
 		"particle": "block/ent/c27/mp_fukuno_body"
 	},
 	"elements": [
@@ -100,6 +102,126 @@
 				"north": {"uv": [4.5, 0.75, 4.8125, 1.46875], "texture": "#0"},
 				"south": {"uv": [3.125, 4.5, 3.4375, 5.21875], "texture": "#0"},
 				"west": {"uv": [1.5, 5.5, 1.5625, 6.21875], "texture": "#0"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [9, -0.25, -5.5],
+			"to": [9.5, 6.5, -3.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [6.5, -0.25, -5.5],
+			"to": [7, 6.5, -3.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 0.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [6.5, 6.5, -5.5],
+			"to": [9.5, 7, -4],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0.75, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [7, 0.625, -5.5],
+			"to": [9, 0.75, -4],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, -5.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [6.5, -0.25, 19.5],
+			"to": [7, 6.5, 21.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 0.25, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [7, 0.625, 20],
+			"to": [9, 0.75, 21.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, -5.5, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#4"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#4"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#4"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#4"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#4"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#4"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [9, -0.25, 19.5],
+			"to": [9.5, 6.5, 21.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0.25, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		},
+		{
+			"name": "gangway",
+			"from": [6.5, 6.5, 20],
+			"to": [9.5, 7, 21.5],
+			"light_emission": 10,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0.75, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
 			}
 		},
 		{
