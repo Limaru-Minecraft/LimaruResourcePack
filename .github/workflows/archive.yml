@@ -34,6 +34,8 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
+        git config pull.rebase true
+        git pull
         
         # Check if there are any changes to commit (i.e. the zip file was updated/created)
         git add LimaruResourcePack.zip
