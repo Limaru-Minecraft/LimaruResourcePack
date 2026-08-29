@@ -1,5 +1,5 @@
 {
-	"format_version": "1.21.11",
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
@@ -851,7 +851,8 @@
 			"name": "bow driver",
 			"from": [3.2, 0, -12],
 			"to": [4, 3.2, -4],
-			"rotation": {"x": -0.43688, "y": -4.98093, "z": 5.019, "origin": [3.2, 3.2, -4]},
+			"rotation": {"angle": -0.43688, "axis": "x", "origin": [3.2, 3.2, -4]},
+			"rotated": [-0.43688, -4.98093, 5.019],
 			"faces": {
 				"north": {"uv": [9.125, 9.125, 9.22656, 9.52344], "texture": "#0"},
 				"east": {"uv": [5.75, 3.5, 6.75, 3.89844], "texture": "#0"},
@@ -991,7 +992,8 @@
 			"name": "bow driver",
 			"from": [12, 0, -12],
 			"to": [12.8, 3.2, -4],
-			"rotation": {"x": -0.43688, "y": 4.98093, "z": -5.019, "origin": [12.8, 3.2, -4]},
+			"rotation": {"angle": -0.43688, "axis": "x", "origin": [12.8, 3.2, -4]},
+			"rotated": [-0.43688, 4.98093, -5.019],
 			"faces": {
 				"north": {"uv": [0.5, 9.25, 0.60156, 9.64844], "texture": "#0"},
 				"east": {"uv": [5.75, 4.5, 6.75, 4.89844], "texture": "#0"},
@@ -1117,7 +1119,8 @@
 			"name": "bow rail",
 			"from": [4, -0.8, -12],
 			"to": [4.5, 0, -4],
-			"rotation": {"x": 5, "y": -2.5, "z": 0, "origin": [4, -0.8, -4]},
+			"rotation": {"angle": 5, "axis": "x", "origin": [4, -0.8, -4]},
+			"rotated": [5, -2.5, 0],
 			"faces": {
 				"north": {"uv": [10.5, 1.875, 10.5625, 1.97656], "texture": "#0"},
 				"east": {"uv": [1.375, 7.25, 2.375, 7.35156], "texture": "#0"},
@@ -1383,7 +1386,8 @@
 			"name": "bow rail",
 			"from": [11.5, -0.8, -12],
 			"to": [12, 0, -4],
-			"rotation": {"x": 5, "y": 2.5, "z": 0, "origin": [11.5, -0.8, -4]},
+			"rotation": {"angle": 5, "axis": "x", "origin": [11.5, -0.8, -4]},
+			"rotated": [5, 2.5, 0],
 			"faces": {
 				"north": {"uv": [2.625, 10.5, 2.6875, 10.60156], "texture": "#0"},
 				"east": {"uv": [7.25, 7.125, 8.25, 7.22656], "texture": "#0"},
@@ -1467,7 +1471,8 @@
 			"name": "bow driver",
 			"from": [4.10444, 4.4, -11.93431],
 			"to": [4.50444, 4.8, -5.93431],
-			"rotation": {"x": -30, "y": -5, "z": 0, "origin": [4.30444, 4.8, -11.93431]},
+			"rotation": {"angle": -30, "axis": "x", "origin": [4.30444, 4.8, -11.93431]},
+			"rotated": [-30, -5, 0],
 			"faces": {
 				"north": {"uv": [5.875, 10.5, 5.92578, 10.55078], "texture": "#0"},
 				"east": {"uv": [9.25, 8.125, 10, 8.17578], "texture": "#0"},
@@ -1481,7 +1486,8 @@
 			"name": "bow driver",
 			"from": [11.50275, 4.4, -11.96956],
 			"to": [11.90275, 4.8, -5.96956],
-			"rotation": {"x": -30, "y": 5, "z": 0, "origin": [12.10275, 4.8, -11.96956]},
+			"rotation": {"angle": -30, "axis": "x", "origin": [12.10275, 4.8, -11.96956]},
+			"rotated": [-30, 5, 0],
 			"faces": {
 				"north": {"uv": [6, 10.5, 6.05078, 10.55078], "texture": "#0"},
 				"east": {"uv": [9.25, 9.125, 10, 9.17578], "texture": "#0"},
@@ -4803,113 +4809,132 @@
 		{
 			"name": "windows gropup",
 			"origin": [3.2, 3.2, -6.9],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [3, 4, 5]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [6, 7, 8]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [9, 10, 11]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [12, 13, 14]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [15, 16, 17]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [18, 19, 20]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [21, 22, 23]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [24, 25, 26]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [27, 28, 29]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [30, 31, 32]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [33, 34, 35]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [36, 37, 38]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [39, 40, 41]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [42, 43, 44]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [45, 46, 47]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [48, 49, 50]
 				},
 				{
 					"name": "window",
 					"origin": [3.2, 3.2, -6.9],
+					"scope": 0,
 					"color": 0,
 					"children": [51, 52, 53]
 				}
@@ -4918,6 +4943,7 @@
 		{
 			"name": "rudder",
 			"origin": [0, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				54,
@@ -4986,11 +5012,13 @@
 		{
 			"name": "chairs group",
 			"origin": [0, -0.68, -0.2],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "chair",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						115,
@@ -4999,6 +5027,7 @@
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [118, 119, 120]
 						}
@@ -5007,29 +5036,34 @@
 				{
 					"name": "row of chairs",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [121, 122, 123]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [124, 125, 126]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [127, 128, 129]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [130, 131, 132]
 						}
@@ -5038,29 +5072,34 @@
 				{
 					"name": "row of chairs",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [133, 134, 135]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [136, 137, 138]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [139, 140, 141]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [142, 143, 144]
 						}
@@ -5069,28 +5108,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [145, 146, 147]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [148, 149, 150]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [151, 152, 153]
 								}
@@ -5099,23 +5143,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [154, 155, 156]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [157, 158, 159]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [160, 161, 162]
 								}
@@ -5126,28 +5174,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [163, 164, 165]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [166, 167, 168]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [169, 170, 171]
 								}
@@ -5156,23 +5209,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [172, 173, 174]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [175, 176, 177]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [178, 179, 180]
 								}
@@ -5183,28 +5240,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [181, 182, 183]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [184, 185, 186]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [187, 188, 189]
 								}
@@ -5213,23 +5275,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [190, 191, 192]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [193, 194, 195]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [196, 197, 198]
 								}
@@ -5240,28 +5306,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [199, 200, 201]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [202, 203, 204]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [205, 206, 207]
 								}
@@ -5270,23 +5341,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [208, 209, 210]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [211, 212, 213]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [214, 215, 216]
 								}
@@ -5297,28 +5372,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [217, 218, 219]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [220, 221, 222]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [223, 224, 225]
 								}
@@ -5327,23 +5407,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [226, 227, 228]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [229, 230, 231]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [232, 233, 234]
 								}
@@ -5354,28 +5438,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [235, 236, 237]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [238, 239, 240]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [241, 242, 243]
 								}
@@ -5384,23 +5473,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [244, 245, 246]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [247, 248, 249]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [250, 251, 252]
 								}
@@ -5411,28 +5504,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [253, 254, 255]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [256, 257, 258]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [259, 260, 261]
 								}
@@ -5441,23 +5539,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [262, 263, 264]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [265, 266, 267]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [268, 269, 270]
 								}
@@ -5468,28 +5570,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [271, 272, 273]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [274, 275, 276]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [277, 278, 279]
 								}
@@ -5498,23 +5605,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [280, 281, 282]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [283, 284, 285]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [286, 287, 288]
 								}
@@ -5525,28 +5636,33 @@
 				{
 					"name": "full row",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [289, 290, 291]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [292, 293, 294]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [295, 296, 297]
 								}
@@ -5555,23 +5671,27 @@
 						{
 							"name": "row of chairs short",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [298, 299, 300]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [301, 302, 303]
 								},
 								{
 									"name": "chair",
 									"origin": [0, -0.68, -0.2],
+									"scope": 0,
 									"color": 0,
 									"children": [304, 305, 306]
 								}
@@ -5582,23 +5702,27 @@
 				{
 					"name": "row of chairs short",
 					"origin": [0, -0.68, -0.2],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [307, 308, 309]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [310, 311, 312]
 						},
 						{
 							"name": "chair",
 							"origin": [0, -0.68, -0.2],
+							"scope": 0,
 							"color": 0,
 							"children": [313, 314, 315]
 						}
