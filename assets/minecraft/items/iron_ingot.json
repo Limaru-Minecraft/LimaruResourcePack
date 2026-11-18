@@ -907,7 +907,14 @@
                 "threshold": 2055,
                 "model": {
                     "type": "model",
-                    "model": "item/trainmodel/lipan/lili_mole/lili_mole_gangway"
+                    "model": "item/trainmodel/lipan/lili_wagons/u/lili_uacns/lili_uacns_body_ccco"
+                }
+            },
+            {
+                "threshold": 2056,
+                "model": {
+                    "type": "model",
+                    "model": "item/trainmodel/lipan/lili_wagons/u/lili_uacns/lili_uacns_body_ccco"
                 }
             },
             {

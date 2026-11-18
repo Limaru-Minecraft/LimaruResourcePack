@@ -83,6 +83,13 @@
                     "type": "model",
                     "model": "item/cards/bluetap"
                 }
+            },
+            {
+                "threshold": 1012,
+                "model": {
+                    "type": "model",
+                    "model": "item/cards/limapay"
+                }
             }
         ]
     }
