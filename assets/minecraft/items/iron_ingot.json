@@ -2758,63 +2758,63 @@
                     "model": "item/boatmodel/ktb/hyboat/full/4817"
                 }
             },
-	    {
+            {
                 "threshold": 4171,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_01"
                 }
             },
-	    {
+            {
                 "threshold": 4172,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_02"
                 }
             },
-	    {
+            {
                 "threshold": 4173,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_03"
                 }
             },
-	    {
+            {
                 "threshold": 4174,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_04"
                 }
             },
-	    {
+            {
                 "threshold": 4175,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_05"
                 }
             },
-	    {
+            {
                 "threshold": 4176,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_06"
                 }
             },
-	    {
+            {
                 "threshold": 4179,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_ext_01"
                 }
             },
-	    {
+            {
                 "threshold": 4178,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_ext_02"
                 }
             },
-	    {
+            {
                 "threshold": 4170,
                 "model": {
                     "type": "model",
@@ -3442,6 +3442,111 @@
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17r/6707"
+                }
+            },
+            {
+                "threshold": 4301,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_01"
+                }
+            },
+            {
+                "threshold": 4302,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_02"
+                }
+            },
+            {
+                "threshold": 4303,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_03"
+                }
+            },
+            {
+                "threshold": 4304,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_04"
+                }
+            },
+            {
+                "threshold": 4305,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_05"
+                }
+            },
+            {
+                "threshold": 4306,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_06"
+                }
+            },
+            {
+                "threshold": 4307,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_07"
+                }
+            },
+            {
+                "threshold": 4308,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_08"
+                }
+            },
+            {
+                "threshold": 4309,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_09"
+                }
+            },
+            {
+                "threshold": 4310,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_10"
+                }
+            },
+            {
+                "threshold": 4311,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_11"
+                }
+            },
+            {
+                "threshold": 4312,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_12"
+                }
+            },
+            {
+                "threshold": 4390,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext"
+                }
+            },
+            {
+                "threshold": 4398,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext_01"
+                }
+            },
+            {
+                "threshold": 4399,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext_02"
                 }
             },
             {
