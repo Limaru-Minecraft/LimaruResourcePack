@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/black_concrete",
-		"4": "block/bus_autonomous/display_interior/94e/ext/94e",
+		"4": "block/bus_autonomous/display_interior/94e/ext/94e_back",
 		"particle": "block/black_concrete"
 	},
 	"elements": [
