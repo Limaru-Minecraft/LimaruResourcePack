@@ -3011,6 +3011,20 @@
                 }
             },
             {
+                "threshold": 9410,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_10"
+                }
+            },
+            {
+                "threshold": 9411,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_11"
+                }
+            },
+            {
                 "threshold": 9490,
                 "model": {
                     "type": "model",
