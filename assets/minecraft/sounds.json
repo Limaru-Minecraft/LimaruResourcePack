@@ -9,6 +9,46 @@
 			"alarm/lab_alarm"
 		]
 	},
+	"bus.94e.17264": {
+		"sounds": [
+			"bus/94e/17264"
+		]
+	},
+	"bus.94e.25461": {
+		"sounds": [
+			"bus/94e/25461"
+		]
+	},
+	"bus.94e.27262": {
+		"sounds": [
+			"bus/94e/27262"
+		]
+	},
+	"bus.94e.27264": {
+		"sounds": [
+			"bus/94e/27264"
+		]
+	},
+	"bus.94e.34861": {
+		"sounds": [
+			"bus/94e/34861"
+		]
+	},
+	"bus.94e.37266": {
+		"sounds": [
+			"bus/94e/37266"
+		]
+	},
+	"bus.94e.94651": {
+		"sounds": [
+			"bus/94e/94651"
+		]
+	},
+	"bus.94e.entering_expressway": {
+		"sounds": [
+			"bus/94e/entering_expressway"
+		]
+	},
 	"cablecar.arr_mountain": {
 		"sounds": [
 			"cablecar/arr_mountain"
@@ -104,6 +144,41 @@
 			"train/motion_out"
 		]
 	},
+	"train.unused_0": {
+		"sounds": [
+			"train/unused_0"
+		]
+	},
+	"train.unused_1": {
+		"sounds": [
+			"train/unused_1"
+		]
+	},
+	"train.unused_2": {
+		"sounds": [
+			"train/unused_2"
+		]
+	},
+	"train.unused_3": {
+		"sounds": [
+			"train/unused_3"
+		]
+	},
+	"train.entetsu.c13_accel": {
+		"sounds": [
+			"train/entetsu/c13_accel"
+		]
+	},
+	"train.entetsu.c13_accel_out": {
+		"sounds": [
+			"train/entetsu/c13_accel_out"
+		]
+	},
+	"train.entetsu.c13_doorclosing": {
+		"sounds": [
+			"train/entetsu/c13_doorclosing"
+		]
+	},
 	"train.entetsu.doorclose": {
 		"sounds": [
 			"train/entetsu/doorclose"
@@ -114,21 +189,6 @@
 			"train/entetsu/doorclosing"
 		]
 	},
-"train.entetsu.c13_doorclosing": {
-		"sounds": [
-			"train/entetsu/c13_doorclosing"
-		]
-	},
-	"train.entetsu.c13_accel": {
-			"sounds": [
-				"train/entetsu/c13_accel"
-			]
-		},
-"train.entetsu.c13_accel_out": {
-			"sounds": [
-				"train/entetsu/c13_accel_out"
-			]
-		},
 	"train.entetsu.dooropen": {
 		"sounds": [
 			"train/entetsu/dooropen"
@@ -152,61 +212,6 @@
 	"train.entetsu.namboku.doors_closing": {
 		"sounds": [
 			"train/entetsu/namboku/doors_closing"
-		]
-	},
-	"train.entetsu.namboku.next": {
-		"sounds": [
-			"train/entetsu/namboku/next"
-		]
-	},
-	"train.entetsu.namboku.stn_downtown": {
-		"sounds": [
-			"train/entetsu/namboku/stn_downtown"
-		]
-	},
-	"train.entetsu.namboku.stn_emmarucentral": {
-		"sounds": [
-			"train/entetsu/namboku/stn_emmarucentral"
-		]
-	},
-	"train.entetsu.namboku.stn_kaname": {
-		"sounds": [
-			"train/entetsu/namboku/stn_kaname"
-		]
-	},
-	"train.entetsu.namboku.stn_karasuma": {
-		"sounds": [
-			"train/entetsu/namboku/stn_karasuma"
-		]
-	},
-	"train.entetsu.namboku.stn_kasuga": {
-		"sounds": [
-			"train/entetsu/namboku/stn_kasuga"
-		]
-	},
-	"train.entetsu.namboku.stn_minamiwest": {
-		"sounds": [
-			"train/entetsu/namboku/stn_minamiwest"
-		]
-	},
-	"train.entetsu.namboku.stn_nihombashi": {
-		"sounds": [
-			"train/entetsu/namboku/stn_nihombashi"
-		]
-	},
-	"train.entetsu.namboku.stn_niozawaichiba": {
-		"sounds": [
-			"train/entetsu/namboku/stn_niozawaichiba"
-		]
-	},
-	"train.entetsu.namboku.stn_niozawawest": {
-		"sounds": [
-			"train/entetsu/namboku/stn_niozawawest"
-		]
-	},
-	"train.entetsu.namboku.stn_yachiyo": {
-		"sounds": [
-			"train/entetsu/namboku/stn_yachiyo"
 		]
 	},
 	"train.entetsu.namboku.up_stand_back_train_approach": {
