@@ -4038,6 +4038,13 @@
                     "type": "model",
                     "model": "item/busmodel/teddy_bus/disp_ext_sde"
                 }
+            },
+            {
+                "threshold": 5021,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/gangway_extender"
+                }
             }
         ]
     }
