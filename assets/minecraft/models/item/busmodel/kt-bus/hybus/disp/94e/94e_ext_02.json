@@ -3,7 +3,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/black_concrete",
-		"4": "block/bus_autonomous/display_interior/94e/ext/94e_back",
 		"8": "block/bus_autonomous/display_interior/94e/ext/94e_front2",
 		"10": "block/bus_autonomous/display_interior/94e/ext/94e_side2",
 		"particle": "block/black_concrete"
@@ -160,83 +159,6 @@
 						0,
 						9.5,
 						16
-					],
-					"texture": "#3"
-				}
-			}
-		},
-		{
-			"from": [
-				3.25,
-				19.25,
-				30.76
-			],
-			"to": [
-				12.75,
-				21.25,
-				31.06
-			],
-			"rotation": {
-				"angle": 0,
-				"axis": "y",
-				"origin": [
-					0,
-					17,
-					23.3
-				]
-			},
-			"faces": {
-				"north": {
-					"uv": [
-						9.5,
-						0,
-						0,
-						0.75
-					],
-					"texture": "#3"
-				},
-				"east": {
-					"uv": [
-						16,
-						0,
-						0,
-						0.75
-					],
-					"texture": "#3"
-				},
-				"south": {
-					"uv": [
-						0,
-						0,
-						16,
-						16
-					],
-					"texture": "#4"
-				},
-				"west": {
-					"uv": [
-						16,
-						0,
-						0,
-						0.75
-					],
-					"texture": "#3"
-				},
-				"up": {
-					"uv": [
-						0,
-						16,
-						9.5,
-						0
-					],
-					"texture": "#3"
-				},
-				"down": {
-					"uv": [
-						0,
-						16,
-						9.5,
-						0
 					],
 					"texture": "#3"
 				}
