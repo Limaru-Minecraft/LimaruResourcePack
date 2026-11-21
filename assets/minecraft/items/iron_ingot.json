@@ -3977,10 +3977,66 @@
                 }
             },
             {
-                "threshold": 5002,
+                "threshold": 5012,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/teddy_bus/body_b"
+                }
+            },
+            {
+                "threshold": 5013,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_c1"
+                }
+            },
+            {
+                "threshold": 5014,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_c2"
+                }
+            },
+            {
+                "threshold": 5015,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_d"
+                }
+            },
+            {
+                "threshold": 5016,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_e"
+                }
+            },
+            {
+                "threshold": 5017,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_f"
+                }
+            },
+            {
+                "threshold": 5018,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_int"
+                }
+            },
+            {
+                "threshold": 5019,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_ext"
+                }
+            },
+            {
+                "threshold": 5020,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_ext_sde"
                 }
             }
         ]
