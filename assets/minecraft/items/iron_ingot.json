@@ -3961,6 +3961,27 @@
                     "type": "model",
                     "model": "item/busmodel/ez_bus/m03g"
                 }
+            },
+            {
+                "threshold": 5010,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_f"
+                }
+            },
+            {
+                "threshold": 5011,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_g"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_b"
+                }
             }
         ]
     }
