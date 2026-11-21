@@ -3898,6 +3898,69 @@
                     "type": "model",
                     "model": "item/busmodel/kt-bus/hybus/disp/m07c/m07c_ext"
                 }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/body"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/door"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m02b"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m02g"
+                }
+            },
+            {
+                "threshold": 5005,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m05c"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m06"
+                }
+            },
+            {
+                "threshold": 5007,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m06c"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m04"
+                }
+            },
+            {
+                "threshold": 5009,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m03g"
+                }
             }
         ]
     }
