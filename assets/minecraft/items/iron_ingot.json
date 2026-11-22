@@ -2927,6 +2927,20 @@
                 }
             },
             {
+                "threshold": 4516,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/m05/m05_16"
+                }
+            },
+            {
+                "threshold": 4517,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/m05/m05_17"
+                }
+            },
+            {
                 "threshold": 4599,
                 "model": {
                     "type": "model",
