@@ -31,6 +31,7 @@
 		"29": "block/bus_autonomous/ev",
 		"32": "block/bus_autonomous/coin_only",
 		"33": "block/bus_autonomous/red_ticket",
+		"34": "block/bus_autonomous/give_way",
 		"46": "block/bus_autonomous/display_interior/manual/423e_side",
 		"47": "block/bus_autonomous/display_interior/manual/423e",
 		"48": "block/bus_autonomous/display_interior/manual/423e_front",
@@ -7543,6 +7544,19 @@
 				"up": {"uv": [9.5, 16, 0, 0], "texture": "#0"},
 				"down": {"uv": [9.5, 16, 0, 0], "texture": "#0"}
 			}
+		},
+		{
+			"from": [10.5, 9.5, 31.01],
+			"to": [15.5, 14.5, 31.06],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8.5, 23.3]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#34"},
+				"west": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"up": {"uv": [0, 16, 9.5, 0], "texture": "#1"},
+				"down": {"uv": [0, 16, 9.5, 0], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -8123,6 +8137,7 @@
 		575,
 		576,
 		577,
-		578
+		578,
+		579
 	]
 }

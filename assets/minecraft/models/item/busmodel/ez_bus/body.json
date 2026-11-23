@@ -25,6 +25,7 @@
 		"28": "block/enb/bus_floor",
 		"29": "block/bus_autonomous/display_interior/m01/m01_iciwi",
 		"30": "block/bus_autonomous/ev",
+		"31": "block/bus_autonomous/give_way",
 		"43": "block/cyan_concrete",
 		"particle": "block/coal_block"
 	},
@@ -2896,6 +2897,19 @@
 				"up": {"uv": [0, 0, 9.5, 4], "texture": "#0"},
 				"down": {"uv": [0, 0, 9.5, 16], "texture": "#1"}
 			}
+		},
+		{
+			"from": [11.375, 8.75, 20.95],
+			"to": [14.375, 11.75, 21.001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.875, 7.75, 13.24]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 0.75], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#31"},
+				"west": {"uv": [16, 0, 0, 0.75], "texture": "#3"},
+				"up": {"uv": [0, 16, 9.5, 0], "texture": "#3"},
+				"down": {"uv": [0, 16, 9.5, 0], "texture": "#3"}
+			}
 		}
 	],
 	"display": {
@@ -3151,6 +3165,7 @@
 		217,
 		218,
 		219,
-		220
+		220,
+		221
 	]
 }

@@ -34,6 +34,7 @@
 		"37": "block/bus_autonomous/display_interior/manual/m5t",
 		"38": "block/bus_autonomous/display_interior/manual/m5t_front",
 		"39": "block/bus_autonomous/display_interior/manual/m5t_side",
+		"40": "block/bus_autonomous/give_way",
 		"43": "block/bus_autonomous/edc_smartcard",
 		"44": "block/bus_autonomous/edc_top_2205",
 		"45": "block/bus_autonomous/contactless",
@@ -6532,6 +6533,19 @@
 				"up": {"uv": [9.5, 16, 0, 0], "texture": "#0"},
 				"down": {"uv": [9.5, 16, 0, 0], "texture": "#0"}
 			}
+		},
+		{
+			"from": [10.5, 9.5, 31.01],
+			"to": [15.5, 14.5, 31.06],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8.5, 23.3]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#40"},
+				"west": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"up": {"uv": [0, 16, 9.5, 0], "texture": "#1"},
+				"down": {"uv": [0, 16, 9.5, 0], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -7030,6 +7044,7 @@
 		497,
 		498,
 		499,
-		500
+		500,
+		501
 	]
 }
