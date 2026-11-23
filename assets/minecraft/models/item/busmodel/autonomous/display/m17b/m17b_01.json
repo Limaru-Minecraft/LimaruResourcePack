@@ -2,8 +2,6 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"7": "block/cyan_concrete",
-		"8": "block/bus_autonomous/display_interior/m17b/m17b_iciwi",
 		"9": "block/bus_autonomous/display_interior/m17b/m17b_92355",
 		"17": "block/gray_concrete",
 		"particle": "block/coal_block"
@@ -33,19 +31,6 @@
 				"west": {"uv": [0, 0, 16, 0.75], "texture": "#17"},
 				"up": {"uv": [0, 0, 9.5, 16], "texture": "#17"},
 				"down": {"uv": [0, 0, 9.5, 16], "texture": "#17"}
-			}
-		},
-		{
-			"from": [4.85, 9.1, 2.51],
-			"to": [6.4, 10.35, 3.01],
-			"rotation": {"angle": 0, "axis": "y", "origin": [11.25, 1.85, -2]},
-			"faces": {
-				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#7"},
-				"east": {"uv": [16, 0, 0, 0.75], "texture": "#7"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#8"},
-				"west": {"uv": [16, 0, 0, 0.75], "texture": "#7"},
-				"up": {"uv": [9.5, 0, 0, 16], "texture": "#7"},
-				"down": {"uv": [9.5, 0, 0, 16], "texture": "#7"}
 			}
 		}
 	],
