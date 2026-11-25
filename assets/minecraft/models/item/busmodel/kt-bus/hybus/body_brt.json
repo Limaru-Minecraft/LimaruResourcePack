@@ -28,6 +28,7 @@
 		"27": "block/bus_autonomous/tesla",
 		"28": "block/bus_autonomous/hyd",
 		"29": "block/bus_autonomous/ev",
+		"30": "block/bus_autonomous/give_way",
 		"32": "block/bus_autonomous/coin_only",
 		"33": "block/bus_autonomous/red_ticket",
 		"38": "block/lime_concrete",
@@ -5928,6 +5929,19 @@
 				"west": {"uv": [0, 0, 16, 0.75], "texture": "#0"},
 				"up": {"uv": [9.5, 16, 0, 0], "texture": "#0"},
 				"down": {"uv": [9.5, 16, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.5, 9.5, 31.01],
+			"to": [15.5, 14.5, 31.06],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8.5, 23.3]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 0, 0.75], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#30"},
+				"west": {"uv": [16, 0, 0, 0.75], "texture": "#1"},
+				"up": {"uv": [0, 16, 9.5, 0], "texture": "#1"},
+				"down": {"uv": [0, 16, 9.5, 0], "texture": "#1"}
 			}
 		}
 	],

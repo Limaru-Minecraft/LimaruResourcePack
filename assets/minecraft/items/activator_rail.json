@@ -22,13 +22,6 @@
                 }
             },
             {
-                "when": "bricksL",
-                "model": {
-                    "type": "model",
-                    "model": "block/activator_rail_bricksL"
-                }
-            },
-            {
                 "when": "yellow_concrete",
                 "model": {
                     "type": "model",

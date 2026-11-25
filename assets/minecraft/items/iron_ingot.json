@@ -2758,63 +2758,63 @@
                     "model": "item/boatmodel/ktb/hyboat/full/4817"
                 }
             },
-	    {
+            {
                 "threshold": 4171,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_01"
                 }
             },
-	    {
+            {
                 "threshold": 4172,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_02"
                 }
             },
-	    {
+            {
                 "threshold": 4173,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_03"
                 }
             },
-	    {
+            {
                 "threshold": 4174,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_04"
                 }
             },
-	    {
+            {
                 "threshold": 4175,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_05"
                 }
             },
-	    {
+            {
                 "threshold": 4176,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_06"
                 }
             },
-	    {
+            {
                 "threshold": 4179,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_ext_01"
                 }
             },
-	    {
+            {
                 "threshold": 4178,
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/autonomous/display/m17b/m17b_ext_02"
                 }
             },
-	    {
+            {
                 "threshold": 4170,
                 "model": {
                     "type": "model",
@@ -2927,6 +2927,20 @@
                 }
             },
             {
+                "threshold": 4516,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/m05/m05_16"
+                }
+            },
+            {
+                "threshold": 4517,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/m05/m05_17"
+                }
+            },
+            {
                 "threshold": 4599,
                 "model": {
                     "type": "model",
@@ -2945,6 +2959,104 @@
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/kt-bus/hybus/disp/m05/m05_ext"
+                }
+            },
+            {
+                "threshold": 9401,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_01"
+                }
+            },
+            {
+                "threshold": 9402,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_02"
+                }
+            },
+            {
+                "threshold": 9403,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_03"
+                }
+            },
+            {
+                "threshold": 9404,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_04"
+                }
+            },
+            {
+                "threshold": 9405,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_05"
+                }
+            },
+            {
+                "threshold": 9406,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_06"
+                }
+            },
+            {
+                "threshold": 9407,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_07"
+                }
+            },
+            {
+                "threshold": 9408,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_08"
+                }
+            },
+            {
+                "threshold": 9409,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_09"
+                }
+            },
+            {
+                "threshold": 9410,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_10"
+                }
+            },
+            {
+                "threshold": 9411,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_11"
+                }
+            },
+            {
+                "threshold": 9490,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_ext"
+                }
+            },
+            {
+                "threshold": 9498,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_ext_02"
+                }
+            },
+            {
+                "threshold": 9499,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/94e/94e_ext_01"
                 }
             },
             {
@@ -3445,6 +3557,111 @@
                 }
             },
             {
+                "threshold": 4301,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_01"
+                }
+            },
+            {
+                "threshold": 4302,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_02"
+                }
+            },
+            {
+                "threshold": 4303,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_03"
+                }
+            },
+            {
+                "threshold": 4304,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_04"
+                }
+            },
+            {
+                "threshold": 4305,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_05"
+                }
+            },
+            {
+                "threshold": 4306,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_06"
+                }
+            },
+            {
+                "threshold": 4307,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_07"
+                }
+            },
+            {
+                "threshold": 4308,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_08"
+                }
+            },
+            {
+                "threshold": 4309,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_09"
+                }
+            },
+            {
+                "threshold": 4310,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_10"
+                }
+            },
+            {
+                "threshold": 4311,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_11"
+                }
+            },
+            {
+                "threshold": 4312,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_12"
+                }
+            },
+            {
+                "threshold": 4390,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext"
+                }
+            },
+            {
+                "threshold": 4398,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext_02"
+                }
+            },
+            {
+                "threshold": 4399,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/autonomous/display/m03g/m03g_ext_01"
+                }
+            },
+            {
                 "threshold": 4401,
                 "model": {
                     "type": "model",
@@ -3785,6 +4002,153 @@
                 "model": {
                     "type": "model",
                     "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_4r"
+                }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/body"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/door"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m02b"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m02g"
+                }
+            },
+            {
+                "threshold": 5005,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m05c"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m06"
+                }
+            },
+            {
+                "threshold": 5007,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m06c"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m04"
+                }
+            },
+            {
+                "threshold": 5009,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/ez_bus/m03g"
+                }
+            },
+            {
+                "threshold": 5010,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_f"
+                }
+            },
+            {
+                "threshold": 5011,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_g"
+                }
+            },
+            {
+                "threshold": 5012,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/body_b"
+                }
+            },
+            {
+                "threshold": 5013,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_c1"
+                }
+            },
+            {
+                "threshold": 5014,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_c2"
+                }
+            },
+            {
+                "threshold": 5015,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_d"
+                }
+            },
+            {
+                "threshold": 5016,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_e"
+                }
+            },
+            {
+                "threshold": 5017,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/door_f"
+                }
+            },
+            {
+                "threshold": 5018,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_int"
+                }
+            },
+            {
+                "threshold": 5019,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_ext"
+                }
+            },
+            {
+                "threshold": 5020,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/disp_ext_sde"
+                }
+            },
+            {
+                "threshold": 5021,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/teddy_bus/gangway_extender"
                 }
             }
         ]

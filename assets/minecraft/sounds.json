@@ -9,6 +9,46 @@
 			"alarm/lab_alarm"
 		]
 	},
+	"bus.bus_94e.b17264": {
+		"sounds": [
+			"bus/bus_94e/b17264"
+		]
+	},
+	"bus.bus_94e.b25461": {
+		"sounds": [
+			"bus/bus_94e/b25461"
+		]
+	},
+	"bus.bus_94e.b27262": {
+		"sounds": [
+			"bus/bus_94e/b27262"
+		]
+	},
+	"bus.bus_94e.b27264": {
+		"sounds": [
+			"bus/bus_94e/b27264"
+		]
+	},
+	"bus.bus_94e.b34861": {
+		"sounds": [
+			"bus/bus_94e/b34861"
+		]
+	},
+	"bus.bus_94e.b37266": {
+		"sounds": [
+			"bus/bus_94e/b37266"
+		]
+	},
+	"bus.bus_94e.b94651": {
+		"sounds": [
+			"bus/bus_94e/b94651"
+		]
+	},
+	"bus.bus_94e.entering_expressway": {
+		"sounds": [
+			"bus/bus_94e/entering_expressway"
+		]
+	},
 	"cablecar.arr_mountain": {
 		"sounds": [
 			"cablecar/arr_mountain"
@@ -29,14 +69,14 @@
 			"cablecar/next_sml"
 		]
 	},
-	"city-ambience.city1": {
+	"city_ambience.city1": {
 		"sounds": [
-			"city-ambience/city1"
+			"city_ambience/city1"
 		]
 	},
-	"city-ambience.road_default": {
+	"city_ambience.road_default": {
 		"sounds": [
-			"city-ambience/road_default"
+			"city_ambience/road_default"
 		]
 	},
 	"entity.player.death": {
@@ -104,6 +144,41 @@
 			"train/motion_out"
 		]
 	},
+	"train.unused_0": {
+		"sounds": [
+			"train/unused_0"
+		]
+	},
+	"train.unused_1": {
+		"sounds": [
+			"train/unused_1"
+		]
+	},
+	"train.unused_2": {
+		"sounds": [
+			"train/unused_2"
+		]
+	},
+	"train.unused_3": {
+		"sounds": [
+			"train/unused_3"
+		]
+	},
+	"train.entetsu.c13_accel": {
+		"sounds": [
+			"train/entetsu/c13_accel"
+		]
+	},
+	"train.entetsu.c13_accel_out": {
+		"sounds": [
+			"train/entetsu/c13_accel_out"
+		]
+	},
+	"train.entetsu.c13_doorclosing": {
+		"sounds": [
+			"train/entetsu/c13_doorclosing"
+		]
+	},
 	"train.entetsu.doorclose": {
 		"sounds": [
 			"train/entetsu/doorclose"
@@ -114,16 +189,6 @@
 			"train/entetsu/doorclosing"
 		]
 	},
-"train.entetsu.c13_doorclosing": {
-		"sounds": [
-			"train/entetsu/c13_doorclosing"
-		]
-	},
-	"train.entetsu.c13_accel": {
-			"sounds": [
-				"train/entetsu/c13_accel"
-			]
-		},
 	"train.entetsu.dooropen": {
 		"sounds": [
 			"train/entetsu/dooropen"
@@ -147,61 +212,6 @@
 	"train.entetsu.namboku.doors_closing": {
 		"sounds": [
 			"train/entetsu/namboku/doors_closing"
-		]
-	},
-	"train.entetsu.namboku.next": {
-		"sounds": [
-			"train/entetsu/namboku/next"
-		]
-	},
-	"train.entetsu.namboku.stn_downtown": {
-		"sounds": [
-			"train/entetsu/namboku/stn_downtown"
-		]
-	},
-	"train.entetsu.namboku.stn_emmarucentral": {
-		"sounds": [
-			"train/entetsu/namboku/stn_emmarucentral"
-		]
-	},
-	"train.entetsu.namboku.stn_kaname": {
-		"sounds": [
-			"train/entetsu/namboku/stn_kaname"
-		]
-	},
-	"train.entetsu.namboku.stn_karasuma": {
-		"sounds": [
-			"train/entetsu/namboku/stn_karasuma"
-		]
-	},
-	"train.entetsu.namboku.stn_kasuga": {
-		"sounds": [
-			"train/entetsu/namboku/stn_kasuga"
-		]
-	},
-	"train.entetsu.namboku.stn_minamiwest": {
-		"sounds": [
-			"train/entetsu/namboku/stn_minamiwest"
-		]
-	},
-	"train.entetsu.namboku.stn_nihombashi": {
-		"sounds": [
-			"train/entetsu/namboku/stn_nihombashi"
-		]
-	},
-	"train.entetsu.namboku.stn_niozawaichiba": {
-		"sounds": [
-			"train/entetsu/namboku/stn_niozawaichiba"
-		]
-	},
-	"train.entetsu.namboku.stn_niozawawest": {
-		"sounds": [
-			"train/entetsu/namboku/stn_niozawawest"
-		]
-	},
-	"train.entetsu.namboku.stn_yachiyo": {
-		"sounds": [
-			"train/entetsu/namboku/stn_yachiyo"
 		]
 	},
 	"train.entetsu.namboku.up_stand_back_train_approach": {
@@ -239,9 +249,9 @@
 			"train/ycm/aftermath"
 		]
 	},
-	"train.ycm.Chiaki": {
+	"train.ycm.chiaki": {
 		"sounds": [
-			"train/ycm/Chiaki"
+			"train/ycm/chiaki"
 		]
 	},
 	"train.ycm.chime": {
@@ -279,29 +289,29 @@
 			"train/ycm/gota_del_vient"
 		]
 	},
-	"train.ycm.Inoriye_1": {
+	"train.ycm.inoriye_1": {
 		"sounds": [
-			"train/ycm/Inoriye_1"
+			"train/ycm/inoriye_1"
 		]
 	},
-	"train.ycm.Inoriye_2": {
+	"train.ycm.inoriye_2": {
 		"sounds": [
-			"train/ycm/Inoriye_2"
+			"train/ycm/inoriye_2"
 		]
 	},
-	"train.ycm.Island_Tip": {
+	"train.ycm.island_tip": {
 		"sounds": [
-			"train/ycm/Island_Tip"
+			"train/ycm/island_tip"
 		]
 	},
-	"train.ycm.Lakeside": {
+	"train.ycm.lakeside": {
 		"sounds": [
-			"train/ycm/Lakeside"
+			"train/ycm/lakeside"
 		]
 	},
-	"train.ycm.Mount_Lipan": {
+	"train.ycm.mount_lipan": {
 		"sounds": [
-			"train/ycm/Mount_Lipan"
+			"train/ycm/mount_lipan"
 		]
 	},
 	"train.ycm.osaka_tune": {
@@ -314,24 +324,24 @@
 			"train/ycm/sea_green"
 		]
 	},
-	"train.ycm.Solutional_Park_1": {
+	"train.ycm.solutional_park_1": {
 		"sounds": [
-			"train/ycm/Solutional_Park_1"
+			"train/ycm/solutional_park_1"
 		]
 	},
-	"train.ycm.Solutional_Park_2": {
+	"train.ycm.solutional_park_2": {
 		"sounds": [
-			"train/ycm/Solutional_Park_2"
+			"train/ycm/solutional_park_2"
 		]
 	},
-	"train.ycm.Solutional_Park_3": {
+	"train.ycm.solutional_park_3": {
 		"sounds": [
-			"train/ycm/Solutional_Park_3"
+			"train/ycm/solutional_park_3"
 		]
 	},
-	"train.ycm.Solutional_Park_4": {
+	"train.ycm.solutional_park_4": {
 		"sounds": [
-			"train/ycm/Solutional_Park_4"
+			"train/ycm/solutional_park_4"
 		]
 	},
 	"train.ycm.spring_breeze": {
