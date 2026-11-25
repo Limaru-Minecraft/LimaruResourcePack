@@ -3942,6 +3942,97 @@
                 }
             },
             {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni"
+                }
+            },
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_noodle"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_noodle_brt"
+                }
+            },
+            {
+                "threshold": 3003,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_steering"
+                }
+            },
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_drive"
+                }
+            },
+            {
+                "threshold": 3005,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_1l"
+                }
+            },
+            {
+                "threshold": 3006,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_1r"
+                }
+            },
+            {
+                "threshold": 3007,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_2l"
+                }
+            },
+            {
+                "threshold": 3008,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_2r"
+                }
+            },
+            {
+                "threshold": 3009,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_3l"
+                }
+            },
+            {
+                "threshold": 3010,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_3r"
+                }
+            },
+            {
+                "threshold": 3011,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_4l"
+                }
+            },
+            {
+                "threshold": 3012,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/lipan/lpn_macaroni/lpn_macaroni_door_4r"
+                }
+            },
+            {
                 "threshold": 5001,
                 "model": {
                     "type": "model",
