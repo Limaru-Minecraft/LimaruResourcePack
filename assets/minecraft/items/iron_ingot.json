@@ -3256,6 +3256,34 @@
                 }
             },
             {
+                "threshold": 3101,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/31e/31e_empty"
+                }
+            },
+            {
+                "threshold": 3190,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/31e/31e_ext"
+                }
+            },
+            {
+                "threshold": 3198,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/31e/31e_ext_02"
+                }
+            },
+            {
+                "threshold": 3199,
+                "model": {
+                    "type": "model",
+                    "model": "item/busmodel/kt-bus/hybus/disp/31e/31e_ext_01"
+                }
+            },
+            {
                 "threshold": 46000,
                 "model": {
                     "type": "model",
