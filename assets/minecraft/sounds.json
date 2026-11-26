@@ -9,6 +9,136 @@
 			"alarm/lab_alarm"
 		]
 	},
+	"bus.bus_31e.b12652": {
+		"sounds": [
+			"bus/bus_31e/b12652"
+		]
+	},
+	"bus.bus_31e.b13046": {
+		"sounds": [
+			"bus/bus_31e/b13046"
+		]
+	},
+	"bus.bus_31e.b22652": {
+		"sounds": [
+			"bus/bus_31e/b22652"
+		]
+	},
+	"bus.bus_31e.b22850": {
+		"sounds": [
+			"bus/bus_31e/b22850"
+		]
+	},
+	"bus.bus_31e.b22947": {
+		"sounds": [
+			"bus/bus_31e/b22947"
+		]
+	},
+	"bus.bus_31e.b23046": {
+		"sounds": [
+			"bus/bus_31e/b23046"
+		]
+	},
+	"bus.bus_31e.b24262": {
+		"sounds": [
+			"bus/bus_31e/b24262"
+		]
+	},
+	"bus.bus_31e.b32658": {
+		"sounds": [
+			"bus/bus_31e/b32658"
+		]
+	},
+	"bus.bus_31e.b32945": {
+		"sounds": [
+			"bus/bus_31e/b32945"
+		]
+	},
+	"bus.bus_31e.b33045": {
+		"sounds": [
+			"bus/bus_31e/b33045"
+		]
+	},
+	"bus.bus_31e.b33062": {
+		"sounds": [
+			"bus/bus_31e/b33062"
+		]
+	},
+	"bus.bus_31e.b33246": {
+		"sounds": [
+			"bus/bus_31e/b33246"
+		]
+	},
+	"bus.bus_31e.b33264": {
+		"sounds": [
+			"bus/bus_31e/b33264"
+		]
+	},
+	"bus.bus_31e.b34364": {
+		"sounds": [
+			"bus/bus_31e/b34364"
+		]
+	},
+	"bus.bus_31e.b42658": {
+		"sounds": [
+			"bus/bus_31e/b42658"
+		]
+	},
+	"bus.bus_31e.b42945": {
+		"sounds": [
+			"bus/bus_31e/b42945"
+		]
+	},
+	"bus.bus_31e.b42947": {
+		"sounds": [
+			"bus/bus_31e/b42947"
+		]
+	},
+	"bus.bus_31e.b43026": {
+		"sounds": [
+			"bus/bus_31e/b43026"
+		]
+	},
+	"bus.bus_31e.b43045": {
+		"sounds": [
+			"bus/bus_31e/b43045"
+		]
+	},
+	"bus.bus_31e.b43246": {
+		"sounds": [
+			"bus/bus_31e/b43246"
+		]
+	},
+	"bus.bus_31e.b43264": {
+		"sounds": [
+			"bus/bus_31e/b43264"
+		]
+	},
+	"bus.bus_31e.b43346": {
+		"sounds": [
+			"bus/bus_31e/b43346"
+		]
+	},
+	"bus.bus_31e.b62850": {
+		"sounds": [
+			"bus/bus_31e/b62850"
+		]
+	},
+	"bus.bus_31e.b92355": {
+		"sounds": [
+			"bus/bus_31e/b92355"
+		]
+	},
+	"bus.bus_31e.b93346": {
+		"sounds": [
+			"bus/bus_31e/b93346"
+		]
+	},
+	"bus.bus_31e.b94661": {
+		"sounds": [
+			"bus/bus_31e/b94661"
+		]
+	},
 	"bus.bus_94e.b17264": {
 		"sounds": [
 			"bus/bus_94e/b17264"
